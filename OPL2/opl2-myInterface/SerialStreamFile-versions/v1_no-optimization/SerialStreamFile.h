@@ -12,7 +12,6 @@ class SerialStreamFile {
     uint32_t curPosition(); 
   private:
     Stream &stream;
-    long curPos;
 };
 
 #endif

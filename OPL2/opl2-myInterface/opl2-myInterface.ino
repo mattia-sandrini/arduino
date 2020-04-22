@@ -21,10 +21,6 @@
 
 
 
-
-
-
-
 void InitBluetoothDevice()
 {
   char deviceName[] = "HardBlue";
