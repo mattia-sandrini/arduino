@@ -102,7 +102,7 @@ SerialStreamFile radFile(Serial); // Serial1 (Bluetooth)
 void setup()
 {
   //Serial1.begin(9600);
-  Serial.begin(115200);
+  Serial.begin(9600);
   delay(1000);
   //InitBluetoothDevice();
 
@@ -355,21 +355,18 @@ void nextOrder(byte startLine = 0) {
   if (order >= songLength && loopSong) {
     order = 0;
   }
-  Serial.println("nextOrder -> seekSet 1");
   radFile.seekSet(orderListOffset + order);
   byte patternIndex = radFile.read();
 
   // If bit 7 is set then we're looking at an order jump.
   if (patternIndex & 0x80) {
     order = patternIndex & 0x7F;
-    Serial.println("nextOrder -> seekSet 2");
     radFile.seekSet(orderListOffset + order);
     patternIndex = radFile.read();
   }
 
   // Set file offset to the start of the next order and skip lines until we're
   // at the requested startLine.
-  Serial.println("nextOrder -> seekSet 3");
   radFile.seekSet(patternOffsets[patternIndex]);
   endOfPattern = false;
   for (line = 0; line < startLine; line ++) {
