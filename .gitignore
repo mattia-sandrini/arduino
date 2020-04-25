@@ -104,3 +104,5 @@ ENV/
 
 
 /ArduinoOPL2/*
+.idea
+.idea/*
