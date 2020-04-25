@@ -6,6 +6,7 @@
 void sendCommand(Stream *S, char* c);
 
 void setBaudRate_9600N81(Stream *S);
+void setBaudRate_115200(Stream *S);
 
 void setDeviceName(Stream *S, char* name);
 

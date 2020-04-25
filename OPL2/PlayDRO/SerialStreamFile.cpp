@@ -1,11 +1,14 @@
 #include "SerialStreamFile.h"
 
+#define CACHE_DATA_SIZE 40  // With the USB Serial 40 is a good value
 
 /*  SerialStreamFile::SerialStreamFile(Stream &streamObj) {
   this->stream = streamObj;
 }*/
 
 SerialStreamFile::SerialStreamFile(Stream &streamObj):stream(streamObj) {}
+
+
 
 bool SerialStreamFile::open(const char *path) {
   char str[256] = "OP:";
@@ -15,6 +18,21 @@ bool SerialStreamFile::open(const char *path) {
 
   this->updateCache(&this->cachedDataHead, this->curPos, 255);
   
+  return true;
+}
+
+bool SerialStreamFile::open(const char *path, int mode) {
+  if (mode == FILE_READ) {
+    return this->open(path);
+  }
+  else {
+    // Implement write mode
+  }
+}
+
+
+bool SerialStreamFile::close() {
+  this->stream.println("FN");
   return true;
 }
     
@@ -30,7 +48,7 @@ int16_t SerialStreamFile::read() {
     return this->cachedDataHead.data[relativePosHead];
   }
   else {
-    this->updateCache(&this->cachedData, this->curPos, 40);  // Update te cache and call the read method which should now access the cached data
+    this->updateCache(&this->cachedData, this->curPos, CACHE_DATA_SIZE);  // Update te cache and call the read method which should now access the cached data
     return this->read(); 
     
     /*this->stream.println("RD");
@@ -41,7 +59,11 @@ int16_t SerialStreamFile::read() {
     return data;*/
   }
 }
-    
+
+bool SerialStreamFile::seek(uint32_t pos) {
+  return this->seekSet(pos);
+}
+
 bool SerialStreamFile::seekSet(uint32_t pos) {
   int16_t relativePosHead = pos - this->cachedDataHead.offset;
   int16_t relativePos = pos - this->cachedData.offset;
@@ -59,7 +81,7 @@ bool SerialStreamFile::seekSet(uint32_t pos) {
     this->stream.println(str);
     this->curPos = pos;
   
-    this->updateCache(&this->cachedData, this->curPos, 40);
+    this->updateCache(&this->cachedData, this->curPos, CACHE_DATA_SIZE);
     
     return true;
   }
@@ -76,6 +98,10 @@ uint32_t SerialStreamFile::curPosition() {
   while (!this->stream.available())
     delayMicroseconds(1); // __ams__("nop\n\t"); // Wait roughly 62ns
   return this->stream.parseInt();*/
+}
+
+uint32_t SerialStreamFile::position() {
+  return this->curPosition();
 }
 
 bool SerialStreamFile::updateCache(Cache *cache, uint32_t offset, int len) {

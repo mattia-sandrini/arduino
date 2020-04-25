@@ -27,6 +27,13 @@ void setBaudRate_9600N81(Stream *S)
   sendCommand(S, command);
 }
 
+void setBaudRate_115200(Stream *S)
+{
+  // Baud Rate
+  char command[] = { 'A', 'T', '+', 'U', 'A', 'R', 'T', '=', '1', '1', '5', '2', '0', '0', ',', '0', ',', '0', '\0' };   
+  sendCommand(S, command);
+}
+
 
 void setDeviceName(Stream *S, char* name)
 {
@@ -71,4 +78,3 @@ void setDevicePIN(Stream *S, char* pin)
   command[i] = '\0';
   sendCommand(S, command);
 }
-

@@ -25,10 +25,15 @@ void InitBluetoothDevice()
 {
   char deviceName[] = "HardBlue";
   char devicePIN[]  = "1135";
-  /*setBaudRate_9600N81(&Serial1);
+  /*
+  setBaudRate_115200(&Serial1); // Set the Baud rate between the PC and BT module to 115200, but between arduino and the module is still 9600
+  delay(1000);
+  //setBaudRate_9600N81(&Serial1);
   setDeviceName(&Serial1, deviceName);
+  delay(1000);
   setDevicePIN(&Serial1, devicePIN);
-
+  delay(1000);
+  
   Serial1.print("AT+UART=9600,0,0");
   Serial1.write('\r');
   Serial1.write('\n');
@@ -101,19 +106,17 @@ SerialStreamFile radFile(Serial); // Serial1 (Bluetooth)
 
 void setup()
 {
-  //Serial1.begin(9600);
   Serial.begin(115200);
-  delay(1000);
+  Serial.println("Arduino is ON!");
+  
+  Serial1.begin(9600);   // This is always 9600 even when the baud rate is changed (that affect only the communication between the PC/Smartphone with the HC-06 module)
   //InitBluetoothDevice();
 
-  Serial.println("Arduino is ON!");
-  delay(500);
 
-  
   // Load one of the included RAD files.
-  //loadRadFile("adlibsp.rad");
+  loadRadFile("adlibsp.rad");
   //loadRadFile("shoot.rad");
-  loadRadFile("action.rad");
+  //loadRadFile("action.rad");
 
   //loadRadFile("Void-Dystopia.rad");
   
@@ -123,6 +126,19 @@ void setup()
 
 void loop()
 {
+  /*Serial.println("Trying AT command");
+  delay(1100);
+  //Serial1.print("AT+UART=9600,0,0");
+  Serial1.print("AT");
+  Serial1.write('\0');
+  Serial1.write('\r');
+  Serial1.write('\n');
+  //while(Serial1.available()) {
+    String a = Serial1.readString();
+    Serial.println(a);
+  //}
+  return;*/
+  
   unsigned long time = millis();
 
   if (order < songLength) {
@@ -185,8 +201,6 @@ void loop()
     Serial.write(data);
   }*/
 }
-
-#if TRUE
 
 
 /**
@@ -355,21 +369,18 @@ void nextOrder(byte startLine = 0) {
   if (order >= songLength && loopSong) {
     order = 0;
   }
-  Serial.println("nextOrder -> seekSet 1");
   radFile.seekSet(orderListOffset + order);
   byte patternIndex = radFile.read();
 
   // If bit 7 is set then we're looking at an order jump.
   if (patternIndex & 0x80) {
     order = patternIndex & 0x7F;
-    Serial.println("nextOrder -> seekSet 2");
     radFile.seekSet(orderListOffset + order);
     patternIndex = radFile.read();
   }
 
   // Set file offset to the start of the next order and skip lines until we're
   // at the requested startLine.
-  Serial.println("nextOrder -> seekSet 3");
   radFile.seekSet(patternOffsets[patternIndex]);
   endOfPattern = false;
   for (line = 0; line < startLine; line ++) {
@@ -540,5 +551,3 @@ void loadRadFile(const char* fileName) {
     patternOffsets[i] = radFile.read() + (radFile.read() << 8);
   }
 }
-
-#endif
