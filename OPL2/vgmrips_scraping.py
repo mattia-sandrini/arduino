@@ -46,11 +46,17 @@ while True:
 
                 # Parse the archive name from the url link encoded via URL encoding (% encoding)
                 archive_filename = urllib.parse.unquote(download_link[download_link.rfind('/')+1:])
+                archive_filename = archive_filename.split('.zip')[0]
                 archive_filename = archive_filename[:archive_filename.find('(')].strip('_')
                 print('\tDownloading archive "{}"'.format(archive_filename))
-                new_folder = '{}{}/'.format(download_path, archive_filename.split('.zip')[0])
-                if not os.path.exists(new_folder):
-                    os.mkdir(new_folder)
+                count = 0
+                while True:
+                    new_folder = '{}{}{}/'.format(download_path, archive_filename, '' if count==0 else '_(%d)'%count)
+                    if not os.path.exists(new_folder):
+                        os.mkdir(new_folder)
+                        break
+                    else:
+                        count += 1
 
                 archive_content = io.BytesIO(r.content)
                 folder_zipfile = ZipFile(archive_content)
@@ -79,6 +85,7 @@ while True:
         except Exception as e:
             print("\tError: "+str(e))
     # end for
+    i += 1
 # end while
 
 
