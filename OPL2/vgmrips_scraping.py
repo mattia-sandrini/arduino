@@ -3,6 +3,7 @@
 import os
 import io
 import shutil
+import urllib
 import requests
 import xml.dom.minidom
 from lxml import etree
@@ -38,7 +39,14 @@ while True:
                 if r.headers.get('Content-Type') != 'application/zip':
                     print("\tThe file has been ignored because it's not a zip archive.")
                     continue
-                archive_filename = r.headers.get('Content-Disposition').split('filename=')[1].replace('"', '')
+
+                # The Content-Disposition doesn't represent correctly utf-8 strings
+                # archive_filename = r.headers.get('Content-Disposition').encode('utf-8').decode('utf-8')
+                # archive_filename = archive_filename.split('filename=')[1].replace('"', '')
+
+                # Parse the archive name from the url link encoded via URL encoding (% encoding)
+                archive_filename = urllib.parse.unquote(download_link[download_link.rfind('/')+1:])
+                archive_filename = archive_filename[:archive_filename.find('(')].strip('_')
                 print('\tDownloading archive "{}"'.format(archive_filename))
                 new_folder = '{}{}/'.format(download_path, archive_filename.split('.zip')[0])
                 if not os.path.exists(new_folder):
@@ -46,11 +54,20 @@ while True:
 
                 archive_content = io.BytesIO(r.content)
                 folder_zipfile = ZipFile(archive_content)
-                for vgz_filename in folder_zipfile.namelist():
+                for filename in folder_zipfile.namelist():
                     try:
-                        if vgz_filename[-4:] == '.vgz':
-                            vgm_filename = vgz_filename.replace('.vgz', '.vgm')
-                            vgz_content = folder_zipfile.read(vgz_filename)
+                        # Make sure to have a lowercase extension after the last '.'
+                        dot = filename.rfind('.')
+                        if dot > 0:
+                            filename.replace(filename[dot:], filename[dot:].lower())
+
+                        if filename[-4:] == '.txt':
+                            with open(new_folder+filename, 'wb') as txt_file:
+                                txt_file.write(folder_zipfile.read(filename))
+                                txt_file.close()
+                        if filename[-4:] == '.vgz':
+                            vgm_filename = filename.replace('.vgz', '.vgm')
+                            vgz_content = folder_zipfile.read(filename)
                             vgm_content = gzip.decompress(vgz_content)
                             print('\t\tSaving file: {}'.format(new_folder+vgm_filename))
                             with open(new_folder+vgm_filename, 'wb') as vgm_file:
@@ -65,7 +82,7 @@ while True:
 # end while
 
 
-# Snippet for remaing files in a directory
+# Snippet for renaming files in a directory
 # root_dir = "audiofiles/VGM/UltimaVI-The_False_Prohpet/"
 # for entry in os.listdir(root_dir):
 #     os.rename(root_dir+entry, root_dir+entry+".vgm")
