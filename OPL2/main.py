@@ -1,25 +1,33 @@
-#!/usr/bin/env python
-"""
-A simple test server that returns a random number when sent the text "temp" via Bluetooth serial.
-"""
+#!/usr/bin python
 
 import serial  # python -m pip install pyserial
 import time
 import asyncio  # requires Python 3.7+
 import os
 
-
-# root_dir = "audiofiles/VGM/UltimaVI-The_False_Prohpet/"
-# for entry in os.listdir(root_dir):
-#     os.rename(root_dir+entry, root_dir+entry+".vgm")
-
-
 root_path = "./audiofiles/"
 root_path = "./audiofiles/RAD/"
 # root_path = "./audiofiles/IMF/"
 root_path = "./audiofiles/VGM/"
 root_path = "./audiofiles/VGM/UltimaVI/"
-root_path = "./audiofiles/VGM/Vimana/"
+root_path = "./audiofiles/VGM/Vimana_(Toaplan_1)/"          # 11
+root_path = "./audiofiles/VGM/The_Light_Corridor_(PC)/"     # 0
+root_path = "./audiofiles/VGM/The_Secret_of_Monkey_Island_(IBM_PC_AT)/"     # 0,
+# root_path = "./audiofiles/VGM/The_Real_Ghostbusters_(DECO8)/"     # 1, 0
+#
+# root_path = "./audiofiles/VGM/The_Amazing_Spider-Man_and_Captain_America_in_Dr._Doom's_Revenge_(IBM_PC_AT)/"
+# root_path = "./audiofiles/VGM/KGB_(IBM_PC_AT)/"
+# root_path = "./audiofiles/VGM/Adlib_Music_Synthesizer_Card_Demo_Songs_(IBM_PC_XT_AT)/"
+# # 14, 9, 4, 5, 6, 85, 92
+#
+# root_path = "./audiofiles/VGM/Dragon_Slayer_-_The_Legend_of_Heroes_(IBM_PC_AT)/"
+# # 0
+
+root_path = "./audiofiles/VGM/The_Simpsons_(IBM_PC_AT)/"     # 0
+root_path = "./audiofiles/VGM/Castlevania_(IBM_PC_XT_AT)/"
+root_path = "./audiofiles/VGM/Alone_in_the_Dark_(PC)/"
+root_path = "./audiofiles/VGM/Bubble_Bobble_(IBM_PC_XT_AT)/"
+
 # root_path = "./audiofiles/DRO/"
 filenames = []
 entries = os.listdir(root_path)
@@ -30,7 +38,7 @@ for entry in entries:
     i += 1
 #exit(0)
 
-index_file = 11
+index_file = 1
 rad_file = None
 
 # Read 255 bytes: b'RAD by REALiTY!!!\x06"Waterfall"\x01-----------\x01\x01RAD2 tune by VOID/REALITY in April 2018\x01(original Amiga version by 4mat/Anarchy)\x01\x01# Feel free to use this in your productions, just DON\'T FORGET THE CREDITS!!! #\x00\x01\x11String Chords LowLf@@\x00\x05\x80\xf3\x06\x00\x11\x80\xf2\x00\x00\x00\x80\xf3\x00\x00\x11\x80\xf2\x00\x02\x12Strin'
@@ -106,17 +114,17 @@ arduino.close()
 
 
 
-exit(0)
-
-port = "COM7"
-bluetooth = serial.Serial(port, 9600)
-print("Connected to: {}".format(port))
-bluetooth.flushInput()
-bluetooth.flushOutput()
-for i in range(5):
-    #bluetooth.write(b"BOOP "+str.encode(str(i)))
-    bluetooth.write(str.encode(chr(ord('a') + i)))
-    input_data = bluetooth.readline()
-    print(input_data.decode())
-    time.sleep(0.1)
-bluetooth.close()
+# exit(0)
+#
+# port = "COM7"
+# bluetooth = serial.Serial(port, 9600)
+# print("Connected to: {}".format(port))
+# bluetooth.flushInput()
+# bluetooth.flushOutput()
+# for i in range(5):
+#     #bluetooth.write(b"BOOP "+str.encode(str(i)))
+#     bluetooth.write(str.encode(chr(ord('a') + i)))
+#     input_data = bluetooth.readline()
+#     print(input_data.decode())
+#     time.sleep(0.1)
+# bluetooth.close()
