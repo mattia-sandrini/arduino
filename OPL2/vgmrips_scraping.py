@@ -70,7 +70,6 @@ while True:
                         if filename[-4:] == '.txt':
                             with open(new_folder+filename, 'wb') as txt_file:
                                 txt_file.write(folder_zipfile.read(filename))
-                                txt_file.close()
                         if filename[-4:] == '.vgz':
                             vgm_filename = filename.replace('.vgz', '.vgm')
                             vgz_content = folder_zipfile.read(filename)
@@ -78,7 +77,6 @@ while True:
                             print('\t\tSaving file: {}'.format(new_folder+vgm_filename))
                             with open(new_folder+vgm_filename, 'wb') as vgm_file:
                                 vgm_file.write(vgm_content)
-                                vgm_file.close()
                     except Exception as e:
                         print("\t\tError: "+str(e))
                 # end for
