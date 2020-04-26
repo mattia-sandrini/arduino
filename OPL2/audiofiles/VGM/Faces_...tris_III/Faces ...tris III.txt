@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Faces ...tris III
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Ed Bogas, Peter Ward,
+                     Kuswara Pranawahadi
+Game developer:      Sphere, Inc.
+Game publisher:      Spectrum Holobyte
+Game release date:   1991
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:40   -
+02 Level 0                          0:27   -
+03 Level 1                          0:30   - 
+04 Level 2                          0:53   -
+05 Level 3                          0:56   -
+06 Level 4                          0:42   -
+07 Level 5                          0:40   -
+08 Level 6                          0:32   -
+09 Level 7                          0:34   -
+10 Level 8                          0:41   -
+11 Level 9                          0:27   -
+12 High Scores                      0:10   -
+
+Total Length                        7:14   7:14
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2014-11-03 Doommaster1994: Initial
+ release.

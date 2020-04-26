@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Super Real Darwin
+System:              DECO8
+Music hardware:      YM3812
+
+Music author:        Hiroaki Yoshida
+Game developer:      Data East Corporation
+Game publisher:      Data East Corporation
+Game release date:   1987-10
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Start                            0:07   -
+02 Super Real Darwin Theme          1:36   1:35
+03 Boss Theme                       0:57   0:51
+04 Mutation                         0:34   0:20
+05 Pyramid                          0:26   0:25
+06 DNA                              0:33   0:32
+07 Chaos                            0:18   0:17
+08 Gashalva                         1:28   1:27
+09 Evolution                        1:40   1:22
+10 Gashalulu                        0:53   0:52
+11 Ending                           0:16   -
+12 Name Entry                       0:05   0:04
+
+Total Length                        8:54  16:39
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2012-11-16 Sonic of 8!: Initial release.

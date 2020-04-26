@@ -1,0 +1,89 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Eye of the Beholder II:
+                     The Legend of Darkmoon
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      YM3812
+
+Music author:        Frank Klepacki
+Game developer:      Westwood Associates
+Game publisher:      Strategic Simulations Inc.
+Game release date:   1991-??-??
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Introduction                     3:27   -
+02 Character Generation             1:31   -
+03 Old Woman                        0:34   -
+04 Temple Darkmoon                  0:15   -
+05 Nadia and Joril                  0:30   -
+06 Ira                              0:22   -
+07 Warning                          0:05   -
+08 Angry Priest                     0:03   -
+09 Catacomb Guards                  0:05   -
+10 Catacomb Guard                   0:05   -
+11 Insal Hums 1                     0:03   -
+12 Insal Hums 2                     0:04   -
+13 Insal the Quick                  0:25   -
+14 Shorn Diergar                    0:10   -
+15 Catacomb Clerics                 0:00   -
+16 Calandra                         0:22   -
+17 Khelben Blackstaff               0:31   -
+18 Nightmares                       0:26   -
+19 North Wind                       0:03   -
+20 South Wind                       0:03   -
+21 East Wind                        0:03   -
+22 West Wind                        0:03   -
+23 Wall Vanishes                    0:33   -
+24 Apparition                       0:33   -
+25 Dying Mantis Warrior             0:08   -
+26 Mantis Warrior Death             0:02   -
+27 Tanglor Asleep                   0:06   -
+28 Tanglor Awake                    0:21   -
+29 Magic Mouth                      0:09   -
+30 Incorrect Item                   0:26   -
+31 Success!                         0:06   -
+32 Trapped Cleric                   0:46   -
+33 Dran Draggore Encounter 1        0:20   -
+34 Alain                            1:01   -
+35 Dran Draggore Encounter 2        0:13   -
+36 King of the Frost Giants         0:58   -
+37 Talon                            0:04   -
+38 Ojel                             0:13   -
+39 Shrunken Frost Giant             0:23   -
+40 Teleporter Appears               0:15   -
+41 Dying Mage                       0:09   -
+42 Finale Part 1                    1:03   -
+43 Finale Part 2                    0:54   -
+44 Finale Part 3                    0:30   -
+45 Finale Part 4                    0:19   -
+46 Dran Transforms                  0:27   -
+47 Ending Theme                     2:57   -
+48 Staff Roll                       3:24   -
+49 Success! (Unused)                0:06   -
+50 Unknown Song 1                   0:16   -
+51 Unknown Song 2                   0:36   -
+
+Total Length                       26:01  26:01
+
+
+Notes:
+There are some doubles in here, but they have
+slight differences so I logged both of them.
+
+None of the songs loop.
+
+Other audio staff:
+Sound Effects: Paul S. Mudra, Dwight Okahara
+
+
+Package history:
+1.00 2015-01-21 Doommaster1994: Initial
+ release.

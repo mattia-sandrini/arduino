@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net                      *
+***********************************************
+Game name:           Truxton
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Masahiro Yuge
+Game developer:      Toaplan
+Game publisher:      Taito Corporation
+Game release date:   1988
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:02   -
+02 Brave Man                        0:16   -
+03 Far Away                         2:01   1:40
+04 Sally                            1:02   1:02
+05 Hope                             0:42   0:42
+06 Friend                           1:00   0:53
+07 Unknown                          0:58   0:58
+08 Crisis                           0:40   0:37
+09 Recollection                     0:03   -
+10 Down Fall                        0:35   -
+11 Again                            0:15   -
+
+Total Length                        7:34  13:26
+
+
+Notes:
+My first VGM Pack that uses YM3812.
+
+
+Package history:
+1.00 2012-01-21 Sonic of 8!: Initial release.

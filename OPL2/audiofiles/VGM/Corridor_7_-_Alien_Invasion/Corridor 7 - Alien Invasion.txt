@@ -1,0 +1,101 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Corridor 7: Alien Invasion
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Sound Blaster 16 (YM3812)
+
+Music author:        Joe Abbati
+Game developer:      Capstone Software
+Game publisher:      Capstone Software
+Game release date:   1994-03
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     1:06   1:06
+02 Main Menu                        0:16   0:16
+03 Floor 1                          0:44   0:44
+04 Intermission Screen              0:14   0:14
+05 Floor 2                          1:39   1:39
+06 Floor 3, 21                      2:32   2:32
+07 Floor 4                          2:53   2:53
+08 Floor 5, 27                      2:33   2:33
+09 Floor 6                          2:11   2:11
+10 Floor 7                          1:39   1:39
+11 Floor 8                          1:39   1:39
+12 Floor 9, 22                      1:41   1:41
+13 Floor 10                         2:53   2:53
+14 Floor 11                         1:44   1:44
+15 Floor 12                         2:33   2:33
+16 Floor 13                         1:28   1:28
+17 Floor 14, 28                     2:03   2:03
+18 Floor 15                         1:22   1:22
+19 Floor 16                         2:27   2:27
+20 Floor 17                         2:11   2:11
+21 Floor 18                         0:33   0:33
+22 Floor 19                         0:33   0:33
+23 Floor 20                         2:17   2:17
+24 Floor 23                         0:58   0:58
+25 Floor 24, 35                     1:14   1:14
+26 Floor 25                         2:01   2:01
+27 Floor 26                         1:50   1:50
+28 Floor 29                         1:11   1:11
+29 Floor 30                         0:41   0:41
+30 Floor 31                         0:30   0:30
+31 Floor 32                         1:41   1:41
+32 Floor 33                         0:22   0:22
+33 Floor 34                         1:00   1:00
+34 Floor 36                         0:44   0:44
+
+Total Length                      51:20 1:42:39
+
+
+Notes:
+It's the first of Capstone's two FPSes using
+the Wolfenstein 3D engine... which came out a
+few months after Doom. Oops! 
+
+It's got the same sound engine, too, so all the
+music is in IMF. All of them can be played
+in-game, and so you can record all of them
+without the use of external programs. A lot of
+it is repetitive, but some of them come off as
+at least decent. Some notes to keep in mind:
+
+* We do not know what the official names of
+  each track are, so I named them according to
+  when they're played in-game. Their original
+  IMF file names are included in the Notes tag.
+* This pack is based on the floppy version of
+  the game. The CD version reassigns some songs
+  to different floors, but the FM soundtrack is
+  otherwise the same.
+* The "Floor 5, 27" and "Floor 10" songs may
+  sound like copies of one song when you first
+  listen to them, but they're actually two
+  distinct versions of that song. There are
+  also a bunch of short, repetitive loops used
+  on some levels instead of full songs, such
+  as "Floor 18" and "Floor 19." These lead me
+  to believe that they used the musician's
+  entire song directly when putting the
+  soundtrack together rather than just picking
+  the finished ones.
+
+Special thanks to Krzysztof Nikiel for the
+AudioT Wolfenstein Pack Extractor and to Simon
+Peter for the AdPlug plug-in; these programs
+allowed me to extract the IMF files to learn
+their filenames, and to check loop points,
+respectively.
+
+
+Package history:
+1.00 2013-03-16 The Green Herring: Initial
+ release.

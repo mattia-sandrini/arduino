@@ -1,0 +1,67 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Eol-ui Moheom
+                     (trans: Eol's Adventure)
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Sung-Wook Moon
+Game developer:      Family Production
+Game publisher:      Gameland
+Game release date:   1995-09-06
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.03
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          1:19   1:19
+02 Title                            0:58   -
+03 Stage 1-1                        1:44   1:44
+04 Stage 1-2                        1:12   1:12
+05 Stage 2-1                        1:12   1:12
+06 Stage 2-2                        1:01   1:01
+07 Stage 3-1                        1:30   1:30
+08 Stage 3-2                        1:19   1:19
+09 Stage 4-1                        0:58   0:58
+10 Stage 4-2                        1:29   1:29
+11 Stage 5-1                        1:04   1:04
+12 Stage 5-2                        1:06   1:05
+13 Stage 6-1                        0:55   0:55
+14 Stage 6-2                        0:50   0:50
+15 Boss 1 [Stage 1, 2, 3]           0:50   0:50
+16 Boss 2 [Stage 4, 5, 6]           1:18   1:18
+17 Boss 3 [defeated]                0:11   -
+18 Ending                           1:24   1:24
+19 Continue [in-game]               0:10   0:10
+20 Clear [in-game]                  0:09   -
+21 Over [in-game]                   0:07   -
+
+Total Length                       20:45  40:03
+
+
+Notes:
+Ripped using Valley Bell's DOSBox 0.74 mod.
+Used original .EMF files (which were actually
+.IMS files, a Korean ROL-like music format)
+played through OCPLAY.
+
+Following songs have seeking noise issues:
+ -Boss 2 (ringing sine, channel 5)
+ -Stage 4-1 (ringing sine, channel 6)
+ -Stage 5-1 (ringing sine, channel 7)
+
+
+Package history:
+1.00 2012-12-29 dj.tuBIG/MaliceX: Initial
+ release.
+1.01 2013-11-24 dj.tuBIG/MaliceX: Re-logged
+ release.
+1.02 2015-10-03 dj.tuBIG/MaliceX: Tag fix,
+ author.
+1.03 2015-12-04 Valley Bell: Fixed system tag
+ of song 06.

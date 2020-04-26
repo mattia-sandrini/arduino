@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Zero Team (W) /
+                     Zero Team U.S.A. (U) /
+                     Zero Team Selection /
+                     New Zero Team /
+                     Zero Team 2000
+System:              Arcade Machine
+Music hardware:      YM3812, OKIM6295
+
+Music author:        Reiichi Yamanaka
+ Sound Effects:      Gou Satoh
+Game developer:      Seibu Kaihatsu
+Game publisher:      Seibu Kaihatsu (J) /
+                     Fabtek (U) /
+                     Dream Soft (K) /
+                     Liang Hwa (TW)
+Game release date:   1993-05 /
+                     1998-01 (New Zero Team) /
+                     2000-04 (Zero Team 2000)
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:01   -
+02 Player Select                    0:10   0:10
+03 Stage 1, Final Stage             1:10   1:01
+04 Stage 1,4 Boss, Final Boss 1     0:56   0:52
+05 Stage Clear                      0:03   -
+06 Stage 2, 5-2                     1:02   0:56
+07 Stage 2, 5 Boss                  0:44   0:38
+08 Stage 3                          0:57   0:41
+09 Stage 3 Boss, Stage 6 Sub-Boss   1:23   1:00
+10 Bonus Stage                      0:09   0:06
+11 Stage 4-1, 5-1                   1:24   1:24
+12 Stage 4-2                        1:13   1:13
+13 Stage 5-3                        0:53   0:53
+14 Final Boss 2                     1:35   1:06
+15 A Commendation Ceremony          0:14   0:14
+16 Staff Roll                       0:51   -
+17 Game Over                        0:02   -
+
+Total Length                       12:46  23:01
+
+
+Notes:
+This pack was made using MAME 0.152 VGM mod.
+
+
+Package history:
+1.00 2014-09-02 GTheGuardian: Initial release.

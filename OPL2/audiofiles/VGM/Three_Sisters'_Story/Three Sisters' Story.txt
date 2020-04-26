@@ -1,0 +1,59 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Three Sisters' Story
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Naofumi Nakaigawa
+Game developer:      JAST Co. Ltd. /
+                     Sakura Soft
+Game publisher:      JAST USA
+Game release date:   1996
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Start 1 [Logo]                   0:03   -
+02 Start 2 [Title]                  0:06   -
+03 Prologue                         0:31   0:26
+04 Rivalry                          0:52   0:37
+05 Song of Home                     0:16   0:16
+06 Song of Okamura House 1          0:48   0:44
+07 Morning Song                     0:54   0:53
+08 Risa's Theme                     1:48   1:18
+09 Downtown                         0:47   0:47
+10 School                           0:19   0:19
+11 Inside Miyama Corporation
+   Building                         0:41   0:33
+12 Building                         0:45   0:45
+13 Security Guard Theme             0:30   0:24
+14 Building Top Floor               0:45   0:36
+15 Eiichi's Theme                   0:22   0:21
+16 Song of Okamure House 2          0:38   0:30
+17 H Scene                          0:52   0:28
+18 H Scene (School)                 0:40   0:40
+19 Eiichi plunge during the fire
+   scene                            1:05   1:05
+20 Game Over                        0:25   0:25
+21 Ending 1                         1:10   1:02
+22 Ending 2                         1:19   1:10
+
+Total Length                       15:36  28:55
+
+
+Notes:
+Playback w/ GMPv4 (PMDIBM) using DOSBOX 0.74
+mod.
+
+Track titles taken from hoot's jast.xml
+playlist.
+
+
+Package history:
+1.00 2014-07-08 dj.tuBIG/MaliceX: Initial rel.

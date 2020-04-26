@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Test Drive III:
+                     The Passion
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      YM3812
+
+Music author:        Russell Shiffer
+Game developer:      Accolade
+Game publisher:      Accolade
+Game release date:   1990
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main Theme                       0:26   0:26
+02 Game Options                     0:49   0:49
+03 Pacific-Yosemite Station #1      0:33   0:33
+04 Pacific-Yosemite Station #2      0:34   0:34
+05 Pacific-Yosemite Station #3      0:41   0:41
+06 Cape Cod-Niagara Station #1      0:28   0:28
+07 Cape Cod-Niagara Station #2      1:09   1:09
+08 Cape Cod-Niagara Station #3      0:42   0:42
+
+Total Length                        5:22  10:43
+
+
+Notes:
+Includes the music from the Road & Car addon.
+
+Tools: DOSBox-VGM, vgm_cmp
+
+
+Package history:
+1.00 2017-03-18 NewRisingSun: Initial release.

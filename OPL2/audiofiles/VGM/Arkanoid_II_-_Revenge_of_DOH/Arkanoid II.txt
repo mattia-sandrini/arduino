@@ -1,0 +1,46 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Arkanoid II:
+                     Revenge of DOH
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Hisayoshi Ogura
+Game developer:      Novalogic
+Game publisher:      Taito
+Game release date:   1989
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:31   0:31
+02 Introduction                     0:07   -
+03 Round Start                      0:04   -
+04 Game Over                        0:01   -
+05 High Score                       0:12   0:12
+06 DOH Stage Introduction (unused)  0:04   -
+07 DOH Stage                        0:23   0:23
+08 Ending                           0:37   -
+
+Total Length                        1:59   3:05
+
+
+Notes:
+The function call to start Track 6 is actually
+made, but the song is immediately replaced by
+Track 3.
+
+The music is 16 per cent slower on EGA or Tandy
+1000 machines. This pack represents the music
+speed as heard when running the game on a VGA
+machine.
+
+
+Package history:
+1.00 2017-10-02 NewRisingSun: Initial release.

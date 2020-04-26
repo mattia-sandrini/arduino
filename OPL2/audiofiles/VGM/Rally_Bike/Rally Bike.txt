@@ -1,0 +1,55 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Rally Bike (U) /
+                     Dash Yarou (J)
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Osamu Ohta
+Game developer:      Toaplan
+Game publisher:      Taito
+Game release date:   1988
+
+Package created by:  2ch-H
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:01   -
+02 Ingnition                        0:06   -
+03 Macosa (Stage 1 San Francisco)   1:36   1:35
+04 Gas Station                      0:07   -
+05 Congra (Clear)                   0:28   0:28
+06 South Wind (Stage 2 Los Angeles) 0:58   0:58
+07 Dixie Line (Bonus Game)          0:47   0:47
+08 Sand Storm (Stage 3 Phoenix)     1:03   1:03
+09 Den (Stage 4 Denver)             0:36   0:36
+10 Black Tea (Stage 5 Boston)       0:40   0:32
+11 Second Line (Stage 6 New York)   0:32   0:32
+12 Crashed                          0:03   -
+13 Cut Off (Defeat in Qualifying)   0:18   0:18
+14 Game Over                        0:06   -
+15 Continue                         0:08   -
+16 Sun Set (Name Entry)             0:37   -
+17 America Bye Bye (All Clear)      0:36   0:24
+
+Total Length                        8:42  15:53
+
+
+Notes:
+Track Names are used in use scene and
+Tatsujin ~Toaplan Game Music Scene One~.
+
+This pack was made using M1 VGM mod v0.7.9a1.
+
+
+Size reduction (vgm_cmp):
+    12.5 MB -> 126 KB (0.9 %)
+
+
+Package history:
+1.00 2012-11-03 2ch-H: Initial release.
+1.01 2012-12-27 2ch-H: Fixed typo.

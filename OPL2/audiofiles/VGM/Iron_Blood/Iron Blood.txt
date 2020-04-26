@@ -1,0 +1,54 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Iron Blood
+                     (aka: Interrupt: Bloody
+                     Signal)
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        D.A.C.
+ in particular:      Seung-Hwan Ro,
+                     Myung-Jin Ahn
+Game developer:      Family Production
+Game publisher:      Microforum International
+Game release date:   1996
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Family Production Logo           0:06   -
+02 Introduction                     1:32   -
+03 Select                           0:51   0:51
+04 Stage 1                          0:39   0:39
+05 Boss                             0:44   0:44
+06 Stage 2                          1:04   1:04
+07 Stage 3                          0:55   0:55
+08 Stage 4                          0:45   0:45
+09 Stage 5                          0:37   0:37
+10 Stage 6 & 7                      1:10   1:10
+11 Stage 8 [final]                  0:40   0:40
+12 Stage Clear                      0:08   -
+13 Continue                         0:32   0:32
+14 Ending 1                         0:55   0:55
+15 Ending 2                         1:18   1:18
+16 High Score                       1:01   1:01
+
+Total Length                       12:57  24:07
+
+
+Notes:
+Ripped using Valley Bell's DOSBox 0.74 mod.
+Used original .FX4 files (which were actually 
+.IMS files, a Korean ROL-like music format)
+played through OCPLAY.
+
+
+Package history:
+1.00 2013-11-25 dj.tuBIG/MaliceX: Initial rel.
+1.01 2015-10-03 dj.tuBIG/MaliceX: DAC real name

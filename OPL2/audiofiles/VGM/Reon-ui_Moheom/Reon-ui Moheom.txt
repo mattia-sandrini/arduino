@@ -1,0 +1,77 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Reon-ui Moheom
+                     (trans.: Reon's Adventure)
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      OPL2 (YM3812)
+
+Music author:        unknown
+Game developer:      Family Production
+Game publisher:      Incom I&C
+Game release date:   1994-12
+
+Package created by:  Valley Bell
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Stage 1                          1:50   1:50
+02 Stage 2                          2:07   2:07
+03 Stage 3                          1:46   1:46
+04 Stage 4                          2:10   2:10
+05 Stage 5                          1:43   1:43
+06 Stage 6                          1:40   1:40
+07 Stage 7                          1:44   1:44
+
+Total Length                       12:59  25:59
+
+
+Notes:
+I guess I'm starting to rip the Korean DOS
+games MaliceX doesn't have time for? :P
+
+Anyway, this ia a very neat soundtrack for a
+decent platforming game that seems to be the
+predecessor to Shakii the Wolf.
+
+
+The songs don't loop nicely ingame, so I
+patched the IMS songs to include additional
+delays at the end.
+
+Ripped using DOSBox 0.74 and OCPLAY 2.0.
+
+I usually prefer to rip music ingame, but the
+sound engine is broken and ignores quarter-
+delay-commands. (They probably did that to work
+around a bug in one of the songs, but it also
+breaks others.)
+
+The songs are ripped from the demo version
+from Family Production's homepage, because
+the only "full" version I found contained only
+stages 1-3. Luckily Family Production's demos
+usually include the full soundtrack.
+
+The game comes with two instrument banks:
+REON.BNK and REON2.BNK. The bank to use is
+hardcoded into the level EXE files, which I
+don't have for all stages.
+Fortunately, REON2.BNK has all instruments from
+REON.BNK (I confirmed that by comparing them
+manually), so I could just use REON2.BNK for
+all songs.
+
+
+Size reduction:
+1. vgm_smp1: 391 KB -> 376 KB (96.2 %)
+2. vgm_cmp: 376 KB -> 224 KB (59.5 %)
+Total: 391 KB -> 224 KB (57.2 %)
+
+
+Package history:
+1.00 2016-02-08 Valley Bell: Initial release.

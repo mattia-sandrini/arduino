@@ -1,0 +1,54 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Out Zone
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Tatsuya Uemura
+Game developer:      Toaplan
+Game publisher:      Tecmo
+Game release date:   1990-08
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:01   -
+02 Operation (Start) - To the Earth
+   (Ver 1.0) (Chapter 1)            1:11   0:58
+03 Pump Them with Bullets
+   (Chapter 2)                      1:16   0:48
+04 Hired Gun in O,Z (Chapter 3)     1:08   1:08
+05 Soldier a GoGo (Chapter 4)       0:45   0:44
+06 Secret of Ogiwara (Chapter 5)    1:32   1:31
+07 Close to Finish (Chapter 6)      0:56   0:56
+08 Get the Last Laugh (Chapter 7)   1:03   0:59
+09 Flower of Victory (Ending)       0:18   -
+10 Game Over                        0:04   -
+11 For Tomorrow (Continue)          0:10   -
+12 Eternal Life (Name Entry)        0:45   -
+13 To the Earth (Ver 1.1)
+   (Chapter 1, when skipped demo
+   scene)                           1:05   0:58
+14 To the Earth (Ver 1.0)
+   (Chapter 1)                      0:58   0:58
+
+Total Length                       11:12  20:11
+
+
+Notes:
+Track Names are used in Out Zone Snow Bros OST.
+
+This pack was made using M1 VGM mod v0.7.9a1.
+
+
+Size reduction (vgm_cmp):
+    16.2 MB -> 187 KB (1.1 %)
+
+
+Package history:
+1.00 2012-11-09 2ch-H: Initial release.

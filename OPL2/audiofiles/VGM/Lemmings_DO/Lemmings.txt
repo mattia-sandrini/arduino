@@ -1,0 +1,146 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+
+Game name:           Lemmings Series
+System:              PC / DOS
+Music Hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Brian Johnston / Tim
+                      Wright / Tony Williams /
+                      various composers
+Game developer:      DMA Design
+Game publisher:      Psygnosis
+Game release date:   1991
+
+Package created by:  Valley Bell
+Package version:     0.95
+
+Song list, in approximate game order:
+
+Song name                           Length:
+                                    Total  Loop
+00 Let's Go!                        0:02   -
+01 Lemming 1                        0:53   0:53
+02 Lemming 2                        1:45   1:45
+03 Lemming 3                        1:08   1:08
+04 She'll Be Coming 'Round The
+    Mountain When She Comes         0:53   0:53
+05 Ten Lemmings                     1:03   1:03
+06 Can-Can                          0:53   0:53
+07 Tim 1                            0:47   0:47
+08 Tim 2                            0:55   0:55
+09 Tim 3                            1:19   1:19
+10 Tim 4                            1:35   1:35
+11 How Much Is That Doggy In The
+    Window?                         0:45   0:44
+12 Tim 5                            1:27   1:27
+13 Tim 6 - Dance of the Reed-Flutes 1:11   1:11
+14 Tim 7 - Ronda Alla Turca         1:03   1:03
+15 Tim 8 - Dance Of The Four Little
+    Swans                           1:03   1:03
+16 Tim 9 - London Bridge Is Falling
+    Down                            0:55   0:55
+17 Tim 10                           1:19   1:19
+18 Beast                            1:24   1:24
+19 Menace                           1:32   1:32
+20 Awesome                          1:08   1:08
+21 BeastII                          1:26   1:26
+O1 Tune 1                           1:24   1:24
+O2 Tune 2                           0:47   0:47
+O3 Tune 3                           0:56   0:56
+O4 Tune 4                           1:23   1:23
+O5 Tune 5                           2:06   1:54
+O6 Tune 6                           1:14   1:14
+X1 Jingle Bells                     1:25   0:42
+X2 It's Good King Wenceslas         1:18   0:55
+D1 Can-Can                          0:43   0:43
+
+Total Length (All Tracks)         35:01 1:08:43
+Total Length (Lemmings)           24:27   48:52
+Total Length (Oh No! More Lemmings)7:51   15:31
+Total Length (Xmas Lemmings)       4:02    6:58
+
+Notes:
+Ripped with DOSBox 0.65 and DOSBox 0.74.
+
+Thanks to Maxim from SMSPower.org. Many track
+descriptions are from his VGM pack for the
+SMS/GG Lemmings version.
+
+
+Tony Williams did the port of the songs of the
+original Lemmings and made all songs of ONML
+and Xmas Lemmings.
+The music ports of the original Lemmings are
+quite straight, but very well done. The port of
+ONML a little freer. The music of Xmas Lemmings
+is entirely different from the Amiga version.
+(Note: It really includes the Tim 10-track of
+the original Lemmings.)
+
+The Christmas Lemmings games were called "XMas
+Lemmings" in 1991/1992 and "Christmas Lemmings"
+(UK) / "Holiday Lemmings" (US) in 1993/1994.
+
+Holiday Lemmings 1994 uses the music of ONML.
+
+
+The Can-Can from Lemmings Demo isn't included
+inany playlist because it sounds so poor that
+it simply doesn't fit to the rest of the music.
+Actually it should be placed before the
+"Let's Go!" track of Lemmings, but everybody
+would think "What crappy music is this?!".
+I thought that too, when I first heard it.
+
+Oh No! More Lemmings is sometimes referred to
+as the "data disk".
+
+
+These files have a really long story, because
+they were laying on my HD for 2 years before I
+finally started to trim them.
+Also I had to rip them 2-3 times because DOSBox
+either optimized them vgm_cmp-like, making it
+impossible to make cleanly trimmed vgms, or
+were played too slow because I selected a wrong
+PC type ("High Performance PCs" instead of
+"PC compatibles").
+
+The table below shows all the 3 tries. The good
+rips at Try #1 were done with DB 0.65, the bad
+ones with DB 0.72. All rips in 2011 were done
+with a modified DOSBox 0.74 (to remove the
+vgm_cmp feature).
+The "Special Tunes" are the tunes from the
+special levels in the original Lemmings.
+		Try #1			Try #2 (slow)	Try #3 (good)
+Lemmings:	02.12.2009 (good)	27./28.01.2011	---
+Special Tunes:	---			19.01.2011	29.01.2011
+OhNoMore:	04.12.2009 (opt)	19.01.2011	29.01.2011
+XMas Lem:	06./25.12.2009 (opt)	19.01.2011	29.01.2011
+
+Trimming was fairly easy, but I had to write a
+small tool that corrected some KeyOff-commands
+after the loop point. It was most noticable in
+the Doggie-tune where the note that fades after
+looping back got horribly out of tune, because
+a KeyOff-Command changed the frequency of the
+fading note.
+The first loop wasn't affected as there was no
+note playing (or even fading).
+
+
+That's all I've got to say about the tunes. And
+I'm glad it's not more and I've finished it.
+
+Enjoy!
+-Valley Bell
+
+
+Package history:
+0.95 2011/02/01 Valley Bell: Initial release.
+1.00 2011/03/24 Valley Bell: Completed Tags and
+ notes, more accurate release dates.

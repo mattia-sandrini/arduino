@@ -1,0 +1,55 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Ultima VI:
+                     The False Prophet
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Kenneth W. Arnold,
+                     Kathleen Jones,
+                     Herman Miller,
+                     Todd Mitchell Porter,
+                     David Watson
+Game developer:      Origin Systems
+Game publisher:      Origin Systems
+Game release date:   1990
+
+Package created by:  NewRisingSun
+Package version:     1.03
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Can't Remove the Pain (Bootup)   1:48   1:48
+02 Ultima Theme (Main Menu)         1:59   1:59
+03 I Hear You Crying (Character
+   Generation)                      1:36   1:36
+04 Fall Leaves (Introduction)       0:48   0:40
+05 Engagement and Melee (Combat)    1:04   1:04
+06 Rule, Britannia!                 0:37   0:37
+07 Black Forest                     1:38   1:28
+08 The Wander (Dungeon)             0:53   0:53
+09 Stones (by Iolo & Gwenno)        2:32   -
+10 Cap'n Johne's Hornpipe           0:41   0:41
+11 Audchar Gargl Zenmur             0:37   0:37
+12 Ending                           0:37   0:37
+
+Total Length                       14:53  26:55
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2017-05-01 NewRisingSun: Initial release.
+1.01 2017-05-09 NewRisingSun: Fixed Game tag.
+1.02 2017-05-09 NewRisingSun: Changed loop on
+ track 4.
+1.03 2017-06-18 NewRisingSun: Corrected tempo.
+ Also take into account that track 4 had
+ an earlier loop point. Fix spelling of
+ game title.

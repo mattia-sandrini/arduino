@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Space 1889
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Derek Schofield
+Game developer:      Paragon Software
+Game publisher:      Paragon Software
+Game release date:   1990
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:37   -
+02 Game Over                        0:20   -
+03 Victory Theme                    0:50   -
+
+Total Length                        1:47   1:47
+
+
+Notes:
+I named the songs after the .ROL files because
+I don't know how to play through the game.
+
+If you hear a long moment of silence after a
+song, it is because the instruments are still
+decaying into silence.
+
+Music was logged in AdLib Visual Composer.
+
+
+Package history:
+1.00 2015-02-08 Doommaster1994: Initial
+ release.

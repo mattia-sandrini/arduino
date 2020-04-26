@@ -1,0 +1,109 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net                      *
+***********************************************
+Game name:           Lemmings 3D
+System:              PC / DOS
+Music hardware:      Sound Blaster/OPL2
+                     (YM3812)
+
+Music author:        Phil Morris
+Game developer:      Clockwork Games
+Game publisher:      Psygnosis
+Game release date:   1995
+
+Package created by:  Valley Bell
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening Title                    0:59   0:48
+02 Fun Rating Jingle                0:11   -
+03 Army 1                           2:17   2:08
+04 Garden 1                         1:48   1:48
+05 Circus 1                         1:41   1:41
+06 Computer Zone 1                  1:32   1:17
+07 Egypt 1                          2:17   1:17
+08 Tricky Rating Jingle             0:11   -
+09 Alien 1                          1:17   1:17
+10 Golf 1                           2:21   1:51
+11 Medieval 1                       2:02   2:01
+12 Lego 1                           2:00   2:00
+13 Sweet Land 1                     1:43   1:39
+14 Alien 2                          1:36   1:36
+15 Lego 2                           1:55   1:54
+16 Garden 2                         1:32   1:32
+17 Taxing Rating Jingle             0:11   -
+18 Computer Zone 2                  2:00   1:44
+19 Army 2                           1:50   1:50
+20 Failed                           0:05   -
+21 Egypt 2                          2:08   2:06
+22 Sweet Land 2                     1:43   1:39
+23 Medieval 2                       2:00   2:00
+24 Circus 2                         1:41   1:32
+25 Golf 2                           1:49   1:41
+26 Garden 3                         1:50   1:50
+27 Lego 3                           2:02   1:51
+28 Mayhem Rating Jingle             0:19   -
+29 Alien 3                          1:13   1:12
+30 Sweet Land 3                     1:26   1:21
+31 Army 3                           1:38   1:34
+32 Circus 3                         1:50   1:32
+33 Medieval 3                       1:26   1:26
+34 Golf 3                           1:19   1:17
+35 Egypt 3                          2:15   1:39
+36 Computer Zone 3                  1:40   1:24
+37 Success                          0:08   -
+38 Ending and Main Menu             0:49   0:48
+
+Total Length                      56:46 1:48:01
+
+
+Notes:
+"This is real jewel between the PC Midi game
+music, enjoy it!" (quote from Mirsoft MIDI rip)
+
+I got the track order from the MIDI rip hosted
+on www.mirsoft.info.
+
+
+Each zone theme has three variants.
+Variant 1 is the original theme.
+Variant 2 is a slight variation of variant 1.
+Variant 3 is a complete remix that is
+completely different to variant 1/2, aside from
+reusing a few motifs.
+
+
+Note: Some songs have small bugs (like Egypt 3,
+where the bass drum overrides the snare drum).
+Maybe I'll fix them in the original MIDIs and
+add fixed logs.
+
+
+Ripped with DOSBox 0.74.
+
+At the beginning, this rip was one of the
+hardest ones I ever made. Why?
+1. There are many songs.
+2. The sound engine doesn't synchronize the
+channels 100%, making vgmlpfnd useless.
+3. It does the same as vgm_cmp, causing wrong
+pitched tones, it you don't trim after the
+at least one note played on each channel.
+
+Luckily I wrote a snd2mid converter for L3D's
+MIDIs some time before, so it helped me to find
+the loops and I had vgm2mid, which helped to
+find the right start sample.
+
+In the end, the trimming process was just
+tendious and less difficult than expected.
+
+
+Anyway, enjoy this great soundtrack.
+
+
+Package history:
+1.00 2012-04-21 Valley Bell: Initial release.

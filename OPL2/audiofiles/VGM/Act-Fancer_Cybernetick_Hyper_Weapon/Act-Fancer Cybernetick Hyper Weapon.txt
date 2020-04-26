@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Act-Fancer Cybernetick
+                     Hyper Weapon
+System:              Arcade Machine
+Music hardware:      YM2203, YM3812
+
+Music author:        Azusa Hara,
+                     Hiroaki Yoshida,
+                     Shuji Segawa,
+                     Tatsuya Kiuchi,
+                     Koma,
+                     Moriken
+Game developer:      Data East
+Game publisher:      Data East
+Game release date:   1989
+
+Package created by:  MATRIX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Start                            0:02   -
+02 Sci-Vax (BGM 1)                  1:20   0:40
+03 Feurer (Boss 1 / Demo)           1:47   0:43
+04 Clear                            0:04   -
+05 Ghost Area (BGM 2)               1:01   0:57
+06 Balzoeq (Boss 2)                 0:29   0:29
+07 Cyber Brain (BGM 3)              1:10   1:09
+08 Grounatos (Boss 3)               0:14   0:09
+09 Geagalze (Last Boss)             0:38   0:23
+10 Demise (Ending)                  2:53   2:52
+11 Continue                         0:05   0:04
+12 Naming                           0:09   0:08
+
+Total Length                        9:51  17:26
+
+
+Notes:
+Track Names are used in
+Game Sound Deco ~ G.S.M. Data East 1 ~
+(D25B-1002) and Data East Retro Game Music
+Collection (KDSD-00366).
+
+This pack was made using M1 v0.79a1 VGM mod.
+
+
+Package history:
+1.00 2017-09-15 MATRIX: Initial release.

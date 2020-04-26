@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Pea Shootin' Pete
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Dan Froelich,
+                     David Bredesen
+Game developer:      Pack Media Company, Inc.
+Game publisher:      MindStorm Software
+Game release date:   1994
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Theme                      0:48   0:48
+02 Death Bot Conflict [World 1]     2:51   2:51
+03 The Orion Ordeal [World 2]       4:40   4:40
+04 Search for Evil [World 3]        4:31   4:31
+
+Total Length                       12:50  25:40
+
+
+Notes:
+Playback in-game w/ DOSBOX 0.74 mod
+
+
+Package history:
+1.00 2014-10-17 dj.tuBIG/MaliceX: Initial rel.

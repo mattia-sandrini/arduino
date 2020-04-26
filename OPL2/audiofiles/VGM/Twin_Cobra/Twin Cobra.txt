@@ -1,0 +1,49 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Twin Cobra (U) /
+                     Kyukyoku Tiger (J)
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Tatsuya Uemura,
+                     Masahiro Yuge
+Game developer:      Toaplan
+Game publisher:      Taito
+Game release date:   1987
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:02   -
+02 Challenger (Opening Theme)       0:16   -
+03 Break A Leg! (Stage 1, 6)        0:42   0:42
+04 I'm Victor (Landing Theme)       0:24   -
+05 Over The Sea (Stage 2, 7)        1:21   1:20
+06 Good Figure (Stage 3, 8)         1:01   1:01
+07 Tsugaru (Stage 4, 9)             1:17   1:16
+08 Our Life (Stage 5, 10)           0:58   0:58
+09 The End (Game Over)              0:05   -
+10 Affection (Name Storage)         0:37   -
+11 Next Dream (Continue Theme)      0:11   -
+
+Total Length                        6:55  12:11
+
+
+Notes:
+Track Names are used in
+Toaplan Co.,Ltd. Shooting Chronicle.
+
+This pack was made using M1 VGM mod v0.7.9a1.
+
+
+Size reduction (vgm_cmp):
+    10.0 MB -> 215 KB (2 %)
+
+
+Package history:
+1.00 2012-10-24 2ch-H: Initial release.

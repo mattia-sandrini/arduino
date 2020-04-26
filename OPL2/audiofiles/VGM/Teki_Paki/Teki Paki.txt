@@ -1,0 +1,54 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Teki Paki (W) /
+                     Sennou Game Teki-Paki (J)
+System:              Toaplan 2
+Music hardware:      YM3812
+
+Music author:        Tomoaki Takanohashi
+Game developer:      Toaplan
+Game publisher:      Toaplan
+Game release date:   1991-06
+
+Package created by:  ctr
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Coin                             0:03   -
+02 G.E.A.R.                         1:45   1:45
+03 Higher                           1:49   1:49
+04 Quick, Junk, Sequence            2:11   2:11
+05 Epilogue                         0:05   -
+06 Le-Vel                           0:10   -
+07 Mechatropolis                    0:33   0:33
+
+Total Length                        6:37  12:56
+
+
+Notes:
+This game uses an MCU with an 'undumpable'
+internal ROM to store and play the music data.
+
+Well the impossible has now been done and the
+chip has been decapped, allowing the contents
+to be read and the music finally emulated in
+three Toaplan games previously lacking sound:
+Vimana, Fire Shark and Teki Paki.
+
+For those interested in how the chips were
+dumped, check here:
+
+http://caps0ff.blogspot.com/2016/12/hd647180-19-58-102-terrific-toaplan.html
+
+Again thanks to caps0ff and the MAME team for
+making this pack possible...
+
+Enjoy!
+
+
+Package history:
+1.00 2016-12-23 ctr: Initial release

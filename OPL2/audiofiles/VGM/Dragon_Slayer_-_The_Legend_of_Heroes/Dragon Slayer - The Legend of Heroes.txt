@@ -1,0 +1,50 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Dragon Slayer: The Legend
+                     of Heroes
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        SoundTeMP (arrange),
+                     Falcom Sound Team J.D.K.
+Game developer:      Nihon Falcom / MANTRA
+Game publisher:      Samsung
+Game release date:   1995
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening Theme                    4:51   -
+02 Utility                          0:44   0:41
+03 The March of Heroes              0:22   0:22
+04 Town                             2:08   2:07
+05 Field                            1:30   1:29
+06 Dungeon                          1:47   1:47
+07 Battle                           0:41   0:41
+08 Neargead Castle                  2:56   2:56
+09 The Voice of God                 2:09   1:55
+10 Event Clear                      0:07   -
+11 Ship                             0:53   0:51
+12 Pirate Island                    2:32   2:23
+13 Dragon                           1:25   1:23
+14 Ending                           4:47   -
+15 Ending 2                         2:05   1:50
+
+Total Length                       28:58  47:25
+
+
+Notes:
+Playback via OCPLAY in DOSBOX 0.74 mod.
+
+Composer breakdown for neither SoundTeMP nor
+Falcom Sound Team J.D.K. are known.
+
+
+Package history:
+1.00 2014-03-08 dj.tuBIG/MaliceX: Initial rel.

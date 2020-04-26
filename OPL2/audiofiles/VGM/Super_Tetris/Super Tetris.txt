@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Super Tetris
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Ed Bogas, Paul Mogg
+Game developer:      Sphere, Inc.
+Game publisher:      Spectrum HoloByte, Inc.
+Game release date:   1991
+
+Package created by:  MrKsoft
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:42   -
+02 Level 1                          0:36   -
+03 Level 2                          0:45   -
+04 Level 3                          0:43   -
+05 Level 4                          0:52   -
+06 Level 5                          0:24   -
+07 Level 6                          0:30   -
+08 Level 7                          0:27   -
+09 Level 8                          0:46   -
+10 Level 9                          0:21   -
+11 Level 10                         0:21   -
+12 High Scores                      0:37   -
+
+Total Length                        7:05   7:05
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2013-07-21 MrKsoft: Initial release.

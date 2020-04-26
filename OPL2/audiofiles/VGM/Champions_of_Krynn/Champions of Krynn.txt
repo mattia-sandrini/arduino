@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Champions of Krynn
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        John Halbleib
+Game developer:      Strategic Simulations,
+                     Inc.
+Game publisher:      SSI, Inc./TSR, Inc.
+Game release date:   1990
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     2:25   -
+
+Total Length                        2:25   2:25
+
+
+Notes:
+Rob Hubbard is credited as:
+Musical Driver: Electronic Arts
+John told me 'Electronic Arts' was Rob Hubbard.
+
+
+Package history:
+1.00 2014-08-26 Doommaster1994: Initial
+ release.

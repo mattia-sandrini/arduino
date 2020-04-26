@@ -1,0 +1,33 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           The Cycles: International
+                     Grand Prix Racing
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Kris Hatlelid
+Game developer:      Distinctive Software Inc.
+Game publisher:      Accolade Inc.
+Game release date:   1989-09-16
+
+Package created by:  Tom
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:29   0:29
+02 Choose Game Type                 0:36   0:30
+03 Podium                           0:41   0:41
+
+Total Length                        1:46   3:26
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2012-06-15 Tom: initial release

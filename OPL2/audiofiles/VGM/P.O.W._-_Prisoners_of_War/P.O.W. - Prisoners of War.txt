@@ -1,0 +1,58 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           P.O.W.: Prisoners of War
+                     (U) / Datsugoku:
+                     Prisoners of War (J)
+System:              SNK 68000
+Music hardware:      YM3812, uPD7759
+
+Music author:        Toshikazu Tanaka,
+                     Yoko Osaka,
+                     Kazuhiro Nishida
+Game developer:      SNK
+Game publisher:      SNK
+Game release date:   1988-11
+
+Package created by:  2ch-H
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Boot                             0:01   -
+02 Title                            1:24   1:24
+03 Credit                           0:01   -
+04 Start                            0:03   -
+05 Stage 1                          0:58   0:58
+06 Helicopter Appearance            0:14   -
+07 Stage Clear                      0:07   -
+08 Stage 2                          1:57   1:50
+09 Boss                             0:29   0:26
+10 Stage 3                          1:14   1:14
+11 Stage 4                          1:32   1:19
+12 Boss 2                           1:06   0:51
+13 All Clear                        0:12   -
+14 Credit Roll                      0:47   -
+15 Unused                           0:02   -
+
+Total Length                       10:06  18:07
+
+
+Notes:
+Track Names are used in use scene.
+
+
+This pack was made using MAME0148 VGM mod.
+
+
+Size reduction:
+1. vgm_sro: 1.31 MB -> 936 KB (69.4 %)
+2. vgm_cmp: 936 KB -> 500 KB (53.4 %)
+Total: 1.31 MB -> 500 KB (37.1 %)
+
+
+Package history:
+1.00 2013-11-17 2ch-H: Initial release.
+1.01 2014-01-27 2ch-H: Update composer info.

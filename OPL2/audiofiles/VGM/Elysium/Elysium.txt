@@ -1,0 +1,76 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Elysium
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Samir Madwar,
+                     Holger Gehrmann
+Game developer:      Deep Thought
+Game publisher:      Magic Bytes
+Game release date:   1992
+
+Package created by:  NewRisingSun
+Package version:     2.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          2:40   -
+02 Manual Protection                0:24   -
+03 Map of Your Province             0:50   -
+04 Establish Trade Relationship     0:15   -
+05 Ship Trade                       0:02   -
+06 Pirates Capture Ship             0:16   -
+07 Ship Sinks                       0:18   -
+08 The Emperor Eyes You
+   Suspiciously                     0:14   -
+09 Invention                        0:15   -
+10 Very Good News                   0:16   -
+11 Good News                        0:12   -
+12 Neutral News                     0:08   -
+13 Bad News                         0:14   -
+14 Very Bad News                    0:13   -
+15 Catastrophic News                0:22   -
+16 Disaster Strikes                 0:17   -
+17 Building a Temple                0:12   -
+18 Crumbling Infrastructure         0:06   -
+19 Selecting 'Proceed'              0:01   -
+20 The Emperor is Resentful         0:20   -
+21 Hiring Soldiers                  0:02   -
+22 Enemy Attacks                    0:10   -
+23 Surprise Attack                  0:07   -
+24 Battle Theme #1                  1:42   1:42
+25 Siege and Victory                0:47   -
+26 Offered a Tribute Payment        0:08   -
+27 Selecting 'No'                   0:01   -
+28 Battle Theme #2                  1:00   -
+29 Occupying Neighboring Province   0:36   -
+30 Overall Victory                  0:05   -
+31 Battle Theme #3                  1:16   1:16
+32 Siege and Defeat                 1:27   -
+33 Tragedy                          0:22   -
+34 Selecting 'Yes'                  0:00   -
+35 Dawn of a New Era                0:23   -
+36 Ending                           0:31   -
+37 High Score Table                 0:55   -
+
+Total Length                       17:04  20:02
+
+
+Notes:
+Track 16 is included with, but not used, in
+the original release of the game. Tracks 8 and
+and 35 are only included in the later version
+of the game.
+
+
+Package history:
+1.00 2017-06-11 NewRisingSun: Initial release.
+2.00 2017-10-02 NewRisingSun: Added new tracks
+ from a later version of the game; renamed a
+ few tracks to reflect different usage in that
+ version.

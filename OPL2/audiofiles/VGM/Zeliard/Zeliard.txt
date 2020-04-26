@@ -1,0 +1,57 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Zeliard
+System:              IBM PC/AT / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Masakuni Mitsuhashi,
+                     Hibiki Godai,
+                     Mecano Associates
+ in particular:      Fumihito Kasatani,
+                     Nobuyuki Aoshima
+Game developer:      Game Arts
+Game publisher:      Sierra On-Line
+Game release date:   1990
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Radiance of Esmeranti            2:00   -
+02 Departure                        1:28   0:47
+03 To The World of Darkness         0:59   0:47
+04 Dark Messenger                   0:52   0:46
+05 Victory                          0:13   -
+06 Subterranean City                1:43   1:29
+07 Beyond The Caves                 1:19   1:13
+08 World of Trees                   1:08   0:52
+09 A Moment's Rest                  1:03   0:48
+10 World of Ice                     1:05   1:04
+11 World of Decay                   0:58   0:58
+12 Secluded Town                    1:26   1:06
+13 World of Gold                    1:17   1:00
+14 World of Fire                    1:13   1:02
+15 World of Wonder                  1:17   1:17
+16 Demon King                       1:07   0:51
+17 To a New Adventure               2:28   -
+
+Total Length                       21:37  35:38
+
+
+Notes:
+Track details taken from:
+   http://vgmdb.net/album/30934
+
+Logged in-game using DOSBOX v0.74 mod.
+
+
+Size reduction (vgm_cmp):
+   1.40 MB  -> 0.83 MB (59.4 %)
+
+
+Package history:
+1.00 2014-12-12 dj.tuBIG/MaliceX: Initial rel.

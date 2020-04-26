@@ -1,0 +1,49 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Wordtris
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Ed Bogas,
+                     Pyotr Ilyich Tchaikovsky
+ Sound Effects:      Paul Mogg
+ Sound Program:      Don Harlow
+Game developer:      Spectrum Holobyte
+Game publisher:      Spectrum HoloByte
+Game release date:   1991
+
+Package created by:  Doommaster1994
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:40   -
+02 Level A                          0:23   -
+03 Level B                          0:21   -
+04 Level C                          0:29   -
+05 Level D                          0:21   -
+06 Level E                          0:20   -
+07 Level F                          0:17   -
+08 Level G                          0:28   -
+09 Level H                          0:27   -
+10 Level I                          0:31   -
+11 Level J                          0:14   -
+12 High Scores                      0:24   -
+
+Total Length                        4:56   4:56
+
+
+Notes:
+Logged in DOSBox 0.72
+
+
+Package history:
+1.00 2013-10-22 Doommaster1994: Initial
+ Release.
+1.01 2013-11-05 Valley Bell: Fixed .txt,
+ applied Volume Modifier, added source of
+ track 12.

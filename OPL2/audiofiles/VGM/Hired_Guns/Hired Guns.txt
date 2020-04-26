@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Hired Guns
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Matt Furniss,
+                     Brian Johnston (Amiga)
+Game developer:      DMA Design,
+                     Visual Sciences Ltd.
+Game publisher:      Psygnosis
+Game release date:   1993
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.05
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Theme                      0:57   0:56
+02 Menu                             1:01   0:51
+03 Team Selection                   0:54   0:42
+04 World Map                        0:46   0:46
+05 Intermission                     0:12   0:12
+06 Game Over                        1:32   1:01
+
+Total Length                        5:22   9:51
+
+
+Notes:
+Playback in-game in DOSBOX 0.74 mod.
+Music authors credited in-game as "Krisalis".
+
+
+Package history:
+1.00 2014-03-06 dj.tuBIG/MaliceX: Initial rel.
+1.05 2014-03-28 dissident93: Holligsworth only
+ did the sound driver.

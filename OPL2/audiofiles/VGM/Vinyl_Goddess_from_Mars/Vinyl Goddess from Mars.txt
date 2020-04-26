@@ -1,0 +1,92 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Vinyl Goddess from Mars
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/Sound Blaster/OPL2
+                     (YM3812)
+
+Music author:        Marc Gravelle
+Game developer:      Six Pound Sledge Studios
+Game publisher:      Union Logic Software
+                     Publishing
+Game release date:   1995
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Tafa                             2:00   2:00
+02 Intro                            1:09   1:09
+03 Crush                            1:49   1:49
+04 Puzz 6                           1:33   1:33
+05 Prowler                          2:20   2:20
+06 Strike                           1:26   1:26
+07 Fever                            1:57   1:57
+08 Cover Up                         1:37   1:37
+09 Trample                          1:37   1:37
+10 Retro Jill                       1:15   1:15
+11 Mystic                           1:21   1:21
+12 Twilight                         2:14   2:14
+13 Stardust                         1:41   1:41
+14 Osiris                           1:56   1:56
+15 Evil Eye                         2:08   2:08
+16 Horus                            1:43   1:43
+17 Insured                          1:31   1:31
+
+Total Length                       29:18  58:35
+
+
+Notes:
+[Generator]
+ DOSBox-VGM by NewRisingSun
+
+This B-movie action game started development as
+a sequel to Epic MegaGames' "Jill of the
+Jungle", but was rejected by Epic for quality
+reasons. I can see why, as despite having
+smoother movement than Jill, Vinyl doesn't
+quite improve on the gameplay, which by release
+was three years out of date. Plus, the design
+of the weapons is such that it's not until
+episode 1, level 5 that Vinyl gets one that can
+hit _most_ of her foes from anything besides a
+considerable distance. I should know this,
+because I had to play and complete the game in
+order to record this music pack.
+
+Speaking of which, in another indicator of the
+game's quality, this game was released in 1995
+and yet only had an AdLib FM soundtrack. That's
+right, no support for MIDI devices or even PCM
+music (as in Epic's "Jazz Jackrabbit" from one
+year before)! At least the soundtrack is
+decent, even if it's super loud in-game, with
+track 01 being one particular highlight.
+
+Technical notes: This game uses the AdLib MUS
+format, which requires a separate SND or TIM
+file to store the timbres (FM instruments).
+Both are stored within the file GODDESS.LBR for
+each song; the original filenames in the Notes
+box are the filenames when the music is
+extracted. While the music is playable in AdLib
+Play and other players that support it, and
+thus many online recordings of the music were
+made with them, they all play the music
+slightly slower than the game does. Thus, this
+may be the first recording of the soundtrack at
+its correct tempo.
+
+(Oh, and the VGMs loop as they do in-game, so
+yes, many of the loops really are as jerky as
+this pack makes them out to be.)
+
+
+Package history:
+1.00 2018-08-16 The Green Herring: Initial
+ release.

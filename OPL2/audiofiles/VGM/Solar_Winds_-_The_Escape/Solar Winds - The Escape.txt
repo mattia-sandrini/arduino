@@ -1,0 +1,55 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Solar Winds: The Escape
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Dan Froelich
+Game developer:      Stone Interactive Media
+Game publisher:      Epic MegaGames
+Game release date:   1993
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Intro                            1:32   -
+02 Intergalactic Travel 1           1:50   -
+03 Intergalactic Travel 2           1:39   -
+04 Intergalactic Travel 3           2:14   -
+05 Intergalactic Travel 4           1:48   -
+06 Enemy Encounter 1                1:16   -
+07 Enemy Encounter 2                1:52   -
+08 Enemy Encounter 3                1:30   -
+09 Enemy Encounter 4                1:00   -
+10 Transmission 1                   1:37   -
+11 Transmission 2                   1:37   -
+12 Transmission 3                   1:39   -
+13 Transmission 4                   2:13   -
+
+Total Length                       21:46  21:46
+
+
+Notes:
+Track details taken from the following
+YouTube playlist (thanks Teppica!):
+   https://www.youtube.com/playlist?
+list=PLD172E02FFC3926D2
+
+Logged in-game using DOSBOX v0.74 mod.
+
+Loop not retained due to abrupt playback
+as in-game, and nature of CMF format.
+Use playlist to loop songs as-is.
+
+Size reduction (vgm_cmp):
+   367 KB  -> 210 KB (57.2 %)
+
+
+Package history:
+1.00 2015-06-08 dj.tuBIG/MaliceX: Initial rel.

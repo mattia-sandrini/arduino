@@ -1,0 +1,32 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Catacomb 3-D
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Robert Prince
+Game developer:      id Software
+Game publisher:      Softdisk
+Game release date:   1991
+
+Package created by:  MrKsoft
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Too Hot to Handle                0:16   0:16
+
+Total Length                        0:16   0:32
+
+
+Notes:
+This single 16-second loop makes up the entire
+game soundtrack.  Yep... that's it.
+
+
+Package history:
+1.00 2013-07-21 MrKsoft: Initial release.

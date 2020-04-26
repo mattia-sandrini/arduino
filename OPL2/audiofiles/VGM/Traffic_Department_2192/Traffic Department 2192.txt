@@ -1,0 +1,49 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Traffic Department 2192
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Robert A. Allen,
+                     John Pallett-Plowright,
+                     Owen Pallett
+Game developer:      P-Squared Productions
+Game publisher:      Safari Software
+                     (Epic MegaGames)
+Game release date:   1994-04-30
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Intro 1                          0:22   -
+02 Intro [Staff Roll]               1:24   -
+03 Intro 2                          1:41   -
+04 Menu                             0:50   0:50
+05 Hangar                           0:48   0:48
+06 Satair                           1:04   1:04
+07 Mood                             0:50   0:50
+08 Mood (short)                     0:26   0:26
+09 Moodmaj [Screwdriver's Bar]      0:56   0:56
+10 Vulture                          1:40   1:40
+11 Climax                           0:54   0:54
+12 Mission Theme 1                  1:56   1:56
+13 Mission Theme 2                  1:12   1:12
+14 Mission Theme 3                  1:03   1:03
+15 Low [Mission Debriefing]         1:24   1:24
+16 Death                            0:29   0:29
+
+Total Length                       16:59  30:31
+
+
+Notes:
+Playback in-game w/ DOSBOX 0.74 mod
+
+
+Package history:
+1.00 2013-12-04 dj.tuBIG/MaliceX: Initial rel.

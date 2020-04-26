@@ -1,0 +1,82 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Wing Commander
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        David Govett,
+                     George Alistair Sanger
+Game developer:      Origin Systems
+Game publisher:      Origin Systems
+Game release date:   1990
+
+Package created by:  NewRisingSun
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Origin FX Logo                   0:24   -
+02 Fanfare (Main Title)             2:44   -
+03 Arcade Victory                   0:02   -
+04 Arcade Theme                     0:40   0:40
+05 Arcade Death                     0:02   -
+06 Rec. Room                        1:36   1:36
+07 Barracks - Go to Sleep You
+   Pilots                           2:06   2:06
+08 Briefing Intro                   0:17   0:17
+09 Briefing Middle                  0:31   0:31
+10 Briefing End                     0:11   0:11
+11 Scramble Through Launch          0:24   -
+12 Flying to Dogfight               1:18   1:18
+13 Transition to Combat             0:10   -
+14 Regular Combat                   1:03   1:03
+15 Tailing an Enemy                 0:17   0:17
+16 Target Hit                       0:05   -
+17 Being Tailed                     0:11   0:11
+18 Intense Combat                   0:21   0:21
+19 Enemy Ace Killed                 0:06   -
+20 Missile Tracking You             0:19   0:19
+21 Ally Killed                      0:14   -
+22 Returning Normal                 0:33   0:29
+23 Grim or Escort Mission           0:31   0:31
+24 Overall Defeat                   0:19   -
+25 Returning Defeated               0:36   0:31
+26 Strike Mission - Go Get 'em!     0:30   0:30
+27 Overall Victory                  0:07   -
+28 Returning Triumphant             0:35   0:32
+29 Goal Line - Defending the Claw   1:04   1:04
+30 Your Wingman's Been Hit          0:12   -
+31 You're Severely Damaged -
+   Floundering                      0:24   0:24
+32 Death and Funeral                1:40   -
+33 Eject - Imminent Rescue          0:46   0:08
+34 Landing                          0:14   -
+35 Medium Damage Assessment         0:20   -
+36 Debriefing - Unsuccessful        0:44   0:44
+37 Debriefing - Successful          0:52   0:52
+38 Commander's Office               1:48   -
+39 Medal Ceremony - General         0:24   0:24
+40 Medal Ceremony - Purple Heart
+   (Golden Sun)                     0:24   0:24
+41 Medal Ceremony - Minor Bravery
+   (Bronze Star, Silver Star)       0:17   0:17
+42 Medal Ceremony - Major Bravery
+   (Gold Star, Terran Confederation
+   Medal of Honor)                  0:17   0:17
+43 Dogfight (Self-running Demo)     2:41   -
+
+Total Length                       28:18  44:12
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2017-04-28 NewRisingSun: Initial release.
+1.01 2017-06-25 NewRisingSun: Corrected tempo;
+ removed loops from tracks 38 and 43.

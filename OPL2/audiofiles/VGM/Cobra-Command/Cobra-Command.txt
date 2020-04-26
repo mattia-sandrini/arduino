@@ -1,0 +1,47 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Cobra-Command
+System:              Arcade Machine
+Music hardware:      YM2203, YM3812
+
+Music author:        Azusa Hara
+Game developer:      Data East
+Game publisher:      Data East
+Game release date:   1988
+
+Package created by:  MATRIX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:01   -
+02 Demo                             0:10   0:08
+03 Start                            0:05   -
+04 Upheaval (BGM 1)                 0:39   0:35
+05 Human bullet (Boss 1)            0:44   0:44
+06 Clear                            0:05   -
+07 Inspiration (BGM 2)              0:42   0:34
+08 Sweep up (BGM 3)                 0:40   0:39
+09 Point between life and death
+   (Boss 2)                         0:29   0:27
+10 Beat (BGM 4)                     1:31   1:25
+11 Destruction (Boss 3)             0:15   0:15
+12 Over                             0:05   -
+13 Ending                           1:18   -
+
+Total Length                        6:41  11:28
+
+
+Notes:
+Track Names are used in
+Game Sound Deco ~ G.S.M. Data East 1 ~
+(D25B-1002) and Use scene.
+
+This pack was made using M1 v0.79a1 VGM mod.
+
+
+Package history:
+1.00 2019-03-14 MATRIX: Initial release.

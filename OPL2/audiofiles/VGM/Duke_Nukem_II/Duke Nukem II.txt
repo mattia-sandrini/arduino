@@ -1,0 +1,95 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Duke Nukem II
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Sound Blaster 16 / OPL2
+                     (YM3812)
+
+Music author:        Robert Prince
+Game developer:      Apogee Software
+Game publisher:      Apogee Software
+Game release date:   1993-12-03
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Fanfare For Duke II              0:07   -
+02 On the Range                     1:09   1:09
+03 Theme to Duke Nukem II           0:48   0:48
+04 Menu Select                      0:15   0:15
+05 He's Back!                       2:01   2:01
+06 Duke Kicks Ass                   1:26   1:26
+07 Evil Be Gone                     1:21   1:21
+08 You Be Dead!                     1:05   1:05
+09 Squeaking By                     1:31   1:31
+10 Fight Like a Man                 2:13   2:13
+11 Dukin' It Out                    1:02   1:02
+12 Hey Mr. Nuke Man                 2:07   2:07
+13 Out of the Depths                2:18   2:18
+14 On the Prowl                     1:56   1:56
+15 Kiss the Girls and Make Them Cry 2:42   2:42
+16 Winning By Degrees               2:05   2:05
+17 Openin' the Gate                 0:40   0:40
+18 Calm Before the Storm            1:04   1:04
+19 King Duke                        0:56   0:56
+20 I Wish This Game Would Never End 1:01   1:01
+
+Total Length                       27:49  55:30
+
+
+Notes:
+Duke Nukem's second 2D platformer outing prior
+to his transformation into a raunchy and
+wise-cracking FPS hero. With only FM synthesis
+to work with, Bobby Prince managed a rock
+soundtrack that fits Duke's adrenaline-fueled
+battle against the Rigelatins like a glove.
+
+This pack required me to extract the IMF files
+from the game's resources and put them through
+ValleyBell's imf2vgm tool before processing
+them. This is because in the game itself,
+there's no opportunity to split the source VGM
+(converted from a DRO) due to the near total
+lack of silence between tracks, and some of
+the tracks can never be heard in their
+entirety (e.g. the "Openin' the Gate" level
+completion music, because you only ever hear a
+few seconds before the game loads the next
+level). Of course, they didn't appear to
+convert correctly and I was wondering if
+something was bugged. With his help, though, I
+learned this was because the game's audio
+driver writes a "Waveform Enable" command
+during the initialization process but the IMF
+files don't have it. Two changed bytes later
+and it's just like I converted a DRO.
+
+The track titles here come from the Videogame
+Music Preservation Foundation Wiki
+(http://www.vgmpf.com/Wiki/index.php?title=
+Duke_Nukem_II_%28DOS%29), and are used here
+because they were directly verified by Bobby
+Prince himself. Special thanks to the site
+for those titles and to ValleyBell for
+helping me out with my imf2vgm problem. :)
+
+Fun fact: This is the /only/ game using IMF
+where the playback rate is 280Hz rather than
+560Hz or 700Hz. The DOS version of AdPlug,
+which I checked out alongside imf2vgm, has no
+special casing to handle this unlike the
+Winamp version, so it plays all the tracks at
+super speed. Good thing we figured out what
+was happening with the VGMs, huh?
+
+
+Package history:
+1.00 2014-04-30 The Green Herring: Initial
+ release.

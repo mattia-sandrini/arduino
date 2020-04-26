@@ -1,0 +1,95 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Knights of Xentar /
+                     Dragon Knight III (J)
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Sound Blaster Pro
+                     (2xYM3812)
+
+Music author:        Bananapple,
+                     Manabu Kunieda,
+                     Hiroaki Sano
+Game developer:      MegaTech Software,
+                     Elf Co., Ltd. (J)
+Game publisher:      MegaTech Software,
+                     Elf Co., Ltd. (J)
+Game release date:   1994-05-12 (DOS),
+                     1991-12-14 (PC-98)
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 MegaTech Software Logo           0:09   -
+02 Opening [unused]                 1:29   1:16
+03 Title                            0:32   0:32
+04 Town of Deese                    0:38   0:30
+05 Nudist Village                   0:37   0:37
+06 Town of Tyson                    0:31   0:31
+07 Strawberry Fields                0:21   0:21
+08 Little Red Riding Hood's House   0:32   0:32
+09 Fairy Village                    0:56   0:52
+10 Cat Tribe Village                0:39   0:39
+11 Inn                              0:33   0:33
+12 Secondhand Store                 0:40   0:39
+13 Weapons Dealer                   0:33   0:33
+14 Field 1                          0:41   0:40
+15 Rimtoss Mountain                 0:41   0:41
+16 Callisto's Castle                0:49   0:48
+17 Monster Battle 1                 0:30   0:30
+18 Monster Battle 2                 0:34   0:34
+19 Field 2                          0:33   0:33
+20 Dog Tribe Cave                   0:34   0:32
+21 Temple of the Messiah            0:48   0:48
+22 Final Cave                       0:38   0:38
+23 Monster Battle 3                 0:30   0:30
+24 Boss Monster Battle              1:12   1:11
+25 Game Over                        2:12   2:11
+26 ... Scene 1                      0:47   0:44
+27 Goddess' Entrance [Intro]        0:40   0:40
+28 Deed Battle                      0:42   0:42
+29 Triumphant Return [Ending]       0:30   0:30
+30 Shop 1                           0:13   0:12
+31 Unknown                          0:30   0:27
+32 Shop 3                           0:37   0:37
+33 ... Scene 4                      0:55   0:55
+34 Goddess' Farewell                0:36   0:36
+35 Dungeon Combat                   0:31   0:30
+36 Event 2                          0:35   0:33
+37 Boss Monster Battle 2            0:30   0:30
+38 Discovery 1 [Battle Win]         0:06   -
+39 Discovery 2 [Battle Lose]        0:05   -
+40 Unknown SFX                      0:07   -
+41 Future                           0:55   0:55
+42 Future 2                         2:14   -
+43 Staff                            1:32   -
+
+Total Length                       29:58  54:58
+
+
+Notes:
+Playback in-game using DOSBOX 0.74 mod.
+
+Track titles based off the OST track list:
+   http://vgmdb.net/album/804
+Songs not on the OST were taken from the hoot
+XML playlists from the original PC-98 version.
+
+This set was difficult to rip due to a rather
+messy music driver, as well as unpacking
+and repacking the binary song data for
+playback.
+
+This is the Sound Blaster Pro version (2xOPL2
+stereo). Thanks to Valley Bell for assistance
+in getting the song data from OPL3 -> 2xOPL2
+due to buggy DOSBox emulation.
+
+
+Package history:
+1.00 2014-07-05 dj.tuBIG/MaliceX: Initial rel.

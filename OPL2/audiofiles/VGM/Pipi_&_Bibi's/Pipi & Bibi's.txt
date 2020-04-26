@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Pipi & Bibi's (U) /
+                     Whoopee!! (J)
+System:              Toaplan 2
+Music hardware:      YM3812
+
+Music author:        Tomoaki Takanohashi,
+                     Osamu Ohta
+Game developer:      Toaplan
+Game publisher:      Toaplan
+Game release date:   1991
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Credit                           0:01   -
+02 Target                           0:08   0:08
+03 Stage 1 (Aya)                    0:32   0:28
+04 Stage 2 (Whii Pee)               0:32   0:32
+05 Stage 3 (Eri)                    0:47   0:46
+06 Try Again                        0:04   -
+07 Continue                         0:04   0:04
+08 Game Over                        0:03   -
+09 Stage 4 (Synthia)                0:35   0:31
+10 Stage 5 (Sachiko)                0:42   0:41
+11 Stage 6 (Jennifer)               0:57   0:52
+12 Count Down                       0:19   -
+13 Escape                           0:02   -
+14 Bonus Show Time 1                0:04   -
+15 Bonus Show Time 2                0:21   0:21
+16 Ending                           0:26   0:24
+17 Ending 2                         0:28   0:28
+18 Name Entry                       0:16   0:11
+19 The End                          0:03   -
+
+Total Length                        6:24  11:48
+
+
+Notes:
+Track Names are used in Bridge M1 list files.
+
+This pack was made using M1 VGM mod v0.7.9a1.
+
+
+Size reduction (vgm_cmp):
+    9.21 MB -> 101 KB (1 %)
+
+
+Package history:
+1.00 2012-11-08 2ch-H: Initial release.

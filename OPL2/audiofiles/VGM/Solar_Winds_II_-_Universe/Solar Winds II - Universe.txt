@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Solar Winds II: Universe
+                     (aka Solar Winds: Galaxy)
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Dan Froelich
+Game developer:      Stone Interactive Media
+Game publisher:      Epic MegaGames
+Game release date:   1993
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Intro                            0:28   -
+02 Spaceflight 1                    1:24   -
+03 Spaceflight 2                    1:53   -
+04 Spaceflight 3                    1:37   -
+05 Spaceflight 4                    1:42   -
+06 Enemy Attack 1                   0:52   -
+07 Enemy Attack 2                   1:39   -
+08 Enemy Attack 3                   0:55   -
+09 Enemy Attack 4                   1:24   -
+10 Socializing 1                    2:18   -
+11 Socializing 2                    1:41   -
+12 Socializing 3                    1:52   -
+13 Socializing 4                    1:48   -
+
+Total Length                       19:33  19:33
+
+
+Notes:
+Track details taken from the following
+YouTube playlist (thanks Teppica!):
+   https://www.youtube.com/playlist?
+list=PLE58C97874F7629B8
+
+Logged in-game using DOSBOX v0.74 mod.
+
+Loop not retained due to abrupt playback
+as in-game, and nature of CMF format.
+Use playlist to loop songs as-is.
+
+Size reduction (vgm_cmp):
+   328 KB  -> 192 KB (58.5 %)
+
+
+Package history:
+1.00 2015-06-08 dj.tuBIG/MaliceX: Initial rel.

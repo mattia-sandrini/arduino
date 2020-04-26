@@ -1,0 +1,192 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Monkey Island 2:
+                     LeChuck's Revenge
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/Sound Blaster
+                     (YM3812)
+
+Music author:        Michael Z. Land,
+                     Peter McConnell,
+                     Clint Bajakian,
+                     Robin Goldstein,
+                     J. Anthony White
+Game developer:      LucasArts
+Game publisher:      LucasArts
+Game release date:   1991
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+001 Introduction                    2:14   -
+002 At the Campfire (from           
+    Introduction, with coda)        1:57   -
+003 Part Scroll                     0:09   -
+004 Largo LaGrande                  1:13   -
+005 Woodtick                        1:47   1:39
+006 The Bloody Lip Bar              1:11   -
+007 Monkey Ragtime                  1:17   1:17
+008 Wally B. Feed                   1:18   -
+009 Carpenter                       1:13   -
+010 Mad Marty and the Men of Low    
+    Moral Fiber                     1:11   -
+011 Swamp Rot Inn with Largo's Room 1:11   -
+012 Scabb Island Beach and Overview 1:56   -
+013 At the Campfire (clean opening, 
+    looped)                         1:29   1:29
+014 Swamp with International House  
+    of Mojo                         3:24   -
+015 Cemetery                        0:48   0:46
+016 Grave Robbery                   2:30   0:46
+017 Vanquishing Largo               2:12   -
+018 Swamp After Largo Gone          2:16   -
+019 Meeting Captain Dread           0:09   0:08
+020 Captain Dread's Theme           1:44   -
+021 Unfold Captain Dread's Map      0:06   -
+022 Where Do You Wanna Go?          0:15   0:15
+023 Travelling with Captain Dread   0:34   -
+024 Meanwhile... in LeChuck's       
+    Fortress                        1:07   0:58
+025 Getting Arrested                0:49   0:40
+026 Talking to Governor Phatt       2:23   -
+027 Phatt Island Jail               0:59   -
+028 Phatt Island Pier and Overview  2:35   -
+029 Dark Alley Behind Street Casino 2:02   2:02
+030 Street Casino                   3:22   3:21
+031 Outside Governor Phatt's
+    Mansion                         0:50   -
+032 Guard Blocking the Stairs       2:51   -
+033 The Mansion's Lobby             1:01   -
+034 Phatt's Bedroom                 1:01   1:00
+035 Waterfall                       2:36   1:51
+036 Passage Behind Waterfall        0:26   0:26
+037 Rum Roger's Island              1:03   -
+038 Rom Roger's Cottage             2:20   -
+039 Drinking Contest - Guybrush     
+    Loses                           0:23   -
+040 Drinking Contest - Guybrush
+    Wins His Turn                   0:11   -
+041 Drinking Contest - Rum Rogers   
+    Loses                           0:18   -
+042 Trapdoor                        0:01   -
+043 Cottage Cellar - Chute at Wrong 
+    Angle                           0:30   0:27
+044 Cottage Cellar - Chute at       
+    Correct Angle                   1:09   -
+045 Booty Island                    1:53   1:50
+046 Ville de la Booty Town Square   0:53   0:48
+047 Antiques Shop                   0:48   0:48
+048 Costume Shop                    0:48   0:48
+049 Spitting Contest                0:53   0:48
+050 Stan's Previously Owned Coffins 3:33   -
+051 Crypt                           0:46   0:46
+052 Ash-2-Life on Rapp Scallion     0:51   0:46
+053 Rapp Dead Again                 0:01   -
+054 Rapp Dead, His Soul at Peace    0:02   -
+055 Searching for the Mad Monkey    0:27   0:26
+056 Jumping In                      0:04   -
+057 Diving Deeper                   0:14   -
+058 Finding the Mad Monkey          1:14   0:26
+059 Elaine's Garden                 1:11   0:42
+060 The Mad Cook                    2:11   -
+061 Elaine's Party                  1:48   -
+062 Stealing the Map Piece          0:50   -
+063 Elaine and Guybrush Meet Again  
+    (Love Theme)                    2:12   -
+064 Bird Grabs Map Piece            0:21   -
+065 Plank Breaks                    0:00   -
+066 The Dream Begins                1:12   1:10
+067 The Bone Song                   1:34   -
+068 LeChuck Appears in Dream        0:39   -
+069 Wally Has Been Kidnapped        0:52   0:39
+070 LeChuck's Fortress              4:00   -
+071 Guybrush is Captured            1:31   -
+072 LeChuck's Torture Speech        2:19   -
+073 Hangin'                         2:18   -
+074 Guybrush Threepwood Has Escaped 0:44   -
+075 Beach of Dinky Island           4:51   -
+076 Jungle                          6:40   6:40
+077 'X' Marks the Spot              0:21   -
+078 Big Whoop in View               1:17   -
+079 Throwing a Rope                 0:08   -
+080 Hanging Again                   0:14   -
+081 Guybrush Falls                  0:07   -
+082 LeChuck's Revelation            2:20   -
+083 LeChuck Presents His Voodoo
+    Doll                            0:55   -
+084 LeChuck Encounter #1            0:21   -
+085 LeChuck Encounter #2            0:19   -
+086 LeChuck Encounter #3            0:13   -
+087 LeChuck Encounter #4            0:20   -
+088 LeChuck Encounter #5            0:12   -
+089 LeChuck Encounter #6            0:16   -
+090 LeChuck Encounter #7            0:19   -
+091 LeChuck Encounter #8            0:15   -
+092 Underground Tunnels #1          2:45   1:58
+093 Underground Tunnels #2          1:33   1:33
+094 Underground Tunnels #3          1:33   1:33
+095 Underground Tunnels #4          1:33   1:33
+096 Underground Tunnels #5          1:33   1:33
+097 Underground Tunnels #6          1:15   1:15
+098 Armed with Voodoo Doll          1:04   0:32
+099 Losing a Leg                    0:23   -
+100 Take This Mask Off              0:28   0:26
+101 Brother Chuckie Revealed        0:48   0:48
+102 Amusement Park                  0:47   0:47
+103 End Credits                     2:12   -
+104 Something Constructive          0:24   0:22
+
+Total Length                    2:21:36 2:46:28
+
+
+Notes:
+Originally composed for Roland MT-32, with a
+rather dull AdLib conversion; the OPL
+instruments are severely lacking in harmonics.
+
+In Tracks 10/11/14/30/31/63/72/75, the game
+enables and disables MIDI channels to reflect
+game events. See the Notes of each file to
+learn what events are being reflected.
+
+In Track 70, after finishing the first two
+minutes of introduction, the game plays four
+sound files (that change every two minutes)
+simultaneously which are randomly selected from
+a pool of twenty files. The VGM pack version
+tweaks the random number generator such that
+all twenty files are used exactly once.
+
+In Tracks 93 to 97, the game plays one of three
+randomly-selected "back" sound files
+simultaneously with one of five randomly-
+selected "front" sound files on top. The
+VGM pack versions use each "front" sound file
+once and two of the three "back" sound files
+twice, by necessity. This implies that each of
+these five tracks could also exist with two
+different "back" sound files. Most of these
+combinations actually sound quite awful, so
+only the one tolerable combination for each
+"front" sound file is presented in this pack.
+
+Tracks 92 to 97 are transposed down by one
+additional semitone on each loop. The VGM
+pack versions only capture two loops, so that
+when the VGM format loop kicks in, it's back
+to the original pitch. In the actual game,
+the player never has a chance to hear two
+loops before LeChuck enters the room and
+causes the music to change.
+
+Original sound driver: iMuse (ADLIB.IMS)
+
+
+Package history:
+1.00 2017-09-15 NewRisingSun: Initial release.

@@ -1,0 +1,57 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Dune
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      YM3812
+
+Music author:        Stéphane Picq
+Game developer:      Cryo
+Game publisher:      Virgin Games
+Game release date:   1992
+
+Package created by:  Kaminari
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Sietch                           1:29   -
+02 Spice Opera                      6:33   -
+03 Water                            0:48   0:48
+04 Free Men                         3:09   -
+05 Wake Up                          3:32   -
+06 Chani's Eyes                     4:57   -
+07 Sign of the Worm                 2:52   -
+08 Too                              1:04   1:04
+09 Dune (Variation)                 5:47   -
+
+Total length:                      30:11  32:03
+
+
+Notes:
+Song list based on the Spice Opera OST.
+This pack was recorded with DOSBox, and edited
+with VGMTools (Valley Bell).
+
+A couple of OPL2 tunes ("Spice Opera", "Dune")
+are significantly longer than their later
+conversions on AdLib Gold, Roland MT-32 and
+Mega Drive. "Sietch" is not featured as such on
+the OST, but its drum intro was actually merged
+with the opening track "Spice Opera".
+
+For information, the OST track "Ecolove" comes
+from the Amiga version and doesn't appear in
+any other.
+
+A few tunes seem to end a bit sharply without
+much fadeout, but that's how they are played in
+the sound test.
+
+
+Package history:
+1.00 2011-05-13 Kaminari: Initial release.
+1.01 2015-02-19 Kaminari: Text file updated.

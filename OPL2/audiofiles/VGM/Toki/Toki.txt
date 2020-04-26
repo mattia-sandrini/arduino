@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Toki (U) /
+                     Juju Densetsu (J)
+System:              Arcade Machine
+Music hardware:      YM3812
+
+Music author:        Yukihiko Kitahara
+Game developer:      TAD Corporation
+Game publisher:      Taito
+Game release date:   1989-11
+
+Package created by:  rainwarrior
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:23   -
+02 Insert Coin                      0:03   -
+03 Map                              0:27   0:14
+04 Stage 1                          0:24   0:24
+05 Boss                             0:26   0:20
+06 Stage Complete                   0:07   -
+07 Stage 2                          0:20   0:20
+08 Cart Ride                        0:46   0:23
+09 Final Boss                       0:17   0:08
+10 Win Game                         1:37   -
+11 Game Over                        0:06   -
+12 High Score                       0:22   -
+
+Total Length                        4:54   6:42
+
+
+Notes:
+Comments in the VGZ tracks indicate the
+original hexidecimal index of the music track
+in the game's code.
+
+
+Package history:
+1.00 2013-01-23 rainwarrior: Initial release.

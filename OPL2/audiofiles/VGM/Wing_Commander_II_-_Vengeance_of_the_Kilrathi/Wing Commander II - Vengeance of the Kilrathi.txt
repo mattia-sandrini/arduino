@@ -1,0 +1,108 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Wing Commander II:
+                     Vengeance of the Kilrathi
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Martin Galway,
+                     Dana Glover,
+                     David Govett,
+                     George Alistair Sanger,
+                     Nenad Vugrinec
+Game developer:      Origin Systems
+Game publisher:      Origin Systems
+Game release date:   1991
+
+Package created by:  NewRisingSun
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Origin FX Logo                   0:24   -
+02 Main Theme - Cloak & Dagger      1:21   1:21
+03 Introduction                     0:59   0:59
+04 Midgames                         1:44   1:44
+05 Tolwyn's Office                  1:14   1:14
+06 Prince Thrakhath's Theme         1:39   -
+07 The Bridge                       1:41   1:41
+08 Scramble Through Launch          0:24   -
+09 Flying to Dogfight               0:49   0:49
+10 Regular Combat                   1:03   1:03
+11 Tailing an Enemy                 0:17   -
+12 Being Tailed                     0:11   -
+13 Intense Combat                   0:22   0:19
+14 Enemy Ace Killed                 0:06   -
+15 Returning Normal                 0:33   0:29
+16 Landing                          0:14   -
+17 Medium Damage Assessment         0:20   -
+18 Depressing Barracks              1:15   1:15
+19 The Flight Deck                  1:12   1:12
+20 Goal Line - Defending the Base   0:58   0:53
+21 Upbeat O-Deck                    0:58   0:58
+22 Angel Devereaux                  2:02   -
+23 Briefing (Commander's Office)    1:48   -
+24 Grim or Escort Mission           0:31   0:31
+25 Kilrathi Ace Dog                 0:38   0:38
+26 Ally Killed                      0:14   -
+27 Returning Triumphant             0:35   0:32
+28 Your Wingman's Been Hit          0:12   -
+29 Overall Defeat                   0:19   -
+30 Returning Defeated               0:36   0:31
+31 Funeral for a Wingman            1:21   -
+32 Poker                            1:24   -
+33 Neutral O-Deck                   0:49   -
+34 Strike Mission - Go Get 'em      0:30   0:30
+35 In-Mission jump                  0:25   -
+36 Torpedo Lock                     0:21   -
+37 Overall Victory                  0:07   -
+38 Off-Duty                         1:04   1:04
+39 Missile Tracking You             0:19   -
+40 You're Severely Damaged -
+   Floundering                      0:24   0:24
+41 Eject - Imminent Rescue          0:47   0:33
+42 Death and Funeral                1:40   -
+43 Sad O-Deck                       1:46   1:46
+44 Jazz' Escape                     1:13   1:13
+45 Duel with Jazz                   0:17   0:15
+46 Jazz' Storm Clouds               0:43   0:43
+47 Duel with Thrakhath              0:30   0:30
+48 Victory                          1:50   1:50
+49 Thrakhath's New Plans            1:19   -
+50 Mutiny on the Gettysburg         1:02   1:02
+51 MuchowVision                     0:25   -
+52 The Tribunal                     2:02   2:02
+53 End Credits                      4:14   -
+
+Total Length                      49:12 1:17:12
+
+
+Notes:
+Part II's FM conversion of the original Roland
+MT-32 music is far worse than Wing Commander's
+- the OPL instruments are inferior, and
+channels were removed for no apparent reason.
+
+Includes the four additional cues from the
+add-on "Special Operations" disks (Tracks 49-
+52).
+
+Some track titles were found in the MIDI files
+themselves, some were newly-created; a few
+were taken from the Origin Soundtrack CD
+Vol. 1. That CD's song sequence obviously does
+not match at all with what is printed on the
+back, so its titles were assigned to the most
+plausible track instead.
+
+Original sound driver: Origin FX Sound and
+Graphics System (STRAX.DRV)
+
+
+Package history:
+1.00 2017-09-02 NewRisingSun: Initial release.
+1.01 2017-09-30 NewRisingSun: Spelling fixes.

@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Daughter of Serpents
+System:              IBM PC/AT
+Music hardware:      AdLib (YM3812)
+
+Music author:        Richard Joseph
+Game developer:      Eldritch Games
+Game publisher:      Millennium Interactive
+Game release date:   1992
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Character Generator              3:04   -
+02 Opening                          1:07   -
+03 Savoy Palace Hotel               2:03   -
+04 Alexandria                       1:50   1:50
+05 Catacombs                        2:50   2:50
+06 Unknown                          0:53   0:53
+
+Total Length                       11:47  17:20
+
+
+Notes:
+I did that just because of hotel song :3
+
+
+Package history:
+1.00 2013-01-12 tails_: Initial release.

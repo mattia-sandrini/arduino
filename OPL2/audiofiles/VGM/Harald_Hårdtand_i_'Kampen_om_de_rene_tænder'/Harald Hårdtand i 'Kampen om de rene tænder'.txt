@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Harald Hårdtand i 'Kampen
+                     om de rene tænder'
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Jens-Christian Huus
+Game developer:      SilverRock Productions
+Game publisher:      Colgate-Palmolive A/S
+Game release date:   1992
+
+Package created by:  MrKsoft
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Music                      1:17   1:17
+02 Hiscore Tune                     0:59   0:59
+03 Jingle 1                         0:03   -
+04 Jingle 2                         0:04   -
+05 Bonus Music                      0:48   0:48
+
+Total Length                        3:10   6:13
+
+
+Notes:
+Game is sometimes just called "Colgate".
+Track names are from an EXE-based soundtrack
+release by Vibrants.
+
+
+Package history:
+1.00 2017-03-25 MrKsoft: Initial release.

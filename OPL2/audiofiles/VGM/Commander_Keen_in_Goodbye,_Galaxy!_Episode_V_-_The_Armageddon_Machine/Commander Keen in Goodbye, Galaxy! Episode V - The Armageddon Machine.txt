@@ -1,0 +1,94 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Commander Keen in Goodbye,
+                     Galaxy! Episode V: The
+                     Armageddon Machine
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Sound Blaster 16/OPL2
+                     (YM3812)
+
+Music author:        Robert Prince, Gustav
+                     Holst
+Game developer:      id Software
+Game publisher:      Apogee Software
+Game release date:   1991-12-15
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Robo Red Rock                    1:03   1:03
+02 Having Tea With Little Ampton    0:56   0:56
+03 Be Very Sphereful With My
+   Diamonds                         1:03   1:03
+04 Just Snoopin' Around             1:22   1:22
+05 Playing Bagpipes Nearly Kilt Me! 0:41   0:41
+06 Wednesday On the Beach           0:56   0:56
+07 Almost Out of Breath             0:50   0:50
+08 Spiro Grip Me Tighter            0:59   0:59
+09 Skating O'er the Ice             0:33   0:33
+10 A Shikadi Aire                   0:49   0:49
+11 This Is Where I Came In!         0:24   0:24
+12 Mars, the Bringer of War         1:02   1:02
+13 Commander Keen's Fanfare         0:20   0:20
+14 Rock Me, But Don't Stone Me!     1:01   1:01
+15 I Scream                         0:26   0:26
+16 Jazz Me                          2:05   2:05
+
+Total Length                       14:30  28:59
+
+
+Notes:
+Episode V of the "Commander Keen" hexalogy and
+the second episode of "Goodbye, Galaxy!" has
+many more tracks than the previous game had,
+which makes for a less repititve soundtrack
+that's no less lighthearted than that of
+"Secret of the Oracle." Among the few
+exceptions is the music for the final level,
+"Quantum Explosion Dynamo," which is a short
+arrangement of "Mars, the Bringer of War" from
+Gustav Holst's "The Planets." This was done at
+the request of the game's creator and
+designer, Tom Hall, and it's definitely a
+fitting track for a final level.
+
+This pack and the rest of the packs for the
+second half of the "Commander Keen" hexalogy
+were created at the request of RichterEX2. I
+did so by using imf2vgm to convert the IMF
+files to VGMs, and then hex-editing the first
+command of each VGM to change it to a "Waveform
+Enable" command (which the driver performs when
+starting up but is not done by imf2vgm). The
+loops may sound a bit weird, but that really is
+how they loop in the game.
+
+The tracks are named and arranged in this pack
+according to the game's track list at the
+Videogame Music Preservation Foundation. The
+names for the first fourteen tracks are
+confirmed to be the official names by Bobby
+Prince himself, according to that site. It also
+includes three unused tracks, "Rock Me, But
+Don't Stone Me," "I Scream" and "Jazz Me," the
+first of which is included in the data files
+but never played, and the second two of which
+were included in an archive supplied by
+co-programmer John Romero. The tracks have been
+set to loop, as they were probably meant to.
+"Jazz Me" in particular is an early version of
+"Almost Out of Breath," which is used in the
+"Security Center" level.
+
+Enjoy!
+
+
+Package history:
+1.00 2014-08-24 The Green Herring: Initial
+ release.

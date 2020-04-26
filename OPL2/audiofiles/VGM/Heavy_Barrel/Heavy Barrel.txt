@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Heavy Barrel
+System:              Data East
+Music hardware:      YM2203, YM3812
+
+Music author:        Azusa Hara,
+                     Hiroaki Yoshida
+Game developer:      Data East Corp.
+Game publisher:      Data East Corp. (J) /
+                     Data East USA, Inc. (U)
+Game release date:   1987-12
+
+Package created by:  RichterEX2
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Descent (Start - Unused)         0:11   -
+02 Heavy Barrel Theme (Field BGM)   1:16   1:01
+03 Impact (Boss BGM)                0:30   0:29
+04 Wipe Out the Enemy Base
+   (Base BGM)                       1:06   1:05
+05 Epilogue (Final Stage BGM)       0:59   0:58
+06 Flight (Ending)                  1:54   1:38
+
+Total Length                        5:56  11:06
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2012-05-06 RichterEX2: Initial release.

@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Terra Force
+System:              Arcade Machine
+Music hardware:      YM3812
+
+Music author:        Noboru Yoshida
+Game developer:      Nichibutsu
+Game publisher:      Nichibutsu
+Game release date:   1987-12
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Coin                             0:02   -
+02 Game Start ~ Ground Music        1:02   0:54
+03 Restart                          0:08   -
+04 Last Start                       0:09   -
+05 Underground Music                0:55   0:54
+06 Bulgar                           0:35   -
+07 Griffon                          0:44   -
+08 Goround                          0:41   0:41
+09 Game Over                        0:08   -
+10 Ending                           0:28   -
+11 Name Entry                       1:06   -
+
+Total Length                        5:59   8:28
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2013-01-07 Sonic of 8!: Initial release.

@@ -1,0 +1,79 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Dark Seed
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      AdLib / OPL2 (YM3812)
+
+Music author:        Gregory Alper
+ Music programming:  David A. Bean
+Game developer:      Cyberdreams
+Game publisher:      Cyberdreams
+Game release date:   1992
+
+Package created by:  kyusawamura
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening Theme                    1:12   -
+02 Nightmare 1                      0:24   -
+03 Mansion                          1:19   1:18
+04 Doll                             0:29   -
+05 Woodland Hills                   1:25   1:25
+06 Town                             1:33   1:19
+07 Shop / Car Radio                 0:34   0:33
+08 Library                          0:45   0:44
+09 Book                             0:29   -
+10 Cemetery                         0:51   0:49
+11 Nightmare 2                      0:29   -
+12 Mirror Piece / Hammer Handle     0:20   -
+13 Dark World Mansion / Ancient
+   Ship / Dark World Jail           1:08   1:06
+14 Dark World (Outside)             1:53   1:52
+15 Ancient Power Generator /
+   Ancient Archives                 1:00   0:59
+16 Nightmare 3                      0:32   -
+17 The Ancient Ship Leaves          0:25   -
+18 Death                            0:19   -
+19 Hatch                            0:19   -
+20 Finale                           0:33   -
+
+Total Length                       15:58  26:05
+
+
+Notes:
+This is my very first rip with NewRisingSun2's
+DOSBox-VGM build.
+I have the untrimmed VGMs at hand, as well as
+the trimmed and uncompressed ones, in case
+anyone needs them for anything. Except for the
+Ancient Power Generator / Ancient Archives one
+which I mistakenly deleted. But I can do an
+unlooped rip of that one track again if
+requested.
+-kyusawamura
+
+External links:
+GameFAQs: https://www.gamefaqs.com/pc/564681-dark-seed/faqs
+GiantBomb: https://www.giantbomb.com/dark-seed/3030-2333/
+Wikipedia: https://en.wikipedia.org/wiki/Dark_Seed_(video_game)
+MobyGames: http://www.mobygames.com/game/dark-seed
+TheGamesDB: http://thegamesdb.net/?tab=game&id=19915
+
+Size reduction:
+1. vgm_cmp: 177 KB -> 128 KB (72%)
+Total: 177 KB -> 128 KB (72%)
+
+
+Package history:
+1.00 2017-05-01 kyusawamura: Initial release.
+1.01 2017-06-19 kyusawamura: Changed one of the
+ track titles.
+1.02 2017-07-31 kyusawamura: Renamed all the
+ files, changed the M3U file accordingly,
+ modified the Comments in the VGM tags, and the
+ song list in the text file.

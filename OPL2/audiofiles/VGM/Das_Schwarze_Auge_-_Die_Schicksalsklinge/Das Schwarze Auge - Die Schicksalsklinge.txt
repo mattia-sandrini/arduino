@@ -1,0 +1,69 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Das Schwarze Auge:
+                     Die Schicksalsklinge
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      YM3812
+
+Music author:        Rudolf Stember
+Game developer:      attic
+Game publisher:      attic
+Game release date:   1992
+
+Package created by:  NewRisingSun
+Package version:     1.01
+
+Song list, in original soundtrack order:
+Song name                           Length:
+                                    Total  Loop
+01 Dark World (Title Screen)        0:52   0:40
+02 Blade of Destiny (Introduction)  6:26   -
+03 A New Life is Born (Character
+   Generation)                      2:48   1:22
+04 Summary (Character Statistics)   2:11   2:03
+05 Thorwal (Town)                   1:32   1:22
+06 Temple of Dark World             1:43   1:32
+07 Come to Terms (Store)            0:45   0:41
+08 Swordforge (Smith)               0:52   0:41
+09 A Hospital Place (Tavern)        0:52   0:41
+10 The Healing Man (Healer)         1:17   1:01
+11 Hero's Camp                      1:22   1:12
+12 Victory                          1:48   1:05
+13 Ship Voyage                      0:13   0:11
+14 Dungeon (Ambient)                0:44   0:33
+
+Total Length                       23:24  35:55
+
+
+Notes:
+Titles of tracks 1-12, minus text in
+parentheses, taken from the OST. Track 13 is
+not on the OST.
+
+All English versions of the game ("Realms of
+Arkania: Blade of Destiny") use a completely
+different sound routine (Miles Design AIL), and
+have two additional songs.
+
+Tracks 1 and 2 in this pack play at the speed
+defined in the original music file (format:
+"AUDIOS WAVE SLAVE PC"); the game's INTRO.EXE
+has a bug in its timer interrupt handler that
+makes the files play at only 35 Hz instead of
+the correct 50 Hz.
+
+The white noise in Track 2 at 00:37-01:16
+sounds wrong (metallic) in most OPL emulators.
+It sounds correct on the original hardware,
+and in the Nuked OPL3 emulator.
+
+Tools: DOSBox-VGM, vgm_cmp
+
+
+Package history:
+1.00 2017-03-18 NewRisingSun: Initial release.
+1.01 2017-06-20 NewRisingSun: Corrected
+ several loops. Added missing ambient track 14.

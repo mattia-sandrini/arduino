@@ -1,0 +1,62 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Eye of the Beholder III:
+                     Assault on Myth Drannor
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Mason Fisher
+Game developer:      SSI, Inc.
+Game publisher:      SSI, Inc./TSR, Inc.
+Game release date:   1990
+
+Package created by:  Doommaster1994
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Introduction                     2:01   -
+02 Theme of Florin Falconhand       0:29   -
+03 Mausoleum                        0:13   -
+04 Theme of Isharn Hammerfell       0:21   -
+05 Theme of Captain Fflar           0:35   -
+06 Forest Trail                     0:19   -
+07 Theme of Delmair Rallyhorn       0:20   -
+08 Delmair Transforms               0:27   -
+09 Theme of Forest Ghost            0:20   -
+10 Myth Drannor                     0:17   -
+11 Theme of Rex                     0:25   -
+12 Mages' Guild                     0:15   -
+13 Theme of Bugenius                0:16   -
+14 Going Underwater                 0:19   -
+15 Theme of Acwellan                0:25   -
+16 Betrayal                         0:23   -
+17 Theme of Father Jon              0:16   -
+18 Temple of Lathander              0:11   -
+19 Theme of Lathander               0:15   -
+20 Theme of Tabitha                 0:20   -
+21 Dhauzimmer                       0:15   -
+22 Heroes' Feast                    0:12   -
+23 Theme of the Dark God            0:26   -
+24 Ending Theme                     2:13   0:18
+26 Unused Song 1                    0:16   0:16
+27 Unused Song 2                    0:19   -
+
+Total Length                       12:08  12:42
+
+
+Notes:
+Other audio staff credited:
+Brian Lowe (Sound effects - credited in manual)
+Mike Provenza (Sound effects)
+Ralph Thomas (Sound programmer)
+
+
+Package history:
+1.00 2014-09-05 Doommaster1994: Initial
+ release.
+1.01 2014-09-19 Doommaster1994: Fix 1

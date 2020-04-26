@@ -1,0 +1,95 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Dyna Blaster
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        June Chikuma
+Game developer:      Hudson Soft
+Game publisher:      Ubisoft
+Game release date:   1992
+
+Package created by:  Valley Bell
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:22   -
+02 Opening                          0:26   -
+03 Map Display                      0:07   -
+04 Stage Start, Battle Start        0:04   -
+05 Level BGM 1                      0:51   0:51
+06 Life Lost                        0:05   -
+07 Game Over                        0:12   -
+08 Level BGM 2,
+   Battle Configuration             1:24   1:24
+09 Boss Theme                       0:27   0:27
+10 Stage Clear                      0:05   -
+11 Ending                           0:16   0:16
+12 Battle Theme                     0:21   0:21
+13 Battle Draw                      0:05   -
+14 Battle Win                       0:05   -
+15 Battle Championship              0:08   0:08
+
+Total Length                        4:57   8:25
+
+
+Notes:
+Dyna Blaster - better known as Bomberman.
+
+The game uses CMF MIDIs and I think it's quite
+decent for that. The game is a port of the
+PC Engine version. The songs are based on that
+version, but not all songs were ported.
+
+The PC Engine version had one of the 3 level
+themes assigned to each round. The DOS version
+lacks the theme used in PCE's round 6 and 8 and
+alternates between the two level BGMs (odd and
+even stages respectively) and the boss theme in
+Stage 8. This repeats every round.
+
+The title and ending songs seem to be original.
+
+
+I ripped the music by replacing the title theme
+and battle menu music for non-looping and
+looping songs respectively. (due to not being
+able to find the pointer list for music.dat)
+
+The game seems to issue the PlayMusic command
+twice everytime a song starts playing.
+I removed the block with redundant commands.
+
+The CMF engine seems to fail at reseting the
+sound chip when terminating playback. It sends
+Chn 0 Op 1 SustainLvl = 1, ReleaseRate = 3 and
+it does that 9 times. (The OPL2 has 9 channels,
+so it was probably supposed to go to all
+channels.)
+This causes channel 0 to slowly fade into a
+sine wave. I delayed those commands in some
+cases to improve the sound.
+
+
+The song titles are a mix between the ones
+Sonic of 8! used in the Bomerman '94 pack for
+PC Engine and vgmdb OST titles.
+http://vgmdb.net/album/2023
+
+June Chikuma is listed as "Atsushi Chikuma" in
+the game's credits.
+
+
+Size reduction:
+1. vgm_smp1: 97.3 KB -> 91.2 KB (93.8 %)
+2. vgm_cmp: 91.2 KB -> 52.9 KB (58.0 %)
+Total: 97.3 KB -> 52.9 KB (54.4 %)
+
+
+Package history:
+1.00 2015-01-30 Valley Bell: Initial release.

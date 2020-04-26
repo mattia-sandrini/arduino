@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           The Blues Brothers
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Dimitris Yerasimos (ports)
+ Original authors:   Henry Mancini,
+                     Solomon Burke,
+                     Donnie Walsh
+Game developer:      Titus Software
+Game publisher:      Titus Software
+Game release date:   1991
+
+Package created by:  Tom
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Peter Gunn Theme                 1:07   1:03
+02 Everybody Needs Somebody To Love 1:37   1:37
+03 (I Got Everything I Need) Almost 1:30   1:28
+04 Shotgun Blues                    2:40   2:22
+
+Total Length                        6:54  13:25
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2012-10-26 Tom: initial release
+1.01 2012-11-27 Valley Bell: Fixed description
+ file (broke it when approving it)

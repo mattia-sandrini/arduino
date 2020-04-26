@@ -1,0 +1,45 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           4D Boxing
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      YM3812,
+                     Sound Blaster DAC
+
+Music author:        Michael J. Sokyrka,
+                     Kris Hatlelid,
+                     Brian Plank
+Game developer:      Distinctive Software
+Game publisher:      Electronic Arts
+Game release date:   1991
+
+Package created by:  NewRisingSun
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:32   0:32
+02 The Gym                          0:36   0:36
+03 Pre-Fight Cutscene               0:36   0:36
+04 Title Won & Hall of Fame         0:26   0:26
+
+Total Length                        2:10   4:19
+
+
+Notes:
+Uses the Sound Blaster DAC for drums.
+The earlier European release of the game
+("4D Sports Boxing", published by Mindscape)
+has completely different music.
+
+
+Package history:
+1.00 2017-01-02 NewRisingSun: Initial release.
+1.01 2017-09-29 NewRisingSun: Moved PCM Data
+ block to the beginning of the file.
+ Removed redundant stream control commands.
+1.02 2018-03-31 Valley Bell: Optimized PCM
+ stream commands.

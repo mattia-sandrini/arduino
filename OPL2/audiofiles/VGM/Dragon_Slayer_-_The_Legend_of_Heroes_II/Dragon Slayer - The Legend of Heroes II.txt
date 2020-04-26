@@ -1,0 +1,69 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Dragon Slayer: The Legend
+                     of Heroes II
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        SoundTeMP (arrange),
+                     Mieko Ishikawa,
+                     Atsushi Shirakawa
+Game developer:      Nihon Falcom; MANTRA
+Game publisher:      Samsung
+Game release date:   1996
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening 1                        4:37   -
+02 Opening 2                        2:05   -
+03 Peace                            1:13   1:12
+04 Slime Bullying                   0:29   0:29
+05 Ship                             1:29   1:29
+06 Castle                           1:14   1:14
+07 Surprise                         0:13   0:13
+08 Field                            0:50   0:50
+09 Battle                           0:51   0:39
+10 Game Over                        1:11   1:11
+11 Underground Castle               0:39   0:39
+12 Selios' Departure                0:34   0:34
+13 Town                             1:31   1:31
+14 Stopper                          1:01   1:01
+15 Inside the Cave                  1:49   1:49
+16 Underground Cave                 0:41   0:41
+17 Underground Town                 1:02   1:02
+18 Wrath of the Emperor             0:43   0:30
+19 Gail I                           0:46   0:46
+20 Grostos Castle                   1:07   1:07
+21 Barbara                          0:27   0:26
+22 Resistance Hunting               0:39   0:34
+23 Underground Ruined Town          0:51   0:41
+24 Meeting                          1:17   1:17
+25 Sortie                           1:05   1:01
+26 Rushing ~ Grostos Castle 2       1:45   1:27
+27 Soldier's Flute                  0:08   -
+28 Battle with the Emperor          0:21   0:21
+29 Ending                          11:09   -
+30 Utility                          1:22   1:19
+
+Total Length                      43:08 1:07:07
+
+
+Notes:
+Playback in-game using DOSBOX 0.74 mod.
+
+Composer breakdown for soundTeMP not known for
+this particular version.
+
+Track titles taken from:
+   http://vgmdb.net/album/1348
+
+
+Package history:
+1.00 2014-04-21 dj.tuBIG/MaliceX: Initial rel.

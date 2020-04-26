@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Eye of the Beholder
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Paul Mudra
+Game developer:      Westwood Associates
+Game publisher:      SSI, Inc./TSR, Inc.
+Game release date:   1990
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Westwood Associates Logo         0:33   -
+02 Introduction Part 1              1:31   -
+03 Introduction Part 2              0:32   -
+04 Character Generation             1:43   1:42
+05 Ending Theme                     1:42   -
+
+Total Length                        6:01   7:42
+
+
+Notes:
+Thanks to Valley Bell for hacking the game so I
+could rip tracks 01-03!
+
+
+Package history:
+1.00 2014-09-01 Doommaster1994: Initial
+ release.

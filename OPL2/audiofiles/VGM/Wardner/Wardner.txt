@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net                      *
+***********************************************
+Game name:           Wardner
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Osamu Ohta
+Game developer:      Toaplan
+Game publisher:      Taito Corporation Japan
+Game release date:   1987
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Coin                             0:02   -
+02 Mori-no Naka                     0:48   0:47
+03 Hi-no Yama                       0:50   0:39
+03 Koujou Ato                       0:17   0:16
+04 Shiro-no Naka                    0:48   0:47
+05 Chika-e                          0:34   0:33
+06 King                             0:08   0:08
+07 Naming                           0:21   0:20
+08 Kobito                           0:40   0:32
+09 Shop                             0:58   0:05
+10 Nodoka                           0:14   -
+11 Game Over                        0:06   -
+
+Total length                        5:46   9:53
+
+
+Notes:
+This game has two ports: One in Famicom Disk
+System (Wardner no Mori, published by Taito)
+and on Sega Mega Drive / Genesis (Wardner /
+Wardner no Mori Special, ported by Visco). 
+
+
+Package history:
+1.00 2012-04-14 Sonic of 8!: Initial release.

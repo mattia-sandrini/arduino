@@ -1,0 +1,71 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Pee & Gity Special
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        D.A.C.
+ in particular:      Seung-Hwan Ro,
+                     Myung-Jin Ahn
+Game developer:      Family Production
+Game publisher:      Family Production
+Game release date:   1994-12
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Family Production Logo           0:06   -
+02 Opening                          0:42   0:42
+03 Select Player                    0:23   0:23
+04 King Golem [Stage 1 Woods]       0:56   0:56
+05 Robowar [Stage 2 Cake]           1:04   1:04
+06 Doodoo [Stage 3 Desert]          1:18   1:18
+07 Sulipapa [Stage 4 Castle]        1:01   1:01
+08 Time Master [Stage 5 Snow
+   Village]                         0:48   0:48
+09 Cutscene                         0:27   0:27
+10 Pierrot [Stage 6 Train Station]  1:04   1:04
+11 Herus [Stage 7 Moon]             0:38   0:38
+12 Unused Herus                     1:01   1:01
+13 Unused Cake                      1:01   1:01
+14 Unused Moon                      1:16   1:16
+15 Game Over                        0:32   0:32
+16 Ending                           1:32   -
+
+Total Length                       13:51  26:02
+
+
+Notes:
+Playback via OCPLAY in DOSBOX 0.74 mod
+
+This is from the SPECIAL version, released
+in Korea and more widely known in Western
+shareware circles.
+
+Used the names of the stage bosses as the main
+song titles. Interestingly, "Herus" actually
+had no boss name and so was taken from the
+original Pee & Gity game (same stage and
+character).
+
+Interestingly the unused tracks while they
+exist in the original version, they don't
+play in any of the stages in this special
+version. In addition, almost every track
+are rearrangements from the original
+version.
+
+Special thanks to Seunghwan(Ted) Ro, for
+providing information on D.A.C.
+
+
+Package history:
+0.99 2013-12-05 dj.tuBIG/MaliceX: Log, no tags
+1.00 2015-09-27 dj.tuBIG/MaliceX: Initial rel.
+1.01 2015-10-03 dj.tuBIG/MaliceX: DAC real name

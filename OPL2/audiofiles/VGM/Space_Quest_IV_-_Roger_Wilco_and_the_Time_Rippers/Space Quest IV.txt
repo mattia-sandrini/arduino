@@ -1,0 +1,107 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Space Quest IV:
+                     Roger Wilco and the
+                     Time Rippers
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Ken Allen,
+                     Robert Atesalp,
+                     Mark Seibert
+Game developer:      Sierra On-Line
+Game publisher:      Sierra On-Line
+Game release date:   1991
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main Title                       1:08   0:39
+02 Locating Roger Wilco             0:34   -
+03 Confirmed His Position           0:41   -
+04 Seedy Spaceport Bar              1:12   1:10
+05 Vohaul's Holographic Message     0:48   0:12
+06 Roger Jr. to the Rescue          0:44   0:26
+07 Inside the Time Rip              0:17   0:14
+08 Post-War Xenon Sky               0:35   0:35
+09 Post-War Xenon Streets           1:23   1:23
+10 Cyborg Screaming                 0:14   0:14
+11 Droid o' Death                   0:15   0:15
+12 Death Screen                     0:06   -
+13 Professor Lloyd's Message        1:55   1:03
+14 The Sewer                        0:56   0:56
+15 Chased by Sewer Slime            0:20   0:16
+16 Consumed by Sewer Slime          0:10   -
+17 Patrol Ship Arrives              0:48   0:06
+18 Patrol Ship Leaves City          0:53   -
+19 Patrol Ship Leaves Fortress      0:06   -
+20 Patrol Ship Back in City         0:05   -
+21 Sequel Policemen Board Patrol
+   Ship                             0:12   -
+22 Patrol Ship Leaves City Again    0:15   -
+23 The Landing Bay                  1:01   1:01
+24 Dumb Copy Protection             0:36   0:36
+25 Time Warp Fail                   0:11   -
+26 Time Warp Success                0:22   -
+27 Mountains of Estros              0:48   0:48
+28 Caught by Pterodactyl            0:33   0:22
+29 Pterodactyl's Nest               0:25   0:25
+30 Ambush by the Latex Babes        0:28   0:16
+31 The Latex Babes' Submarine       1:05   0:22
+32 Torture Preparations             1:32   0:12
+33 EpiRip 357                       0:04   -
+34 The Sea Slug                     0:30   0:20
+35 Sea Slug Averted                 0:48   0:41
+36 Meanwhile, back in Space Quest
+   XII                              0:49   -
+37 Roger Jr. Captured               0:44   0:38
+38 Arriving at the Galaxy Galleria  0:17   0:07
+39 Skate O'Rama                     0:40   0:40
+40 Big and Tall Store               0:43   0:43
+41 Software Store                   0:53   0:53
+42 Monolith Burger                  0:32   0:32
+43 Flipping Burgers #1 (Slowest
+   Speed)                           0:18   0:18
+44 Flipping Burgers #2              0:14   0:14
+45 Flipping Burgers #3              0:12   0:12
+46 Flipping Burgers #4              0:10   0:10
+47 Flipping Burgers #5              0:09   0:09
+48 Flipping Burgers #6              0:07   0:07
+49 Flipping Burgers #7 (Fastest
+   Speed)                           0:06   0:06
+50 Sack's Store                     0:33   0:33
+51 Radio Shack Store                0:31   0:10
+52 Amusement Arcade                 0:35   0:34
+53 Ms. Astro Chicken Main BGM       0:10   0:09
+54 Ms. Astro Chicken Death BGM      0:05   -
+55 Zero-G Skating                   0:40   0:40
+56 Back in Space Quest I            0:15   0:15
+57 The Rocket Bar                   1:02   0:55
+58 The Monochrome Boys              0:32   0:19
+59 Sewer Slime Consumes Lock        0:20   0:16
+60 Super Computer Tube              0:44   0:44
+61 Inside Super Computer            1:04   1:04
+62 Format Sequence Initiated        1:19   1:19
+63 Fight Against Roger Jr.          0:23   0:23
+64 Retrieving the Soul Disk         0:45   0:45
+65 Finale                           3:30   -
+66 End Credits                      1:14   0:57
+
+Total Length                      41:41 1:08:06
+
+
+Notes:
+Mostly competent conversion of the original
+Roland MT-32 music.
+
+Sound driver: ADL.DRV
+
+
+Package history:
+1.00 2017-10-05 NewRisingSun: Initial release.

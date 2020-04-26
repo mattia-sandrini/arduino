@@ -1,0 +1,63 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Rusty
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Masahiro Kajihara,
+                     Kenichi Arakawa,
+                     Ryu Takami
+Game developer:      C-lab
+Game publisher:      C-lab
+Game release date:   1993-07-16
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 C-lab Logo                       0:04   -
+02 Blood Soon Castle [Intro]        1:26   0:56
+03 Rusty [Title]                    3:04   -
+04 The World                        0:07   0:07
+05 Queen in the Dark Night          2:16   1:40
+   [Round 1]
+06 Silent Cemetery [Round 2]        1:44   1:25
+07 Mysterious Chapel [Round 3]      1:44   1:03
+08 Dead End [Round 4]               1:45   1:32
+09 Earth Hole [Round 5-1]           2:26   1:31
+10 Hell's Strike [Round 5-2]        0:48   0:48
+11 Water Gate [Round 6]             0:58   0:58
+12 Red Sunset [Round 7]             1:43   1:40
+13 Tower of the Destiny [Round 8]   2:07   2:07
+14 Stone Washer [Round 9]           2:02   1:01
+15 Castle [Round 10-1]              0:56   0:56
+16 An Alter [Round 10-2]            0:29   0:28
+17 I'll Destroy Your Mind [Boss 1]  1:38   1:07
+18 Rhythm of Dark [Boss 2]          0:40   0:40
+19 Dance Dance [Clear]              0:09   -
+20 Eye Catch                        0:10   -
+21 Final Battle [Boss Final]        1:16   0:56
+22 All Over                         0:13   -
+23 As if in a Dream [Ending 1]      2:04   -
+24 Rising Sun [Ending 2]            5:19   3:52
+25 Never Giveup [Game over]         0:10   -
+26 Sadness [Visual 1]               0:49   0:39
+27 Encounter [Visual 2]             0:27   0:27
+28 Light Room [Visual 3]            0:36   0:35
+29 Shooting Star [Visual 4]         1:19   0:48
+
+Total Length                      38:28 1:03:47
+
+
+Notes:
+Playback via GMPv4 in DOSBOX 0.74 mod
+Track list adapted from the hoot xml set.
+
+
+Package history:
+1.00 2013-02-21 dj.tuBIG/MaliceX: Initial rel.

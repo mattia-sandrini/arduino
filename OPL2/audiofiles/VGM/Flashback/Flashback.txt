@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Flashback
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Ad-Lib / Sound Blaster
+                     (YM3812)
+
+Music author:        Jean Baudlot,
+                     Fabrice Visserot
+Game developer:      Delphine Software
+                     International
+Game publisher:      U.S. Gold
+Game release date:   1993
+
+Package created by:  LuigiBlood
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Logo                             0:17   -
+02 Introduction                     1:07   -
+03 Main Theme                       2:12   2:12
+04 Waking up                        0:05   -
+05 Item Fanfare                     0:02   -
+06 Holocube                         0:22   0:22
+07 Give Item                        0:02   -
+08 To New Washington                0:13   -
+09 Memory                           1:41   -
+10 Mission                          0:36   0:36
+11 Travelling to Earth              0:41   -
+12 Taxi                             0:05   -
+13 Reunion                          0:32   -
+14 Teleporting to Morph Planet      0:08   -
+15 Diary                            2:23   2:12
+16 Elevator to the Final            0:17   -
+17 Ending                           2:15   1:05
+18 Game Over                        0:05   -
+
+Total Length                       13:03  19:30
+
+
+Notes:
+This is a pretty cool french game, with some of
+the best songs ever.
+
+
+Package history:
+1.00 2013-04-22 LuigiBlood: Initial release.

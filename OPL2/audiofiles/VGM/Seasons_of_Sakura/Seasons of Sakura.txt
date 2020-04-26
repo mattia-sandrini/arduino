@@ -1,0 +1,67 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Seasons of Sakura
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Takanori Nakaigawa
+Game developer:      JAST Co. Ltd. / Tiara
+Game publisher:      JAST USA
+Game release date:   1996
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main Theme                       1:16   1:01
+02 Protagonist's Home               0:42   0:42
+03 School                           0:32   0:29
+04 Theme of Aki Hinagiku            0:36   0:36
+05 Theme of Meimi Nakano            0:23   0:23
+06 Theme of Kiyomi Shinfuji         0:32   0:32
+07 Theme of Mio Suzuki              0:40   0:40
+08 Theme of Reiko Sawamura          1:01   0:42
+09 Theme of Shoko Nishino           0:31   0:25
+10 Theme of Ruri Shiromizu          0:53   0:50
+11 Theme of Kyoko Kobayashi         1:03   0:52
+12 Valentine's Day                  1:58   1:10
+13 Hanami                           0:39   0:31
+14 Club Activities Briefing         1:04   0:46
+15 After the Club Activities
+   Briefing                         0:30   0:30
+16 School Festival                  0:40   0:31
+17 Folk Dance                       0:42   0:29
+18 Athletics Festival               0:57   0:39
+19 Song of the City                 0:26   0:26
+20 Christmas                        0:33   0:24
+21 Shogatsu                         1:11   1:03
+22 Open Air School                  0:42   0:34
+23 Crisis                           0:44   0:36
+24 Cliff scene (Ruri Rescue)        0:36   0:28
+25 Sunset scene                     1:11   0:47
+26 Song of the Sea                  1:06   0:59
+27 Birthday Party Scene             0:25   0:25
+28 Scenes reflecting one year       1:40   1:39
+29 Confession scene                 0:45   0:44
+30 Apology scene                    1:00   0:48
+31 Bad End                          0:34   0:34
+32 Ending                           1:15   0:56
+
+Total Length                       26:49  49:00
+
+
+Notes:
+Playback w/ GMPv4 (PMDIBM) using DOSBOX 0.74
+mod.
+
+Track titles taken from hoot's tiara.xml
+playlist.
+
+
+Package history:
+1.00 2014-07-08 dj.tuBIG/MaliceX: Initial rel.

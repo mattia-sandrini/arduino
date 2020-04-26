@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           World Circuit (U) /
+                     Microprose Formula One
+                     Grand Prix (E)
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Sound Blaster Pro 1
+                     (2xYM3812)
+
+Music author:        David Lowe,
+                     John Broomhall
+Game developer:      MicroProse Ltd.
+Game publisher:      MicroProse Ltd.
+Game release date:   1992
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Introduction                     1:03   -
+02 Opening Credits                  1:34   1:34
+03 Race Over                        0:13   -
+04 Spraying Champagne               0:11   0:11
+
+Total Length                        3:01   4:46
+
+
+Notes:
+The sound driver has an error in 2xYM3812 mode
+causing the initial notes of every song to be
+panned to the right. This has been corrected.
+
+
+Package history:
+1.00 2017-06-25 NewRisingSun: Initial release.

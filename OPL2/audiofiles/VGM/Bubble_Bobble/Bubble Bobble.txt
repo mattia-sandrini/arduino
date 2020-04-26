@@ -1,0 +1,53 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Bubble Bobble
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Tadashi Kimijima
+Game developer:      NovaLogic
+Game publisher:      Taito America Corp.
+Game release date:   1989
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Introduction                     0:08   -
+02 Main Theme                       0:45   0:45
+03 Hurry Up!                        0:02   -
+04 Main Theme (faster)              0:32   0:31
+05 Skull Monster Appearance         0:02   -
+06 Extend (start)                   0:04   0:04
+07 Extend (end)                     0:04   -
+08 Bonus Music                      0:06   0:06
+09 Secret Room                      0:16   0:16
+10 False Ending                     0:29   0:29
+11 Super Drunk                      0:14   0:13
+12 Real Ending                      1:24   -
+13 Name Entry                       0:09   0:09
+14 Game Over                        0:02   -
+
+Total Length                        4:15   6:49
+
+
+Notes:
+Given that the original arcade board uses the
+YM3526 FM chip, to which the AdLib's YM3812 is
+backwards-compatible, this conversion is quite
+bad.
+
+The track names reflect the situation at which
+a particular tune played in the original arcade
+game. The DOS version mixes them up somewhat:
+for example, the "Real Ending" tune is played
+at the title screen instead.
+
+
+Package history:
+1.00 2017-10-02 NewRisingSun: Initial release.

@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           MegaRace
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Stéphane Picq
+Game developer:      Cryo Interactive
+Game publisher:      The Software Toolworks
+Game release date:   1993
+
+Package created by:  MrKsoft
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 NewSan                           3:00   2:38
+02 Magical Maeva                    2:22   2:22
+03 Factory Land                     3:19   2:43
+04 Fractalian Space                 2:49   2:29
+05 Skyholder / The Last Chance
+   Speedway / Credits               3:10   3:01
+06 Terminal City                    2:23   2:19
+
+Total Length                       17:03  32:36
+
+
+Notes:
+This is my first VGM pack.
+
+Much thanks to ValleyBell for making a fixed
+build of DOSBox 0.74 that made it stop ripping
+these tracks as dual-OPL2, because the second
+chip isn't used.
+
+
+
+Package history:
+1.00 2012-05-26 MrKsoft: Initial release.

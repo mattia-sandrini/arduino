@@ -1,0 +1,37 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           John Madden Football II
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      YM3812
+
+Music author:        Michael Bartlow (MD);
+                     unknown (DOS)
+Game developer:      Park Place (MD);
+                     D.C. True (DOS)
+Game publisher:      Electronic Arts
+Game release date:   1991
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     2:29   -
+02 Touchdown                        0:13   -
+03 Half Time                        0:40   0:40
+04 Quarter Time                     0:18   -
+
+Total Length                        3:40   4:20
+
+
+Notes:
+MS-DOS port of John Madden Football '92 on Sega
+Mega Drive / Genesis.
+
+
+Package history:
+1.00 2019-06-07 Sonic of 8!: Initial release.

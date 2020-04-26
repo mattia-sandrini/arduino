@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Mad Paradox
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Shirahama Nanki
+Game developer:      Queensoft
+Game publisher:      Queensoft
+Game release date:   1992-08-28
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          1:35   1:34
+02 Village                          0:56   0:55
+03 Young Man                        1:54   1:53
+04 Battle                           0:22   0:19
+05 Fort of Gidd                     0:32   0:32
+06 Boss Stage                       0:40   0:38
+07 For Lita                         0:41   0:40
+08 Master                           0:37   0:37
+09 Castle of Heavens                0:42   0:42
+10 Sanctum                          1:29   1:29
+11 Old Foe                          0:48   0:48
+12 Ending                           2:08   2:07
+13 Game Over                        1:36   1:36
+14 C.G. Gallery                     1:22   1:22
+
+Total Length                       15:22  30:34
+
+
+Notes:
+Playback via GMPv4 in DOSBOX 0.74 mod
+
+
+Package history:
+1.00 2013-11-25 dj.tuBIG/MaliceX: Initial rel.

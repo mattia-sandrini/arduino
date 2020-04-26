@@ -1,0 +1,53 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Mortal Kombat
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Sound Blaster/OPL2
+                     (YM3812)
+
+Music author:        Allister Brimble,
+                     Dan Forden
+Game developer:      Midway Games;
+                     Probe Software
+Game publisher:      Acclaim Entertainment /
+                     UltraTech
+Game release date:   1993
+
+Package created by:  RandomName
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            0:02   -
+02 Intro                            0:24   0:23
+03 Character Bio                    0:36   -
+04 Match Begin                      0:04   -
+05 The Courtyard                    1:45   1:02
+06 Palace Gates                     1:18   1:18
+07 Warrior's Shrine                 4:21   4:06
+08 The Pit                          2:25   1:50
+09 Victory                          0:02   -
+10 Continue                         0:04   -
+
+Total Length                       11:03  19:42
+
+
+Notes:
+Logged with Valley Bell's DOSBox 0.74 mod.
+
+Sound effects disabled with Alt + S
+God mode / level select enabled with
+AQRIT's Mortal Kombat 1 Trainer located at:
+http://bitpatch.com/mk1.html
+
+
+Package history:
+1.00 2016-07-01 RandomName: Initial release.
+1.01 2016-07-02 RandomName: Fixed music author
+ credits.
+1.02 2016-12-24 RandomName: Character bio
+ song length increased by joining Player 2

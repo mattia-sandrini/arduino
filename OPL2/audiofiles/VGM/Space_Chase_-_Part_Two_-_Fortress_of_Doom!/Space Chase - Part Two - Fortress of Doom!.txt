@@ -1,0 +1,48 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Space Chase: Part Two:
+                     Fortress of Doom!
+System:              PC / DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Theo Bishop
+Game developer:      Safari Software
+Game publisher:      Safari Software
+Game release date:   1993
+
+Package created by:  MrKsoft
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Menu                             1:19   1:19
+02 The Outskirts (Level 1)          0:35   0:35
+03 Timberlands (Level 2),
+   One Way (Level 8)                1:36   1:36
+04 Castles (Level 3)                0:53   0:53
+05 Catacombs (Level 4)              1:22   1:22
+06 Corridors (Level 5)              0:52   0:52
+07 Control Center (Level 6)         1:32   1:32
+08 The Silo (Level 7)               0:52   0:52
+09 Ramparts (Level 9)               1:01   1:01
+10 Helipad (Level 10)               1:11   1:11
+
+Total Length                       11:14  22:27
+
+
+Notes:
+Time for an obscure DOS game!  I played this a
+lot when I was a kid and so I felt that I owed
+it to myself to make a rip of the music.
+
+The game itself is not particularly notable,
+and doesn't play all that well.  The music is
+also rather basic, but some of the tunes are
+still somewhat catchy.  Enjoy!
+
+
+Package history:
+1.00 2012-06-23 MrKsoft: Initial release.

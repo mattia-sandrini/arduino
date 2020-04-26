@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Betamax
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Sound Blaster 16/OPL2
+                     (YM3812)
+
+Music author:        Sebastian Jacobi
+Game developer:      The CoExistence
+Game publisher:      The CoExistence
+Game release date:   1997-03-31
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main Theme                       2:06   2:01
+
+Total Length                        2:06   4:07
+
+
+Notes:
+[Generator]
+ DOSBox-VGM, modded by NewRisingSun
+
+A demoscene game! This shmup was released at
+Mekka & Symposium 1997, entered in the 32kb
+game "compo" (competition) in which groups had
+to make a game that was 32 kilobytes in size or
+less. It placed 4th, but unlike the actual
+winner (a thoroughly 1990s Microsoft parody),
+it holds up even today as a short but neat
+Gradius-alike for its tiny size. Plus, the
+CoExistence managed to squeeze in a two-minute
+song (trimmed six seconds later here to avoid
+bugs), a snazzy OPL2 loop so efficiently coded
+that vgm_cmp does absolutely nothing to it.
+
+Enjoy!
+
+If you have DOSBox, you can download the game
+here: http://www.pouet.net/prod.php?which=15504
+
+
+Package history:
+1.00 2018-07-29 The Green Herring: Initial
+ release.

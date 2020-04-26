@@ -1,0 +1,54 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Indiana Jones and the
+                     Last Crusade:
+                     The Graphic Adventure
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        John Williams,
+                     arr. Eric Hammond
+Game developer:      Lucasfilm Games
+Game publisher:      Lucasfilm Games
+Game release date:   1989
+
+Package created by:  NewRisingSun
+Package version:     1.03
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main Title (The Raiders March)   0:51   -
+02 Travelling (The Boat Chase)      0:18   0:13
+03 Venice (The Boat Chase)          0:34   0:34
+04 Into the Catacombs               1:08   1:08
+05 Fanfare                          0:02   -
+06 Dead Knight's Body               0:03   -
+07 Castle Brunwald (Kasim Meets
+   Max)                             0:41   -
+08 Passing Checkpoints (The
+   Motorcycle Chase)                0:41   0:41
+09 Berlin (Königgrätzer Marsch)     0:38   0:33
+10 Piano Player on Zeppelin         0:37   -
+11 The Tree Trials (The Keeper of
+   the Grail)                       0:36   0:34
+12 Grail Cave                       1:28   1:28
+13 Ending (The Raiders March)       1:09   1:09
+
+Total Length                        8:46  15:06
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2017-04-28 NewRisingSun: Initial release.
+1.01 2017-06-21 NewRisingSun: Corrected tempo.
+1.02 2017-06-23 NewRisingSun: Removed in-note
+ delay from track 9.
+1.03 2017-07-22 NewRisingSun: Conformed file
+ name format to tag titles.

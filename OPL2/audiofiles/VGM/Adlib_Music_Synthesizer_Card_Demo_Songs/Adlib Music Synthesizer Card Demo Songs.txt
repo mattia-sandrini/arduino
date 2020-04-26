@@ -1,0 +1,289 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Adlib Music Synthesizer
+                     Card Demo Songs
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      Adlib Music Synthesizer
+                     Card (YM3812)
+
+Music author:        Various, arranged by
+                     Henri Chalifour,
+                     Gerard Jones,
+                     Raymond Skilling et al.
+Game developer:      Adlib Inc.
+Game publisher:      Adlib Inc.
+Game release date:   1987
+
+Package created by:  NewRisingSun
+Package version:     2.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+001 Highways                        1:12   -
+002 Elecrock                        1:09   -
+003 Gargoyles                       1:38   -
+004 Spy's Eye                       1:12   -
+005 Air (Johann Sebastian Bach,
+    Suite No. 3 in D major, II)     2:04   -
+006 Allegro (Antonio Vivaldi,
+    Concerto No. 1 in E major
+    "La Primavera", I)              1:14   -
+007 When the Saints Go Marching In  0:58   -
+008 Railroad Story                  1:02   -
+009 Clockmaker                      1:30   -
+010 Soft Acid Rain                  0:50   -
+011 Crystal Eve                     1:37   -
+012 Softblue                        0:49   -
+013 Breathing                       0:59   -
+014 Classy Night                    0:48   -
+015 Dance Beat                      1:18   -
+016 Do it!                          0:33   -
+017 Very Busy                       1:21   -
+018 Spatial Romance                 1:24   -
+019 Pink Sadness                    1:33   -
+020 Ambiguous Moments               2:19   -
+021 Talk Theme                      1:28   -
+022 Reckless Game                   2:22   -
+023 Modern Baroque                  1:33   -
+024 Winter Lullaby                  1:07   -
+025 News Brief                      1:56   -
+026 Weekend                         1:39   -
+027 Cross-Country Drive             1:31   -
+028 Waiting for You                 1:38   -
+029 Harvard Folk Song               1:28   -
+030 Yankee Doodle                   1:08   -
+031 Funeral March of a Marionette
+    (Charles Gounod)                2:52   -
+032 Dance of the Sugar Plum Fairy
+    (Pyotr Ilyich Tchaikovsky, The
+    Nutcracker Act II, No. 14b)     1:47   -
+033 Tea (Chinese Dance) (Pyotr
+    Ilyich Tchaikovsky, The
+    Nutcracker Act II, No. 12c)     1:04   -
+034 Twinkle, Twinkle, Little Star   3:32   -
+035 Hush My Babe                    1:27   -
+036 Mary's Little Lamb (Lowell
+    Mason)                          1:42   -
+037 London Bridge is Falling Down   1:08   -
+038 Rock-a-bye Baby                 2:47   -
+039 Old King Cole                   1:58   -
+040 Frere Jacques                   1:31   -
+041 She'll Be Coming 'round the
+    Mountain                        1:25   -
+042 Flight of the Bumblebee
+    (Nikolai Rimsky-Korsakov, The
+    Tale of Tsar Saltan)            1:19   -
+043 Sandbox                         1:19   -
+044 Humming Song                    1:31   -
+045 Childhood Medley                1:36   -
+046 Silent Night (Franz Xaver
+    Gruber)                         2:20   -
+047 Jingle Bells (James Lord
+    Pierpont)                       0:50   -
+048 Joy to the World                0:39   -
+049 God Rest You Merry              0:34   -
+050 Deck the Halls                  1:37   -
+051 We Three Kings (John Henry
+    Hopkins, Jr.)                   1:02   -
+052 The First Noel                  1:25   -
+053 We Wish You a Merry Christmas   0:51   -
+054 O Come All Ye Faithful          0:55   -
+055 Away in a Manger (James Ramsey
+    Murray)                         2:44   -
+056 Angels We Have Heard on High    2:03   -
+057 O Holy Night (Adolphe Adam)     1:41   -
+058 O Christmas Tree                1:39   -
+059 Good King Wenceslas             1:00   -
+060 What Child is This?             0:54   -
+061 Canadian Medley                 3:27   -
+062 Guillaume Tell Overture
+    (Gioachino Rossini)             1:03   -
+063 An der schönen blauen Donau
+    (Johann Strauss II)             2:06   -
+064 052 L'amour est un oiseau
+    rebelle "Habanera" (Georges
+    Bizet, Carmen)                  2:00   -
+065 Belle nuit, ô nuit d'amour
+    (Jacques Offenbach, Les contes
+    d'Hoffmann)                     3:25   -
+066 Promenade (Modest Mussorgsky,
+    Pictures at an Exhibition, arr.
+    Maurice Ravel)                  1:25   -
+067 Moderato (Pyotr Ilyich
+    Tchaikovsky, Swan Lake, Act II,
+    No. 10)                         2:47   -
+068 Badinerie (Johann Sebastian
+    Bach, Suite No. 2 in B minor,
+    VII)                            0:47   -
+069 Waltz of the Flowers (Pyotr
+    Ilyich Tchaikovsky, The
+    Nutcracker Act II, No. 13)      1:05   -
+070 Allegro moderato (Johann
+    Sebastian Bach, Brandenburg
+    Concerto No. 3 in G major, I)   2:18   -
+071 Andante (Wolfgang Amadeus
+    Mozart, Piano Concerto No. 21
+    in C major, II)                 3:27   -
+072 Polonaise in A major "Military
+    Polonaise" (Fréderic Chopin)    3:23   -
+073 Siciliano (Johann Sebastian
+    Bach, Flute Sonata in E-flat
+    major, II)                      1:46   -
+074 Allegro (Antonio Vivaldi,
+    Concerto No. 3 in F major
+    "L'autunno", III)               1:56   -
+075 Gavotte Allegretto
+    (François-Joseph Gossec)        1:45   -
+076 Adagio Cantabile (Ludwig van
+    Beethoven, Piano Sonata No. 8
+    "Pathetique", II)               3:34   -
+077 Marche Militaire No. 1 (Franz
+    Schubert)                       1:32   -
+078 Alla Hornpipe (Georg Friedrich
+    Händel, Water Music Suite in D
+    major, II)                      1:08   -
+079 Molto Allegro (Wolfgang Amadeus
+    Mozart, Symphony No. 40 in G
+    minor, I)                       1:37   -
+080 Canon and Gigue for 3 Violins
+    and Basso Continuo (Johann
+    Pachelbel)                      2:59   -
+081 Tritsch-Tratsch-Polka (Johann
+    Strauss II)                     1:09   -
+082 Caprice for Solo Violin No. 24
+    (Niccolo Paganini)              2:33   -
+083 Adagio (Alessandro Marcello,
+    Oboe Concerto in D minor, II)   3:21   -
+084 Marcia alla turca (Ludwig van
+    Beethoven, Die Ruinen von
+    Athen, V)                       1:22   -
+085 Ellens Gesang III (Franz
+    Schubert, Liederzyklus vom
+    Fräulein vom See, No. 6)        1:31   -
+086 Allegro con brio (Ludwig van
+    Beethoven, Symphony No. 5 in C
+    minor)                          2:26   -
+087 Andante (Joseph Haydn,
+    Symphony No. 94 in G major
+    "Surprise Symphony")            2:59   -
+088 Zion hört die Wächter singen
+    (Johann Sebastian Bach, Wachet
+    auf, ruft uns die Stimme,
+    No. 4)                          2:00   -
+089 Adagio sostenuto (Ludwig van
+    Beethoven, Piano Sonata No. 14
+    "Quasi una fantasia", I)        2:04   -
+090 Allegro (Wolfgang Amadeus
+    Mozart, Serenade No. 13 for
+    strings in G major "Eine
+    kleine Nachtmusik ", I)         4:10   -
+091 Waltz (Pyotr Ilyich
+    Tchaikovsky, Children's Album,
+    No. 8)                          1:42   -
+092 Liebestraum No. 3 (Franz
+    Liszt)                          2:40   -
+093 Allegro molto assai "Ode an
+    die Freude" (Ludwig van
+    Beethoven, Symphony No. 9, IV
+    "Choral")                       1:47   -
+094 Smoky Ballroom                  1:27   -
+095 Long Nails                      2:37   -
+096 Dance of the Caramels           2:19   -
+097 Grandfather Dixit               2:08   -
+098 Black Jack                      2:15   -
+099 Dawn Mist                       2:50   -
+100 Still Smoking                   2:13   -
+101 Bogey                           1:35   -
+102 Coffee Pot                      1:54   -
+103 Lay Down                        2:57   -
+104 Cooked                          1:26   -
+105 Oh! You                         3:13   -
+106 Secret Destination              2:14   -
+107 Ocean Strains                   2:41   -
+108 Ole' Pal                        1:15   -
+109 Stratocumulus                   2:35   -
+110 Samba Moka                      2:03   -
+111 Pedro's Train                   1:57   -
+112 Memories of Brazil              1:39   -
+113 Glue Time                       2:17   -
+114 Shopping Fever                  2:02   -
+115 Singapore Sling                 2:16   -
+116 Thin Roses                      2:13   -
+117 The Cat Dancer                  1:20   -
+118 Guilty Impressions              1:47   -
+119 Fragile Thoughts                2:31   -
+120 M'am B. Steps                   2:03   -
+121 Blue Mirror Bossa               1:14   -
+122 Art Deco                        2:25   -
+123 Sun Sun Sun!                    1:56   -
+124 Supermarket                     1:44   -
+125 The End of the Road             2:06   -
+126 Space March                     1:58   -
+127 Quiet Trees                     2:19   -
+128 Late Snow                       2:21   -
+129 Spinaker                        2:18   -
+130 The Timeless Voyager            2:44   -
+131 Dark Moon                       1:54   -
+132 Passage of Time                 3:10   -
+133 The Cloud                       1:48   -
+134 Morning Light Drizzle           3:14   -
+135 Soft Times                      2:04   -
+136 Snow Flakes                     2:15   -
+137 Grey Zone                       2:00   -
+138 Round Around                    1:39   -
+139 Slow Cat                        0:55   -
+140 Sky Waltz                       2:21   -
+141 Sea Gulls                       1:56   -
+142 Traffix                         1:38   -
+143 Visions of Glory                2:12   -
+144 Business Talk                   2:16   -
+145 On Edge                         1:48   -
+146 Urbanism                        1:45   -
+147 Winning                         1:43   -
+148 Danger                          1:18   -
+149 Night Beat                      1:34   -
+150 Critical Moves                  1:55   -
+151 Heavy Weather                   1:38   -
+152 Humdrum                         1:28   -
+153 The City Hero                   2:05   -
+154 Badman                          1:13   -
+155 Information Society             1:55   -
+156 All of Us                       1:01   -
+157 Running Shadows                 2:19   -
+158 Ballad                          0:10   -
+159 Blues                           0:16   -
+160 Boogie                          0:13   -
+161 Bossa                           0:12   -
+162 Classic                         0:08   -
+163 Jazz                            0:08   -
+164 Ragtime                         0:08   -
+165 Slow                            0:12   -
+166 Western                         0:11   -
+167 Sound Effects Demo              2:11   -
+
+Total Length                    4:55:37 4:55:37
+
+
+Notes:
+Tracks 1-29 were included on the Jukebox disks
+that came with the Adlib card. Tracks 30-157
+were included on eight song albums that could
+be ordered separately from Adlib. An eight-
+song selection was given to customers who sent
+in their registration card as a "Registration
+Bonus". Tracks 158-166 are short sketches
+included on the Adlib Visual Composer disk.
+Track 167 is a sound effects demo song
+included with the Adlib Developer's Toolkit.
+
+
+Package history:
+1.00 2017-07-24 NewRisingSun: Initial release.
+2.00 2017-09-15 NewRisingSun: Added additional
+ songs from the second Juke Box diskette;
+ updated Music Author tag; set volume modifier
+ separately for each song disk.

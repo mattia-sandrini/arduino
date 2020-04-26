@@ -1,0 +1,215 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Indiana Jones and the
+                     Fate of Atlantis
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/Sound Blaster
+                     (YM3812)
+
+Music author:        John Williams,
+                     Clint Bajakian,
+                     Michael Z. Land,
+                     Peter McConnell,
+                     Robin Goldstein,
+                     J. Anthony White
+Game developer:      LucasArts
+Game publisher:      LucasArts
+Game release date:   1992
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+001 LucasArts Logo                  0:14   -
+002 Opening Credits, Part #1        0:35   -
+003 College Storerooms              1:20   1:20
+004 Falling Down #1                 0:05   -
+005 Opening Credits, Part #2 and #5 0:20   -
+006 Falling Down #2                 0:05   -
+007 Opening Credits, Part #3        0:16   -
+008 College Library                 1:05   1:05
+009 Falling Down #3                 0:07   -
+010 Opening Credits, Part #4        1:40   1:00
+011 Falling Down #4                 0:11   0:07
+012 Opening Credits, Part #6        0:45   -
+013 The Statue                      1:06   0:11
+014 Mr. Smith's Escape              0:29   -
+015 Klaus Kerner Revealed           0:39   -
+016 The Coldest Year of My Life     2:04   -
+017 World Map                       0:09   0:09
+018 Travelling                      0:11   -
+019 New York City                   1:05   -
+020 Biff the Bouncer                0:54   0:34
+021 Done Talking to Biff            0:04   -
+022 Biff Provoked                   0:04   -
+023 Fistfight                       1:05   0:55
+024 Fight Drawing to a Close        0:47   0:47
+025 Fight Ends                      0:04   -
+026 Entering Backstage              1:35   1:35
+027 Fabulous Atlantis               1:12   -
+028 Atlantis' Fall                  1:12   -
+029 The Stagehand                   3:00   3:00
+030 The Ghost Prop Machine          0:40   0:20
+031 Ghost Prop Flying               0:27   0:24
+032 Words to Mince                  0:18   0:18
+033 Ransacked Apartment             0:44   -
+034 Kerner's Theme                  0:39   0:13
+035 After Kerner's Second Escape    0:14   0:14
+036 "German Wizard Splits Atom"     1:52   1:36
+037 The Necklace                    1:01   -
+038 Nur-Ab-Sal Appears              0:30   -
+039 Nur-Ab-Sal Is Close             1:08   1:08
+040 Nur-Ab-Sal Is Speaking          0:18   -
+041 What if the Nazis Have Already
+    Found a Copy?                   0:07   -
+042 Ready to Go                     0:30   0:29
+043 Going                           0:35   -
+044 First Time in Iceland           0:32   -
+045 Iceland                         3:21   1:40
+046 The Jungle                      2:48   2:48
+047 Snake Startles Indy             0:05   -
+048 Jungle Fanfare                  0:03   -
+049 Whipping the Jungle Rodent      0:03   -
+050 Jungle Rodent's Last Moments    0:13   -
+051 Snake Strangles Rodent          0:01   -
+052 Snake and Rodent Fall           0:02   -
+053 Indy Climbs Tree                0:12   -
+054 Path Around the Jungle          2:57   2:26
+055 Tikal Temple                    5:26   -
+056 Tomb Revealed                   2:04   1:32
+057 Sternhart Steals Stone          0:58   -
+058 The Azores                      2:55   -
+059 Meanwhile in Germany            1:18   0:30
+060 The Experiment                  1:26   -
+061 Barnett College                 3:38   3:03
+062 Barnett College Basement        2:28   2:18
+063 Algiers Market                  5:00   5:00
+064 Knife Thrower                   0:16   -
+065 Riding Through the Desert       1:50   -
+066 Balloon Released                0:11   -
+067 Balloon Leaving                 0:08   -
+068 Balloon Flying (Africa)         3:00   3:00
+069 Balloon Shot                    0:30   -
+070 Open Desert                     2:30   2:30
+071 The Dig                         2:34   2:30
+072 Arriving in Monte Carlo         0:48   0:40
+073 Monte Carlo Hotel Entrance      2:06   1:03
+074 Talking to Stranger             0:46   -
+075 Talking to Trottier             2:08   0:20
+076 Hotel Room                      0:43   0:32
+077 Wearing a Bed Blanket           0:56   0:49
+078 Enter Fake Nur-Ab-Sal           2:20   0:40
+079 Séance Ends                     0:11   -
+080 Trottier Kidnapped              1:00   -
+081 The Car Chase                   1:26   1:26
+082 Car Chase Ends                  0:08   -
+083 Lying in the Gutter             0:24   0:24
+084 Death Screen                    1:13   1:12
+085 Crete                           2:26   -
+086 The Great Colony                4:02   -
+087 Prospecting                     0:55   -
+088 Draw a Line                     0:06   -
+089 Got the Moon Stone              0:14   -
+090 Found Labyrinth Entrance        0:20   -
+091 Bumper                          0:06   -
+092 Knossos Labyrinth Introduction  0:13   -
+093 Knossos Labyrinth Theme #1      1:50   -
+094 Knossos Labyrinth Theme #2      2:29   -
+095 Knossos Labyrinth Theme #3      2:48   -
+096 Pick Up Stone Head              0:11   -
+097 Drop Stone Head On Elevator     0:13   -
+098 Riding Elevator                 0:37   -
+099 Arnold's Theme                  0:35   -
+100 Rescuing Sophia                 0:28   -
+101 Riding Second Elevator          0:29   -
+102 Detecting Orichalcum            0:16   -
+103 Found Secret Door               0:13   -
+104 The Map Room                    0:59   -
+105 Thera Harbor                    1:43   1:43
+106 Balloon Ready                   0:25   -
+107 Balloon Flying (Thera)          2:02   2:02
+108 Submarine Cutscene              1:05   0:29
+109 The Submarine #1                4:05   -
+110 The Submarine #2                0:51   -
+111 The Submarine #3                1:55   -
+112 The Submarine #4                0:48   -
+113 The Sea                         4:34   -
+114 The Salvage Ship                2:01   -
+115 Scuba Diving                    1:22   1:18
+116 In the Dark                     4:30   4:27
+117 Let There Be Light              0:55   -
+118 Outer Circle #1                 2:17   2:17
+119 Outer Circle #2                 3:21   3:21
+120 Outer Circle #3                 1:52   1:52
+121 Lava Spring                     1:36   1:36
+122 The Bead Factory                0:40   -
+123 Making Beads                    0:25   -
+124 Crab Room                       3:24   3:12
+125 Vaporizing Water                0:22   -
+126 Prison Guard                    0:39   0:13
+127 The Guard Statue                0:31   -
+128 Sophia Freed From Prison        1:29   -
+129 The Sewer                       2:51   2:51
+130 The Crab Raft                   3:13   2:10
+131 Repairing Door Apparatus        0:13   0:10
+132 Door Apparatus Working          0:24   -
+133 The Throne Room                 2:54   1:53
+134 Graves of Old Kings             1:14   1:04
+135 The Accursed Necklace           2:11   0:56
+136 The End of Nur-Ab-Sal           0:30   -
+137 The Lava Room                   2:00   1:03
+138 The Center of Atlantis          0:10   0:07
+139 The Colossus                    2:15   1:03
+140 Nazi Arrival                    1:01   -
+141 Indy and Übermann Talk          1:20   1:20
+142 Step Right Up                   0:18   -
+143 Kerner's Transformation         0:12   -
+144 Doom Theme                      0:34   -
+145 You're Next, Jones!             0:16   0:16
+146 Übermann's Transformation       0:33   -
+147 Escape from Atlantis, Part #1   0:27   0:27
+148 Escape from Atlantis, Part #2   0:42   -
+149 Sunset                          0:58   -
+150 End Credits                     2:24   -
+151 The End of Nur-Ab-Sal           0:33   -
+
+Total Length                    3:01:40 3:57:18
+
+
+Notes:
+Originally composed for Roland MT-32. The AdLib
+conversion is mostly servicable, except for the
+ambient tracks (e.g. 44/52/53). Almost all of
+the music is original, even as it uses John
+Williams' leitmotifs.
+
+In Tracks 30/39/45/58/75/118/119/120, the game
+enables and disables MIDI channels to reflect
+game events. See the Notes of each file to
+learn what events are being reflected.
+
+Track 32 is unused in the game and replaced by
+a repeat of Track 29.
+
+Track 63 consists of four files playing at the
+same time which have different loop points that
+never sync (or at least don't after playing for
+two hours). The VGM pack version loops after
+one full iteration of the longest of the four
+files.
+
+Track 151 is Track 136 with MIDI channels 6 and
+7 enabled. These channels are normally enabled
+only with the Roland MT-32 sound device
+selected.
+
+Original sound driver: iMuse (ADLIB.IMS)
+
+
+Package history:
+1.00 2017-09-15 NewRisingSun: Initial release.

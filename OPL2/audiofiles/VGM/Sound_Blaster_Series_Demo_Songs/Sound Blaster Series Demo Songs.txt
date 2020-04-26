@@ -1,0 +1,78 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Sound Blaster Series
+                     Demo Songs
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      Sound Blaster (2xSAA1099),
+                     Sound Blaster Pro 1
+                     (2xYM3812),
+                     Sound Blaster Pro 2
+                     (YMF262)
+
+Music author:        Creative Music Group,
+                     Voyetra Technologies,
+                     Henri Chalifour,
+                     Gerard Jones,
+                     Raymond Skilling et al.
+Game developer:      Creative Labs
+Game publisher:      Creative Labs
+Game release date:   1987
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 The Sound Wave of the Future     1:22   -
+02 CMS Output Test                  0:12   -
+03 FM Output Test                   0:11   -
+04 Auld Lang Syne (Traditional)     1:38   -
+05 Yankee Doodle (Traditional)      0:41   -
+06 Little Brown Jug (Joseph Winner) 1:03   -
+07 My Old Kentucky Home (Stephen
+   Foster)                          1:09   -
+08 Home on the Range (Daniel E.
+   Kelley)                          1:04   -
+09 PDemo Theme II (FM Version)      1:22   -
+10 The Elements (Pyotr Ilyich
+   Tchaikovsky, Dance of the Sugar
+   Plum Fairy, The Nutcracker Act
+   II, No. 14b)                     1:47   -
+11 4-Operator FM Output Test (Henri
+   Califour, Do It!)                0:34   -
+12 Ballade                          2:09   -
+13 Jazz                             2:12   -
+14 Minuet in G major (Johann
+   Sebastian Bach)                  0:36   -
+15 Reggae                           1:38   -
+16 2-Operator FM Output Test        0:10   -
+17 Sound Blaster 16 Features (Henri
+   Califour, The Cloud)             1:48   -
+
+Total Length                       19:36  19:36
+
+
+Notes:
+Unlike the AdLib and Creative Music System
+cards, the Sound Blaster series of cards only
+came with very few demo songs, most of which
+are derivative.
+
+Tracks 10 and 17 were originally in .ROL format
+on the AdLib Song Albums #1 and #7. Creative
+Labs converted them to the .CMF format with
+their extremely buggy ROL2CMF program, which
+corrupts instrument data, and had it played by
+their even more buggy SBFMDRV v1.30 that
+completely ignores all volume information.
+Please refer to the "Adlib Music Synthesizer
+Card Demo Songs" pack, Tracks 32 and 133, to
+hear how these songs are supposed to sound.
+
+
+Package history:
+1.00 2017-09-02 NewRisingSun: Initial release.

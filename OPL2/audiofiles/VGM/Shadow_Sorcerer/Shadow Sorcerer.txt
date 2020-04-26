@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Shadow Sorcerer
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      YM3812
+
+Music author:        Martin Walker
+Game developer:      Strategic Simulations,
+                     Inc.
+Game publisher:      Strategic Simulations,
+                     Inc.
+Game release date:   1991
+
+Package created by:  MusicFox
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     2:31   -
+
+Total Length                        2:31   2:31
+
+
+Notes:
+Other audio staff:
+George Sanger: Music Producer
+
+
+Package history:
+1.00 2016-05-04 MusicFox: Initial release.

@@ -1,0 +1,77 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Tyrian
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Alexander Brandon,
+                     Andreas Molnar
+Game developer:      Eclipse Software
+Game publisher:      Epic MegaGames
+Game release date:   1995
+
+Package created by:  tails_
+Package version:     1.01
+
+Song list, in jukebox order:
+Song name                           Length:
+                                    Total  Loop
+01 Asteroid Dance Part 2            1:43   1:43
+02 Asteroid Dance Part 1            0:56   0:56
+03 Buy/Sell Music                   1:01   -
+04 CAMANIS                          1:16   0:52
+05 CAMANISE                         0:15   0:15
+06 Deli Shop Quartet                0:52   0:52
+07 Deli Shop Quartet No. 2          0:19   0:12
+08 Ending Number 1                  0:33   0:33
+09 Ending Number 2                  3:00   -
+10 End of Level                     0:05   -
+11 Game Over Solo                   0:12   -
+12 Gryphons of the West             0:58   0:45
+13 Somebody pick up the Gryphone    0:50   0:41
+14 Gyges, Will You Please Help Me?  0:34   0:33
+15 I Speak Gygese                   0:41   0:32
+16 Halloween Ramble                 1:15   1:02
+17 Tunneling Trolls                 1:27   -
+18 Tyrian, The Level                0:39   0:39
+19 The MusicMan                     0:06   -
+20 The Navigator                    0:46   0:35
+21 Come Back to Me, Savara          1:32   1:25
+22 Come Back again to Savara        0:26   0:13
+23 Space Journey 1                  1:34   -
+24 Space Journey 2                  2:54   2:54
+25 The final edge                   1:23   -
+26 START5                           0:30   0:29
+27 Parlance                         0:39   -
+28 Torm - The Gathering             0:45   0:45
+29 TRANSON                          1:27   1:26
+30 Tyrian: The Song                 1:53   -
+31 ZANAC3                           0:02   -
+32 ZANACS                           0:29   0:29
+33 Return me to Savara              1:09   1:09
+34 Highscore Table                  0:08   -
+35 One Mustn't Fall                 1:21   1:21
+36 Sarah's Song                     1:14   1:14
+37 A Field for Mag                  0:59   0:59
+38 Rock Garden                      1:27   1:14
+39 Quest for Peace                  1:23   1:23
+40 Composition in Q                 0:55   0:55
+41 BEER                             0:35   0:31
+
+Total Length                      40:12 1:06:48
+
+
+Notes:
+This pack was made using DOSBox 0.74 modified
+by Valley Bell.
+
+The way driver writes commands to chip made
+trimming this one nightmare.
+
+
+Package history:
+1.00 2012-08-29 tails_: Initial release.
+1.01 2012-11-21 tails_: Fixed loop point in 5th
+ track.

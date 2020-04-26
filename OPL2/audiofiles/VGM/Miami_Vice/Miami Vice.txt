@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Miami Vice
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Richard C. Leinecker
+Game developer:      IntraCorp, Inc.
+Game publisher:      Capstone Entertainment
+Game release date:   1989
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:30   -
+
+Total Length                        0:30   0:30
+
+
+Notes:
+No audio roles presented in the game's credits.
+Richard C. Leinecker verified composing the
+title screen music.
+
+
+Package history:
+1.00 2014-11-04 Doommaster1994: Initial
+ release.

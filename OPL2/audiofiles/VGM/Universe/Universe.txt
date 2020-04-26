@@ -1,0 +1,53 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Universe
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Martin Ivenson
+Game developer:      Core Design
+Game publisher:      Core Design Ltd.
+Game release date:   1994
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening / Ending                 0:52   0:39
+02 Pfallenop Asteroid Cluster       0:26   0:26
+03 Silphinaa's House                0:52   0:51
+04 Silphinaa's House: Upper Floor   1:39   1:34
+05 Pinch                            0:54   0:39
+06 Inside PTV                       1:00   0:51
+07 Emperor King                     0:15   0:08
+08 On the Planes Surface            0:52   0:51
+09 Docking to Snroglat's Vessel     2:34   1:17
+10 Wheelworld                       1:09   0:34
+11 Chase                            1:09   1:09
+12 Wheelworld Spaceport             1:08   0:34
+13 Abadoned City                    1:00   0:34
+14 Escaping from Abadoned City      2:09   1:04
+15 Citadel of Neiamises             0:43   0:21
+16 Sentiel Guard Robots             0:51   0:51
+17 Sentiel Robots VS Ornament Droid 0:13   0:13
+18 Bad End                          0:17   -
+19 Emperor King's Death             0:07   -
+20 Good End                         0:51   0:39
+
+Total Length                       18:59  27:42
+
+
+Notes:
+This pack was made using DOSBox 0.74 modified
+by Valley Bell.
+
+Love this one, especially 5th, 11th and 14th
+tuned.
+
+
+Package history:
+1.00 2011-08-30 tails_: Initial release.

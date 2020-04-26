@@ -1,0 +1,50 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           SAR: Search And Rescue
+System:              SNK 68000
+Music hardware:      YM3812
+
+Music author:        Hinjakun
+Game developer:      SNK
+Game publisher:      SNK
+Game release date:   1989-12
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Boot                             0:01   -
+02 Title                            0:04   -
+03 Credit                           0:01   -
+04 Opening, Credit Roll             0:30   -
+05 Section 1                        1:11   0:44
+06 Boss 1                           0:22   0:21
+07 Section 2                        1:14   1:00
+08 Boss 2                           0:19   0:19
+09 Section 3                        1:00   0:51
+10 Boss 3                           0:23   0:23
+11 Section 4                        1:30   1:09
+12 Boss 4                           0:27   0:27
+13 Ending                           0:29   -
+14 Game Over                        0:01   -
+
+Total Length                        7:33  12:49
+
+
+Notes:
+Track Names are used in use scene.
+
+
+This pack was made using MAME0148 VGM mod.
+
+
+Size reduction (vgm_cmp):
+    560 KB -> 304 KB (54.2 %)
+
+
+Package history:
+1.00 2013-11-17 2ch-H: Initial release.

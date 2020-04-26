@@ -1,0 +1,110 @@
+***********************************************
+* VGM music package                           *
+* http://www.smspower.org/music               *
+***********************************************
+Game name:           Fury of the Furries
+System:              PC / DOS
+Music Hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Frédéric "Moby" Motte
+Game developer:      Kalisto Entertainment
+Game publisher:      Kalisto Entertainment
+Game release date:   1993
+
+Package created by:  Valley Bell
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Intro Scene                      0:47   0:31
+02 Title Screen                     1:39   1:39
+03 Desert (Fun)                     2:05   1:46
+04 Desert (Classic) / Village (Fun) 2:21   2:08
+05 Lagoon (Fun)                     3:20   3:05
+06 Lagoon (Classic)                 3:05   2:34
+07 Forest (Classic) / Castle (Fun)  1:32   1:32
+08 Forest (Fun)                     2:19   1:48
+09 Pyramid (Classic)                2:34   2:18
+10 Pyramid (Fun)                    2:29   2:29
+11 Mountain (Fun)                   2:42   2:34
+12 Mountain (Classic)               2:42   1:55
+13 Factory (Fun)                    2:24   1:59
+14 Factory (Classic)                2:34   1:48
+15 Village (Classic)                2:49   2:49
+16 Castle (Classic)                 3:01   2:15
+17 Machine (Classic / Fun)          2:31   2:18
+18 Ending (Classic / Fun)           0:46   0:46
+
+Total Length (All)                41:42 1:17:55
+Total Length (Classic)            26:18   49:02
+Total Length (Fun)                24:56   47:30
+Total Length (Amiga)              28:21   53:03
+
+
+Notes:
+FotF a nice platform/puzzle game and I really
+like Moby's music style.
+(I consider it as typical 90s tracker music.)
+
+In 1994 this game was rereleased by Namco as
+Pac-In-Time, with graphics changed to Pac-Man.
+
+This pack was made using DOSBox 0.74.
+
+Because the game seems to reset the song tempo
+incorrectly, I restarted the game for each song
+to prevent songs from playing too fast or slow.
+
+
+All in all there are 4 playlists.
+"All" has all tunes in approximate order of the
+game. This is also the order of the song list
+above.
+"Amiga" plays the songs in the order used in
+the Amiga-version of the game.
+"Classic" is the order for classic music mode
+and "Fun" for fun music mode.
+
+
+I don't know what they thought when they titled
+the music modes "Classic" and "Fun", because
+the "Fun" mode isn't always that happy (e.g.
+forest) and sometimes closer to the Amiga music
+than the "Classic" mode.
+Also the game lists "Classic" first, but uses
+the files with a 2 instead.
+
+Some songs are used in serval places. In these
+cases the game folder contains multiple copies
+of the same file with different file names.
+
+
+The Japanese GD3 tags contain the original
+level names in French.
+
+
+This is the longest rip I've ever done. It took
+me about 3 hours to make the complete game rip.
+(I recorded between 5 and 8 minutes of every
+song.) And it didn't help either that the stupid
+options screen goes back to the title screen
+after 2 minutes - even if keys are pressed.
+
+But those long loops are neccessary for the
+game, as you'll hear the same music nonstop for
+up to 1 hour.
+
+
+The rip differs a little from what is heard
+ingame. The difference is, that ingame the
+snare almost disappears because of some bug
+that sets its volume too low. (to 0x20 instead
+of 0x00) That happens everytime the snare's
+volume is reset after a non-100% hit.
+I fixed it to be correct compared to the Amiga
+mod files and it sounds a lot better this way.
+
+
+Package history:
+1.00 2011/08/18 Valley Bell: Initial release.

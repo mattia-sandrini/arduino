@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Raiden
+System:              Arcade Machine
+Music hardware:      YM3812, OKIM6295
+
+Music author:        Akira Sato
+Game developer:      Seibu Kaihatsu
+Game publisher:      Seibu Kaihatsu (EJ) /
+                     Fabtek (U) /
+                     IBL Corporation (K) /
+                     Liang HWA Electronics (TW)
+Game release date:   1990-04
+
+Package created by:  Sonic of 8!
+Package version:     1.10
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Coin                             0:03   -
+02 Gallantry                        1:19   1:19
+03 Go To Blazes!                    0:43   0:33
+04 Intermission                     0:10   -
+05 Lightning War                    2:25   1:06
+06 Rough and Tumble                 1:14   1:13
+07 Fighting Thunder                 0:51   0:44
+08 Name Regist                      0:59   -
+09 Continue                         0:37   0:31
+
+Total length                        8:20  13:46
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2012-06-12 Sonic of 8!: Initial release.
+1.10 2019-10-20 Paul999: Fixed all volumes,
+ Added publisher names in the regions versions
+ in USA, Korea and Taiwan.

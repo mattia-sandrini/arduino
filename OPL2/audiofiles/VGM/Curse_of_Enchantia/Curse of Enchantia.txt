@@ -1,0 +1,34 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Curse of Enchantia
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Martin Ivenson,
+                     David Pridmore
+Game developer:      Core Design
+Game publisher:      Core Design
+Game release date:   1992
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Main BGM                         0:49   0:38
+
+Total Length                        0:49   1:27
+
+
+Notes:
+This pack was made using DOSBox 0.74 modified
+by ValleyBell.
+
+Aww, only one tune, but still catchy ;P
+
+
+Package history:
+1.00 2012-06-14 tails_: Initial release.

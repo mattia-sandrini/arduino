@@ -1,0 +1,71 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Kiloblaster
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Dan Froelich
+Game developer:      Allen Pilgrim
+Game publisher:      Epic MegaGames
+Game release date:   1992
+
+Package created by:  NewRisingSun
+Package version:     2.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Glassman                         1:43   -
+02 Butterfly                        1:57   -
+03 5Gear                            1:50   -
+04 Funk It                          1:04   -
+05 Nemo                             2:09   -
+06 Fugue                            2:10   -
+07 Doom                             2:20   -
+08 Hero                             2:25   -
+09 Robot                            2:10   -
+10 Creepy                           2:24   -
+11 Oblong                           2:06   -
+12 Waiting                          1:49   -
+13 Hero 2                           2:26   -
+14 Thinking                         1:38   -
+15 Haunted                          2:15   -
+16 Trek                             2:00   -
+17 Walk Limp                        1:40   -
+18 Rapitup!                         2:53   -
+19 Jungle                           1:55   -
+
+Total Length                       38:53  38:53
+
+
+Notes:
+This is a re-rip using Creative's original
+SBFMDRV.COM. The previous rip was done using
+the 1994 version of the game, which uses the
+Worx library to play .CMF files.
+Unfortunately, this library ignores note
+velocities and drum note pitches. It also
+assigns voices differently than SBFMDRV,
+resulting in wrong envelopes in song 08.
+Finally, track 07 was repeated in as track 05,
+and the actual track 05 was missing.
+
+Track details taken from the following
+YouTube playlist (thanks Teppica!):
+   https://www.youtube.com/playlist?
+list=PLupeXa_RiyeFnU73PAWc9dqpV3G86vn4I
+
+Loop not retained due to abrupt playback
+as in-game, and nature of CMF format.
+Use playlist to loop songs as-is.
+
+Tools used:
+CMF2VGM v1.10 with SBFMDRV v1.11, vgm_cmp.
+
+
+Package history:
+1.00 2014-12-25 dj.tuBIG/MaliceX: Initial rel.
+2.00 2017-03-31 NewRisingSun: Reconverted.

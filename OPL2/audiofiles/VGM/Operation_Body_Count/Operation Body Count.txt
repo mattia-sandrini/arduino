@@ -1,0 +1,69 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Operation Body Count
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Sound Blaster 16 (YM3812)
+
+Music author:        Joe Abbati
+Game developer:      Capstone Software
+Game publisher:      Capstone Software
+Game release date:   1994
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Intro / BGM 8                    1:22   1:22
+02 Main Menu / BGM 10               0:44   0:44
+03 BGM 1                            2:04   2:04
+04 BGM 2                            1:08   1:08
+05 BGM 3                            1:33   1:33
+06 BGM 4                            1:30   1:30
+07 BGM 5                            2:17   2:17
+08 BGM 6                            1:11   1:11
+09 BGM 7                            2:53   2:53
+10 BGM 9                            0:15   0:15
+
+Total Length                       14:58  29:56
+
+
+Notes:
+The second of Capstone's FPSes using the
+Wolfenstein 3D engine, released a year after
+Doom and thus doomed to obscurity. You know
+your game is rushed when you not only have just
+ten songs for 40 levels, but four of those
+songs are recycled from your other game! BGMs
+5-8 are all from Corridor 7, and I guess they
+reused them because they didn't have enough
+time to make a full soundtrack. Some notes:
+
+* Unlike Corridor 7, the game uses all ten
+  songs for level music, including the intro
+  and main menu music. Just like Corridor 7,
+  though, we also don't know the full names of
+  each song. Thus, I named them according to
+  where they're played, and I numbered the BGMs
+  according to the order they're used in the
+  first ten levels. Their original IMF file
+  names are included in the Notes tags.
+* BGM 1 has a small delay before it loops; this
+  is present in the original track as well.
+* Yes, BGM 9 really is that short.
+
+Again, special thanks to Krzysztof Nikiel for
+the AudioT Wolfenstein Pack Extractor and to
+Simon Peter for the AdPlug plug-in; these
+programs allowed me to extract the IMF files to
+learn their filenames, and to check loop
+points, respectively.
+
+
+Package history:
+1.00 2013-03-16 The Green Herring: Initial
+ release.

@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Zero Wing
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Tatsuya Uemura,
+                     Toshiaki Tomizawa,
+                     Masahiro Yuge
+Game developer:      Toaplan Co., Ltd.
+Game publisher:      Toaplan Co., Ltd.
+Game release date:   1989
+
+Package created by:  RichterEX2
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+Song list:                          Total  Loop
+01 Coin (Credit)                    0:03   -
+02 Opening (Opening) /
+   Open Your Eyes                   1:03   0:53
+03 Open Your Eyes (Stage 1)         0:57   0:53
+04 New Day For Me (Stage 2)         4:14   4:00
+05 Babylonian Nights (Stage 3)      1:30   1:29
+06 You Get (Stage 4)                1:04   1:03
+07 Old Sense (Stage 5)              1:18   1:17
+08 New Say (Stage 6)                0:54   0:53
+09 Game Set                         0:04   -
+10 Go to His Rest (Name Registry)   0:48   -
+11 Dullard (Continue)               0:10   -
+12 Same One (Stage 7)               1:18   1:12
+13 Hit Man (Stage 8)                2:06   1:58
+14 Everybody Knows (Ending)         0:31   -
+
+Total Length                       16:00  29:38
+
+
+Notes:
+Tracklist from Zero Wing Soundtrack
+(PCCB-00001)
+
+
+Package history:
+1.00 2012-04-27 RichterEX2: Initial Release.
+1.01 2012-04-27 RichterEX2: Fixed looping on
+ "New Day For Me".
+1.02 2012-04-27 RichterEX2: Fixed looping on
+ "New Day For Me" and "Hit Man". Both now match
+ OST timings.

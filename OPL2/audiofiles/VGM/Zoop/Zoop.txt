@@ -1,0 +1,51 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Zoop
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Bob Scumaci, Mark Davis
+Game developer:      Hookstone Ltd.
+Game publisher:      Viacom New Media
+Game release date:   1995
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Zoop Jazz                        1:18   1:18
+02 Jazz 2                           0:57   0:57
+03 Shake                            1:50   1:50
+04 Tune 1                           1:22   1:22
+05 Tune 3                           1:05   1:05
+06 Tune 2                           1:22   1:22
+07 Tune 4                           0:59   0:58
+08 Bonus                            0:48   0:47
+09 Bonus 2                          1:48   1:48
+10 Latman                           0:59   0:59
+11 Zoop Fink                        1:22   1:21
+
+Total Length                       13:51  27:28
+
+
+Notes:
+This text appears shortly before the game runs:
+General MIDI timbres for Yamaha OPL-2 and OPL-3
+based sound cards were produced by The Fat
+Man(TM) and developed by K.Weston Phelan and
+George Alistair Sanger. Copyright 1993 The Fat
+Man(TM)
+
+The composer names were obtained through the
+Game Boy version's manual, as this version of
+the game lacks credits.
+
+
+Package history:
+1.00 2015-02-11 Doommaster1994: Initial
+ release.

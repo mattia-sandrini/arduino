@@ -1,0 +1,56 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Transport Tycoon,
+                     Transport Tycoon Deluxe
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        John Broomhall
+Game developer:      Chris Sawyer
+Game publisher:      MicroProse
+Game release date:   1994, 1995 (Deluxe)
+
+Package created by:  MrKsoft
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Transport Tycoon Theme           1:23   1:23
+02 Transport Tycoon Deluxe Theme    1:18   1:18
+03 Easy Driver                      4:00   -
+04 Little Red Diesel                3:56   -
+05 Cruise Control                   3:38   -
+06 Don't Walk                       3:57   -
+07 Fell Apart On Me                 3:42   -
+08 City Groove                      4:05   -
+09 Funk Central                     3:40   -
+10 Stoke It                         3:46   -
+11 Road Hog                         3:42   -
+12 Aliens Ate My Railway            3:56   -
+13 Snarl Up                         4:15   -
+14 Stroll On                        3:39   -
+15 Can't Get There From Here        3:47   -
+16 Sawyer's Tune                    2:46   -
+17 Hold That Train!                 2:51   -
+18 Movin' On                        3:40   -
+19 Goss Groove                      3:48   -
+20 Small Town                       4:04   -
+21 Broomer's Oil Rag                2:07   -
+22 Jammit                           3:33   -
+23 Hard Drivin'                     3:47   -
+
+Total Length                    1:19:20 1:22:01
+Total Length (Transport Tycoon)   59:51 1:01:14
+Total Length (TT Deluxe)        1:17:57 1:19:15
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2013-07-22 MrKsoft : Initial release.

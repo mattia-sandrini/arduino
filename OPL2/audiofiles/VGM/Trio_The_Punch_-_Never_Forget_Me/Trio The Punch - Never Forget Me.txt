@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Trio The Punch - Never
+                     Forget Me...
+System:              Arcade Machine
+Music hardware:      YM2203, YM3812, OKIM6295
+
+Music author:        unknown
+Game developer:      Data East
+Game publisher:      Data East
+Game release date:   1989
+
+Package created by:  MATRIX
+Package version:     1.10
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Character Select                 0:29   0:29
+02 Theme of Kamakura                1:45   1:27
+03 Theme of Santos                  1:59   1:43
+04 Theme of Rose Sub                1:41   0:54
+05 Ending                           0:51   0:15
+06 Game Over                        0:04   -
+
+Total Length                        6:49  11:37
+
+
+Notes:
+Track Names are used in
+DATA EAST RETRO GAME MUSIC COLLECTION 2
+(KDSD-00401).
+
+This pack was made using M1 VGM mod v0.7.9a1.
+
+
+Package history:
+1.00 2017-07-06 MATRIX: Initial release.
+1.01 2017-07-20 Valley Bell: Increased volume.
+1.02 2017-07-21 Valley Bell: Fixed chip volume,
+ fixed OKI clock.
+1.10 2017-08-25 Valley Bell: Stripped silence.

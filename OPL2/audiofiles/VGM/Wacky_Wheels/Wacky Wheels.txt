@@ -1,0 +1,51 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Wacky Wheels
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Sound Blaster (YM3812)
+
+Music author:        Mark Klem,
+                     Lee Jackson
+Game developer:      Beavis Soft
+Game publisher:      Apogee Software
+Game release date:   1994-10-17
+
+Package created by:  RandomName
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Apogee Theme                     0:09   -
+02 Dream                            1:52   1:52
+03 Ashes                            0:51   0:51
+04 Turbo                            2:45   2:45
+05 Dance                            1:35   1:35
+06 Flight                           2:12   2:12
+07 Overdrive                        2:26   2:26
+08 Star Brain                       1:35   1:35
+09 Bass Attack                      2:16   2:16
+10 Kard                             1:01   1:01
+11 Banshi                           1:28   1:28
+12 Brick Wall                       1:15   1:15
+13 Pumper                           1:13   1:13
+14 Spacey                           1:10   1:10
+15 Rostrum Music                    0:08   -
+16 Game Over                        0:05   -
+
+Total Length                       22:02  43:41
+
+
+Notes:
+Audio track info from
+Phil's Wacky Wheels Website
+http://yellowantphil.com/wacky_wheels/music.php
+
+
+Package history:
+1.00 2016-06-25 Initial release.
+1.01 2016-07-14 Valley Bell: Reduced from
+ DualOPL2 to single OPL2. (commands matched)

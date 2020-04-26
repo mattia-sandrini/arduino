@@ -1,0 +1,49 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Chopper I (U) / Koukuu
+                     Kihei Monogatari: The
+                     Legend of Air Cavalry (J)
+System:              SNK Triple Z80
+Music hardware:      YM3812, Y8950
+
+Music author:        Toshikazu Tanaka
+Game developer:      SNK
+Game publisher:      SNK
+Game release date:   1988
+
+Package created by:  GTheGuardian
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Boot                             0:01   -
+02 Credit                           0:01   -
+03 Start Demo                       0:09   -
+04 Dream of Chopper (Area 1&5)      1:28   1:22
+05 Area End                         0:20   -
+06 Soar Up to The Sky (Area 2&4)    1:09   1:05
+07 Boss                             0:36   0:14
+08 Sea of Fire (Area 3)             1:19   1:14
+09 At The Risk of One's Life (Area
+   6)                               1:09   0:56
+10 Final Boss                       0:29   0:22
+11 Final Area Clear                 0:07   -
+12 Ending                           0:45   -
+13 Game Over                        0:03   -
+14 Unknown                          0:13   -
+
+Total Length                        7:49  13:03
+
+
+Notes:
+Track names are from
+"Game Sound SNK -G.S.M. SNK 1- (D28B-0006)
+
+This pack was made using MAME 0.188 VGM mod.
+
+
+Package history:
+1.00 2019-02-25 GTheGuardian: Initial release.

@@ -1,0 +1,78 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Commander Keen in Aliens
+                     Ate My Babysitter!
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Sound Blaster 16/OPL2
+                     (YM3812)
+
+Music author:        Robert Prince
+Game developer:      id Software
+Game publisher:      FormGen
+Game release date:   1991-12-15
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Aliens Ate My Babysitter         0:49   0:49
+02 In a Land of Wonderment and Awe  0:13   0:13
+03 Br'er Tar Ain't Gonna Get Me!    1:05   1:05
+04 Faster and Faster Yet!           0:38   0:38
+05 Space Funk                       0:16   0:16
+06 The Mambo Snake Gonna Eat You,
+   Boy!                             0:49   0:49
+07 Into the Future                  0:25   0:25
+08 Please Don't Metal With Me!      1:01   1:01
+09 Ominousity                       0:37   0:37
+
+Total Length                        5:53  11:46
+
+
+Notes:
+Episode VI of the "Commander Keen" hexalogy is
+the last of the official "Commander Keen" games
+due to id Software moving on to "Wolfenstein
+3D" and the later departure of creator Tom Hall
+from the company, and sadly also the only one
+you can't legally purchase unless you buy
+secondhand. This is because unlike with the
+previous two episodes, Apogee Software didn't
+publish the game, only resell it. The game was
+published by FormGen. Later on, FormGen was
+bought out by GT Interactive, who then decided
+not to continue distributing the game. Thus,
+to this day, the only way you can play this
+game legally is to buy a used copy.
+
+This pack and the rest of the packs for the
+second half of the "Commander Keen" hexalogy
+were created at the request of RichterEX2. I
+did so by using imf2vgm to convert the IMF
+files to VGMs, and then hex-editing the first
+command of each VGM to change it to a "Waveform
+Enable" command (which the driver performs when
+starting up but is not done by imf2vgm). The
+loops may sound a bit weird, but that really is
+how they loop in the game. And yes, that really
+is how "Please Don't Metal With Me!" sounds in
+DOSBox.
+
+The tracks are named and arranged in this pack
+according to the game's track list at the
+Videogame Music Preservation Foundation. The
+track names are confirmed to be the official
+names by Bobby Prince himself, according to
+that site.
+
+Enjoy!
+
+
+Package history:
+1.00 2014-08-24 The Green Herring: Initial
+ release.

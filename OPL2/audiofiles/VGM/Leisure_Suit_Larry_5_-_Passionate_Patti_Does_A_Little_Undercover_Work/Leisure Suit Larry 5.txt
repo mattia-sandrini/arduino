@@ -1,0 +1,100 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Leisure Suit Larry 5:
+                     Passionate Patti Does
+                     A Little Undercover Work
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Pro Audio Spectrum
+                     (2xYM3812)
+
+Music author:        Chris Braymen,
+                     Al Lowe,
+                     Craig Safan
+Game developer:      Sierra On-Line
+Game publisher:      Sierra On-Line
+Game release date:   1991
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 The Larry Song                   1:31   1:19
+02 An East Coast Meeting            1:02   1:01
+03 Mr. Bigg Explodes                0:11   -
+04 Another Board Meeting            0:39   0:39
+05 Silas Scruemall's Plan           1:02   1:02
+06 Porn Prod. Corp.                 4:16   2:08
+07 Raising C.A.N.E.                 0:51   0:49
+08 To the East Coast                0:13   -
+09 The Dream Begins                 0:13   -
+10 Patti's Piano Recital            0:13   -
+11 Patti Gets Fired                 0:30   0:30
+12 Desmond's Theme                  0:23   0:23
+13 Leaving with Desmond             0:43   0:43
+14 Desmond's Briefing               1:03   1:03
+15 Dr. Phil Hopian's Practice #1    0:06   -
+16 Dr. Phil Hopian's Practice #2    0:06   -
+17 Dr. Phil Hopian's Practice #3    0:05   -
+18 Dr. Phil Hopian's Practice #4    0:06   -
+19 Dr. Phil Hopian's Practice #5    0:08   -
+20 Saxy Sex                         0:19   -
+21 Larry Wakes Up                   0:14   -
+22 Hard Rock Me                     1:46   -
+23 Hard Rock You                    1:39   -
+24 Hard Rock It                     1:49   -
+25 Punching Holes                   0:16   0:14
+26 Michelle's Song                  0:58   0:58
+27 Michelle's Audition Tape         0:37   0:34
+28 Silas' Angry Phone Call          0:14   -
+29 Venice Dream Sequence            0:32   -
+30 Outside Shill Building           0:13   -
+31 Shill This                       1:48   1:21
+32 Record des Rever                 0:49   -
+33 A Studio Session                 1:06   -
+34 Gettin' Some Air                 1:05   0:28
+35 Tramp's Casino                   1:23   1:20
+36 On the Boardwalk                 1:31   1:30
+37 Ivana Skate                      0:33   0:33
+38 Nasty Girlz                      0:23   0:23
+39 Whoz on Top?                     0:29   0:29
+40 Get It Up                        0:04   -
+41 Patti's Dream Concert            0:40   0:40
+42 K-RAP Rap                        1:53   -
+43 K-RAP Talk                       2:10   -
+44 K-RAP Rock                       1:59   -
+45 Snake Charmer                    0:38   0:37
+46 Doc'll Pulliam                   0:46   0:46
+47 Chi Chi a Me Me                  1:07   0:53
+48 Salsa This                       0:35   0:29
+49 As Time Goes By                  0:22   0:21
+50 Plane Falling                    0:15   0:15
+51 Plane Saved                      0:05   -
+52 Airport Reception                0:40   0:36
+53 White House Dinner               1:41   1:41
+54 Larry and Patti Reunited         0:40   -
+55 Julius' Introduction             1:51   0:50
+56 Mr. Bigg Revealed                0:41   0:15
+57 Mr. Bigg Draws Gun               0:48   0:23
+58 Patti Saves the Day              0:15   -
+59 Closing Theme                    1:57   0:57
+60 Dream Theme (unused)             0:31   0:29
+61 Dr. Phil Hopian Reprise (unused) 0:23   -
+62 Jim Bakker (unused)              0:24   -
+
+Total Length                      51:30 1:13:50
+
+
+Notes:
+Mostly competent conversion of the original
+Roland LAPC-I music.
+
+Sound driver: PROAUDIO.DRV
+
+
+Package history:
+1.00 2017-10-03 NewRisingSun: Initial release.

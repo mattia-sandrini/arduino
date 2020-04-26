@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           X-Men II: Fall of the
+                     Mutants
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Keith Uram
+Game developer:      Paragon Software
+Game publisher:      Paragon Software
+Game release date:   1990
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening Theme                    0:45   -
+02 Fun Theme                        0:37   -
+03 Victory Theme                    0:44   -
+
+Total Length                        2:06   2:06
+
+
+Notes:
+I named the songs after the .ROL files because
+I don't know how to play through the game.
+
+If you hear a long moment of silence after a
+song, it is because the instruments are still
+decaying into silence.
+
+The music was logged in AdLib Visual Composer.
+
+
+Package history:
+1.00 2015-02-08 Doommaster1994: Initial
+ release.

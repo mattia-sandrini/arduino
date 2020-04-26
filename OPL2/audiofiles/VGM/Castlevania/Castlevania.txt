@@ -1,0 +1,53 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Castlevania
+System:              IBM PC/XT/AT
+OS:                  DOS
+Music hardware:      AdLib (YM3812)
+
+Music author:        Kinuyo Yamashita,
+                     Satoe Terashima
+Game developer:      Unlimited Software
+Game publisher:      Konami
+Game release date:   1990
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Prologue                         0:07   -
+02 Vampire Killer                   0:31   0:31
+03 Stalker                          0:35   0:35
+04 Wicked Child                     1:11   1:10
+05 Walking on the Edge              0:42   0:35
+06 Heart of Fire                    1:00   1:00
+07 Out of Time                      0:32   0:32
+08 Player Miss                      0:01   -
+09 Game Over                        0:11   -
+10 Stage Clear                      0:05   -
+11 Name Entry                       0:11   0:11
+12 Black Night                      0:18   0:17
+13 All Clear                        0:04   -
+14 Voyager                          0:50   0:50
+
+Total Length                        6:16  11:57
+
+
+Notes:
+Words cannot describe how awful the music
+conversion is. The track order reflects the
+order in which the songs play in the original
+NES version, not in the DOS port. The DOS
+port lacks the songs "Poison Mind" and "Nothing
+to Lose", "All Clear" and "Name Entry" are
+present in the data files but not used, and
+"Walking on the Edge" and "Heart of Fire" are
+swapped.
+
+
+Package history:
+1.00 2017-09-30 NewRisingSun: Initial release.

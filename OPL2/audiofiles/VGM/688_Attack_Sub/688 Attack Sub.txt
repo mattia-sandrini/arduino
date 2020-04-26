@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           688 Attack Sub
+System:              IBM PC/XT/AT/Tandy 1000
+OS:                  DOS
+Music hardware:      NCR7496, YM3812
+
+Music author:        Rob Hubbard
+Game developer:      Electronic Arts
+Game publisher:      Electronic Arts
+Game release date:   1989-03-23
+
+Package created by:  NewRisingSun
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen (Tandy 1000
+   version)                         2:35   -
+02 Title Screen (AdLib Music
+   Synthesizer Card version)        2:57   -
+
+Total Length                        5:32   5:32
+
+
+Notes:
+Tandy 1000 version uses the NCR7496 to play PCM
+samples.
+
+
+Package history:
+1.00 2017-01-03 NewRisingSun: Initial release.
+1.01 2017-09-29 NewRisingSun: Replaced track
+ data PCM commands with data bank and
+ stream commands.

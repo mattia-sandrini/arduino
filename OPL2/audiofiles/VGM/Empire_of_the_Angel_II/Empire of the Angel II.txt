@@ -1,0 +1,95 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Empire of the Angel II
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        HongZhang Su
+Game developer:      Softstar Entertainment
+                     Inc.
+Game publisher:      Softstar Entertainment
+                     Inc.
+Game release date:   1994-10
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Softstar Logo                    0:11   -
+02 Introduction                     1:17   -
+03 Title                            0:13   -
+04 Story Theme 1                    0:15   0:15
+05 Player Phase 1 [Map 1, 19 and
+   23]                              1:09   1:01
+06 Enemy Phase 1                    0:38   0:31
+07 Story Theme 2                    0:15   0:15
+08 Army Selection 1                 0:15   0:15
+09 Player Phase 2 [Map 2, 12, 16,
+   21, 26, 28 and 31]               1:03   1:01
+10 Enemy Phase 2                    1:01   0:58
+11 Player Phase 3 [Map 3, 6, 9, 10,
+   13, 15, 22, 27 and 30]           1:18   1:11
+12 Enemy Phase 3                    1:06   0:59
+13 Player Phase 4 [Map 4 and 14]    1:09   1:05
+14 Story Theme 3                    0:24   0:24
+15 Player Phase 5 [Map 5, 11, 18
+   and 32]                          1:03   1:01
+16 Enemy Phase 4                    0:46   0:42
+17 Player Phase 6 [Map 7, 20, 24,
+   29 and 35]                       1:17   1:08
+18 Army Selection 2                 0:15   0:15
+19 Story Theme 4                    0:22   0:22
+20 Player Phase 7 [Map 8, 28 and
+   34]                              1:11   1:03
+21 Enemy Phase 5                    0:46   0:44
+22 Story Theme 5                    0:23   0:23
+23 Enemy Phase 6                    0:56   0:54
+24 Story Theme 6                    0:16   0:16
+25 Enemy Phase 7                    0:44   0:37
+26 Story Theme 7                    0:33   0:33
+27 Player Phase 8 [Map 17, 25, 33
+   and 36]                          0:56   0:54
+28 Enemy Phase 8                    1:13   1:09
+29 Player Phase 9 [Map 37 and 38]   1:15   1:11
+30 Enemy Phase 9 [Goddess]          0:10   0:10
+31 Unused 1                         0:24   0:24
+32 Unused 2 [Story Theme]           0:32   0:32
+33 Unused 3                         0:27   0:22
+34 Unused 4                         0:33   0:31
+35 Character Summary                1:04   1:04
+36 Ending A                         1:26   -
+37 Ending B                         1:36   -
+38 Staff Roll                       0:43   0:43
+
+Total Length                       29:10  52:06
+
+
+Notes:
+Playback via PLAYRIX using DOSBOX 0.74 mod.
+
+This Softstar set was interesting in that the
+music data was located in three files including
+an obvious MUSIC.SWF (no relation to Flash).
+
+Some hidden music was found which is not played
+in-game.  In addition, the hidden Sound test
+mode does not provide access to all the game
+music either.  I had to manually extract the
+RIX data using a hex editor as a result.
+
+Due to lack of an OST tracklist, Chinese song
+titles are incomplete.
+
+Size reduction (vgm_cmp):
+   1.29 MB  -> 704 KB (24.8 %)
+
+
+Package history:
+0.99 2013-12-24 dj.tuBIG/MaliceX: Rip w/o
+ titles
+1.00 2015-07-19 dj.tuBIG/MaliceX: Initial rel.

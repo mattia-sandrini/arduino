@@ -1,0 +1,41 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net                      *
+***********************************************
+Game name:           The Real Ghostbusters
+System:              DECO8
+Music hardware:      YM2203, YM3812
+
+Music author:        Unknown
+Game developer:      Data East Corporation
+Game publisher:      Data East Corporation
+Game release date:   1987
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     1:29   1:13
+02 Main Theme                       1:44   1:09
+03 Labyrinth                        1:00   0:59
+04 Stage Clear                      0:03   -
+05 Ghost Storage                    0:39   0:13
+06 Name Regist                      1:17   0:46
+07 Game Over                        0:06   -
+08 Unused                           0:33   0:26
+
+Total Length                        6:50  11:35
+
+
+Notes:
+Ray Parker Jr. composed the original Ghostbusters
+song, but, in this game, "who I gonna call?"
+
+90% of the music is also in Meikyuu Hunter G, 
+the original version of game.
+
+
+Package history:
+1.00 2012-02-05 Sonic of 8!: Initial release.

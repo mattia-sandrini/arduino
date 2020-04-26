@@ -1,0 +1,42 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Chip's Challenge
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        David Whittaker
+Game developer:      Epyx, Inc.
+Game publisher:      Epyx, Inc.
+Game release date:   1991
+
+Package created by:  RandomName
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title                            0:54   0:50
+02 Lesson 1                         0:29   0:29
+03 Lesson 2                         1:40   1:40
+04 Lesson 3                         0:17   0:17
+05 Lesson 4                         1:23   1:23
+06 Lesson 5                         0:17   0:17
+07 Lesson 6                         1:23   1:23
+08 Lesson 7                         0:51   0:50
+09 Lesson 8                         1:10   1:07
+
+Total Length                        8:23  16:38
+
+
+Notes:
+Logged with Valley Bell's MAME 0.200 Mod.
+
+I chose the track titles based on the first
+level the music is played.
+
+
+Package history:
+1.00 2018-08-28 RandomName: Initial release.

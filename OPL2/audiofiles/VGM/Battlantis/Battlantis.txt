@@ -1,0 +1,44 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Battlantis
+System:              Arcade Machine
+Music hardware:      2xYM3812
+
+Music author:        Unknown Author
+Game developer:      Konami
+Game publisher:      Konami
+Game release date:   1987-07
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Mysterious Overture              0:15   -
+02 Message of Devil                 0:18   0:08
+03 Battlantis Act I                 0:45   0:02
+04 Cyclops Attack                   0:51   0:44
+05 Battlantis Act II                0:42   0:07
+06 Frogger Panic 1                  0:08   -
+07 Frogger Panic 2                  0:59   0:59
+08 Battlantis Act III               1:03   0:07
+09 Red Dragon Arrival               0:56   0:51
+10 Battlantis Act IV                1:27   0:12
+11 Mad Emperor Asmodeus             0:52   0:16
+12 The Conquest of Liberty          0:08   -
+13 Return with Glory                0:44   0:29
+14 Victory                          0:57   -
+15 Game Over                        0:09   -
+
+Total Length                       10:14  14:09
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2013-01-04 Sonic of 8!: Initial release.

@@ -1,0 +1,50 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Fuzzy's World of Miniature
+                     Space Golf
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      OPL2/YM3812
+
+Music author:        unknown
+Game developer:      Pixel Painters Corporation
+Game publisher:      CDV Software GmbH
+Game release date:   1995
+
+Package created by:  Mills
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Pixel Painters Logo              0:05   -
+02 Loudness Logo                    0:06   -
+03 Main Menu                        1:35   -
+04 Galactic Giggle Gadgets          1:45   -
+05 Meteor Madness                   2:20   -
+06 Blast From The Past              2:26   -
+07 Symple Stars                     2:35   -
+08 Astro Angles                     2:47   -
+09 Worm Holes                       3:16   -
+10 Alien Antics                     2:37   -
+11 Ending                           0:03   -
+12 Hole                             0:03   -
+13 Game Over                        0:03   -
+
+Total Length                       19:41  19:41
+
+
+Notes:
+I wanted to make this pack because this is a
+very special game for me and I still love it.
+Also it uses the Loudness adlib tracker, the
+same as Tyrian, which is one of the most
+complex trackers for the OPL2/YM3812.
+
+
+Package history:
+1.00 2018-01-18 Mills: Initial release.
+1.01 2018-01-19 Mills: Fixed tags.
+1.02 2018-01-21 Mills: Fixed TXT.

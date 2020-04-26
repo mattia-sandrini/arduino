@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Paperboy 2
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Rich Shemaria
+Game developer:      Tengen
+Game publisher:      Tengen
+Game release date:   1991
+
+Package created by:  Doommaster1994
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Paper Route                      1:28   1:28
+02 Training Course                  0:41   -
+
+Total Length                        2:09   3:38
+
+
+Notes:
+Sound driver by Nick Eastridge.
+The popping sounds are normal since the sound
+driver initializes different instruments on
+different channels.
+
+
+Package history:
+1.00 2014-09-02 Doommaster1994: Initial
+ release.
+1.01 2019-06-10 Doommaster1994: Added composer
+ name.

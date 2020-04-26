@@ -1,0 +1,87 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Midnight Resistance
+System:              Arcade Machine
+Music hardware:      YM3812, YM2203, OKIM6295
+
+Music author:        Azusa Hara,
+                     Hiroaki Yoshida, FUSE,
+                     Tatsuya Kiuchi, HITOMI
+Game developer:      Data East
+Game publisher:      Data East
+Game release date:   1989
+
+Package created by:  The Green Herring
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Surging! Power (BGM 1)           1:21   1:18
+02 The First Formidable Foe
+   (Boss 1)                         0:26   0:26
+03 Enemy Armory                     0:01   0:01
+04 Hope, Disappointment and
+   Counterattack (BGM 2)            1:08   1:01
+05 In the Forest (Boss 2)           0:28   0:27
+06 Decision (Monitor)               0:58   0:46
+07 Huge Battleship (Boss 3)         0:30   0:29
+08 Kao Kao Kao (Last Stage)         1:33   1:15
+09 King Crimson (Last Boss)         0:45   0:29
+10 Daybreak (Ending)                0:30   -
+11 Wind Trip (Staff Roll)           0:29   0:29
+12 Unused                           1:09   1:09
+
+Total Length                        9:17  17:06
+
+
+Notes:
+[Source]
+Crude Buster / Midnight Resistance
+Scitron / Pony Canyon  PCCB-00039  Aug 21, 1990
+[Generator]
+MAME 0.188 (modded by Valley Bell)
+
+A platforming action game that distinguishes
+itself with rotary joystick aiming and a system
+of keys that would let you collect powerups
+after each level (a full stock of which is
+necessary to get the best ending). It mixes
+FM synths with sampled audio for its music,
+unlike its same-hardware cousin "Sly Spy", but
+the resulting sound is a bit weak compared to
+later-released Data East games like "Two Crude"
+and "Desert Assault" that did the same thing.
+This game was later ported to both the popular
+microcomputers of the time (Commodore 64,
+Amiga, etc.) and the Sega Genesis. In the
+latter case, its music was filtered through
+Hitoshi Sakimoto and his sound engine, leading
+to music that frankly blows the original arcade
+version's out of the water. (Only "Monitor" and
+the unused track are exclusive to the arcade
+version.)
+
+For the technical stuff: this game uses the
+YM3812 (same chip as the AdLib sound card) for
+music, the OKI M6295 for music and sound
+effects, and the YM2203 mainly for sound
+effects. The one exception is the ending song
+"Daybreak", which uses the YM2203 to play the
+main synth instrument with the YM3812 as
+backup.
+
+Enjoy!
+
+
+Package history:
+1.00 2018-07-28 The Green Herring: Initial
+ release.
+1.01 2018-07-28 The Green Herring: Compressed
+ with updated vgm_cmp (previously affected by
+ a bug that stripped OKI master clock changes
+ from VGMs).
+1.02 2018-07-29 The Green Herring: Text file
+ corrections (thanks GTheGuardian).

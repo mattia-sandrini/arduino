@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Dungeon Hack
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        James McMenamy
+Game developer:      DreamForge, Inc.
+Game publisher:      SSI, Inc./TSR, Inc.
+Game release date:   1993
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Scene One                        3:00   -
+02 Scene Two                        0:48   0:48
+03 End                              0:24   0:24
+
+Total Length                        4:12   5:24
+
+
+Notes:
+Other sound staff credited:
+Anthony Mollick (Sound effects)
+Ralph "Cooksey" Thomas (Sound programmer)
+
+
+Package history:
+1.00 2014-09-05 Doommaster1994: Initial
+ release.

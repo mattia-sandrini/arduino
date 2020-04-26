@@ -1,0 +1,58 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Vimana
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Toshiaki Tomizawa
+Game developer:      Toaplan
+Game publisher:      Tecmo (J) / Romstar (U)
+Game release date:   1991-05
+
+Package created by:  ctr
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Coin                             0:01   -
+02 Opening ~ Space High             1:03   0:51
+03 The Power of Darkness            1:11   1:05
+04 Max. Power Up                    1:07   1:03
+05 Hyper Voltage Wars               2:45   1:54
+06 Bit Man                          0:59   0:51
+07 Like Flames                      1:04   0:51
+08 Back to the Earth                0:51   0:25
+09 Game Over                        0:03   -
+10 Name Entry                       0:36   -
+11 Continue                         0:15   -
+12 Space High                       0:54   0:51
+
+Total Length                       10:48  18:38
+
+
+Notes:
+This game uses an MCU with an 'undumpable'
+internal ROM to store and play the music data.
+
+Well the impossible has now been done and the
+chip has been decapped, allowing the contents
+to be read and the music finally emulated in
+three Toaplan games previously lacking sound:
+Vimana, Fire Shark and Teki Paki.
+
+For those interested in how the chips were
+dumped, check here:
+
+http://caps0ff.blogspot.com/2016/12/hd647180-19-58-102-terrific-toaplan.html
+
+Again thanks to caps0ff and the MAME team for
+making this pack possible...
+
+Enjoy!
+
+
+Package history:
+1.00 2016-12-22 ctr: Initial release

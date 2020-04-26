@@ -1,0 +1,62 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           The Simpsons
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Zoltan Vegh,
+                     Norio Hanzawa,
+                     Danny Elfman
+Game developer:      Konami
+Game publisher:      Konami
+Game release date:   1994-04
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Simpsons Theme Song              0:35   0:35
+02 Opening Movie                    0:17   0:17
+03 Game Start                       0:04   -
+04 Downtown Springfield             0:50   0:50
+05 Wrestler                         0:35   0:35
+06 Bonus Stage Start                0:03   -
+07 Bonus Stage                      0:14   0:14
+08 Bonus Stage Clear                0:02   -
+09 Krustyland Amusement Park        1:03   1:03
+10 Giant Krusty-Balloon             0:29   0:29
+11 Stage 2 Clear Demo               0:10   -
+12 Springfield Discount Cemetery    0:30   0:30
+13 The Crypt Elevator               0:08   0:08
+14 Two Goons                        0:39   0:39
+15 Moe's Tavern                     0:48   0:48
+16 Drunk                            0:51   0:51
+17 Springfield Butte                0:31   0:31
+18 Bear                             0:36   0:36
+19 Dreamland                        0:42   0:42
+20 Giant Bowling Ball               1:05   1:05
+21 Stage 6 Clear Demo               0:16   -
+22 Channel 6                        0:38   0:38
+23 Robots                           0:31   0:31
+24 Stage 7 Part 2 and Kabuki Master 0:24   0:24
+25 Smithers                         0:46   0:46
+26 Two Goons / Mr. Burns            0:52   0:52
+27 Stage 8 Clear Demo               0:03   0:03
+28 Ending ~ Staff Roll              0:40   0:40
+29 Game Over                        0:07   -
+30 Name Entry                       0:08   0:08
+
+Total Length                       14:37  28:32
+
+
+Notes:
+Playback in-game in DOSBOX 0.74 mod.
+
+
+Package history:
+1.00 2014-03-09 dj.tuBIG/MaliceX: Initial rel.

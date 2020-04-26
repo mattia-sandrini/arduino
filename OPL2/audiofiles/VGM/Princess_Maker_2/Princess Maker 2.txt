@@ -1,0 +1,76 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Princess Maker 2
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Masahiro Kajihara
+Game developer:      Gainax
+Game publisher:      Gainax, SoftEgg
+Game release date:   1996
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Profile determination            0:38   0:37
+02 Opening 1                        0:43   0:43
+03 Opening 2                        1:45   1:07
+04 Main screen (Spring)             1:45   1:44
+05 Main screen (Summer)             1:48   1:40
+06 Main screen (Autumn)             1:56   1:54
+07 Main screen (Winter)             1:50   1:49
+08 Main screen (Disease)            2:25   2:15
+09 To the castle                    1:08   0:54
+10 To the city                      1:04   1:04
+11 To the church                    0:57   0:57
+12 Part-time job                    0:52   0:52
+13 Training                         0:56   0:56
+14 Knight-errantry                  1:25   1:10
+15 Monster encounter (Warning)      0:28   0:27
+16 People encounter                 0:56   0:42
+17 Battle                           2:01   1:57
+18 Sea vacation                     1:05   0:35
+19 Mountain vacation                1:02   1:02
+20 Rest                             0:34   0:33
+21 Art exhibition                   1:12   1:11
+22 Fighting exhibition              1:56   1:49
+23 Martial-arts bout                2:28   1:06
+24 Dance party                      1:09   1:09
+25 Cooking competition              0:40   0:40
+26 Awards ceremony                  1:06   0:56
+27 Mystery (Event)                  1:05   0:59
+28 House visitor (Event)            1:04   0:45
+29 Tension (Event)                  0:26   0:26
+30 Ending                           3:41   0:34
+31 Credits                          2:11   2:10
+32 High shock surprise              0:04   -
+33 Heavy shock                      0:07   -
+34 Meeting important people         0:10   -
+35 A pleasant event                 0:25   -
+36 A sorrowful event                0:10   -
+37 Bad end                          0:20   -
+38 Harvest Festival Fanfare         0:11   -
+
+Total Length                      43:43 1:18:29
+
+
+Notes:
+Playback via GMPv4 in DOSBOX 0.74 mod
+Track list adapted from: 
+  http://vgmdb.net/album/12584
+
+
+Internally, the Px.M files are called "BGM x",
+Bx.M files are called "Bridge x".
+
+
+Package history:
+1.00 2013-02-19 dj.tuBIG/MaliceX: Initial rel.
+1.01 2013-02-26 Valley Bell: Added internal
+ titles.

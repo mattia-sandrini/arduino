@@ -1,0 +1,35 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Emerald Fantasy 2
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        unknown
+Game developer:      Emerald
+Game publisher:      unknown
+Game release date:   1997
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Theme                      0:31   0:26
+02 In-game Music                    0:51   0:50
+
+Total Length                        1:22   2:38
+
+
+Notes:
+Playback in-game w/ DOSBOX 0.74 mod
+
+This is an obscure Korean DOS game, most likely
+by a single developer.
+
+
+Package history:
+1.00 2014-10-17 dj.tuBIG/MaliceX: Initial rel.

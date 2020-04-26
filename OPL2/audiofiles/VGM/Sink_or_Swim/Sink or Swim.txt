@@ -1,0 +1,61 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Sink or Swim
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib (YM3812)
+
+Music author:        Neil Crossley,
+                     Alex Aldroyd
+Game developer:      Zeppelin Games Limited
+Game publisher:      Merit Studios
+Game release date:   1993
+
+Package created by:  RandomName
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Intro                            2:06   -
+02 Intro A                          1:16   0:50
+03 Intro B                          0:35   0:35
+04 SOS Title                        2:17   2:05
+05 Ingame 0                         1:21   1:19
+06 Ingame 1                         1:04   1:00
+07 Ingame 2                         1:02   0:53
+08 Ingame 3                         1:04   1:00
+09 Ingame 4                         1:08   1:00
+10 Ingame 5                         1:02   0:59
+11 Ingame 6                         1:14   1:01
+12 Ingame 7                         1:09   1:03
+13 Ingame 8                         1:07   0:53
+14 Ingame 9                         1:12   0:55
+15 Winner                           0:19   0:15
+16 Looser                           0:31   0:30
+
+Total Length                       18:26  32:44
+
+
+Notes:
+Logged with Valley Bell's MAME 0.164 Mod.
+
+Track names taken from the PAM files in the
+sound folder on the SOS CD.
+
+There's a lot of good Polka music in this game.
+
+01 Intro is how the intro song plays in the
+game. It is two different songs with no loop.
+I separated them into Intro A and Intro B
+with loops as well.
+
+
+Package history:
+1.00 2017-08-20 RandomName: Initial release.
+1.01 2017-08-20 RandomName: Added Creator VGM
+ tag, added separate intro songs split in two.
+1.02 2017-08-25 Valley Bell: Removed silence
+ from track 02.

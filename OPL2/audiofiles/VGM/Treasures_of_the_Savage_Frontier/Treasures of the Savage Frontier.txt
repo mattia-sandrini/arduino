@@ -1,0 +1,36 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Treasures of the Savage
+                     Frontier
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Linwood Taylor
+Game developer:      Beyond Software, Inc.
+Game publisher:      SSI, Inc./TSR, Inc.
+Game release date:   1991
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:49   -
+
+Total Length                        0:49   0:49
+
+
+Notes:
+Most likely same sound staff as Gateway.
+Linwood is credited for 'Original Music' in the
+game manual, but is only credited as an
+encounter author in the game.
+
+
+Package history:
+1.00 2014-08-27 Doommaster1994: Initial
+ release.

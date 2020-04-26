@@ -1,0 +1,47 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           The Punisher
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Derek Schofield
+Game developer:      Paragon Software
+Game publisher:      Paragon Software
+Game release date:   1990
+
+Package created by:  Doommaster1994
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:33   -
+02 Cutscene Theme 1                 0:22   -
+03 Cutscene Theme 2                 0:15   -
+04 Cutscene Theme 3                 0:17   -
+05 Cutscene Theme 4                 0:15   -
+06 Game Over                        0:23   -
+07 Win Theme                        0:29   -
+
+Total Length                        2:35   2:35
+
+
+Notes:
+The game's ROL files are included in the game's
+root directory when it is installed. The source
+file names have been respectively added to the
+VGZ files' notes section.
+
+The music was logged in AdLib Visual Composer.
+
+Other audio staff:
+Covox: Digitized Sound Effects
+AdLib: Music system.
+
+
+Package history:
+1.00 2015-02-08 Doommaster1994: Initial
+ release.

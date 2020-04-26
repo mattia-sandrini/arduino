@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           S.T.U.N. Runner
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Matt Furniss
+Game developer:      Tengen
+Game publisher:      Domark Software
+Game release date:   1990
+
+Package created by:  tails_
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     2:49   -
+
+Total Length                        2:49   2:49
+
+
+Notes:
+This pack was made using DOSBox SVN.
+
+In the game title screen song was repeating
+after it ends, but seems like it's not
+supposed to so I didn't add a loop point.
+
+
+Package history:
+1.00 2012-06-03 tails_: Initial release.
+1.01 2012-06-15 tails_: Reripped with proper
+ trimming
+1.02 2012-07-16 Valley Bell: Fixed data in last
+ sample.

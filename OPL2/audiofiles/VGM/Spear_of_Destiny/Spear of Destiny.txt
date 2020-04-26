@@ -1,0 +1,60 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Spear of Destiny
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      Adlib / OPL2 (YM3812)
+
+Music author:        Robert Prince
+Game developer:      Id Software
+Game publisher:      FormGen Corporation
+Game release date:   1992-09-18
+
+Package created by:  RichterEX2, NewRisingSun
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 The Tower                        1:28   1:28
+02 Wondering About My Loved Ones    1:11   1:11
+03 Tiptoeing Around                 1:45   1:45
+04 Funkie Colonel Bill              2:01   2:01
+05 Death to the Nazis               1:36   1:36
+06 The SS Gonna Get You             1:33   1:33
+07 The Ultimate Challenge           1:20   1:20
+08 Into the Dungeons                1:06   1:06
+09 Going After Hitler               1:20   1:20
+10 P.O.W.                           1:05   1:05
+11 Twelfth Hour                     1:55   1:55
+12 Nazi Anthem                      0:58   0:58
+13 Get Them Before They Get You     1:20   1:20
+14 Suspense                         1:55   1:55
+15 Searching for the Enemy          1:06   1:06
+16 Zero Hour                        1:09   1:09
+17 Puttin' It to the Enemy          1:23   1:23
+18 Evil Incarnate                   1:17   1:17
+19 Jazzin' Them Nazis               1:18   1:18
+20 End of Level                     0:20   0:20
+21 Is This THE END?                 0:13   -
+22 U R A Hero                       0:20   0:20
+23 Award Ceremony                   0:37   0:37
+24 Hitler Waltz                     1:06   1:05
+
+Total Length                       29:21  58:29
+
+
+Notes:
+Half of the songs in this game were previously
+used in Wolfenstein 3D.
+
+
+Package history:
+1.00 2013-05-03 RichterEX2: Initial release.
+1.01 2016-10-15 NewRisingSun: Corrected tempo
+ (very slightly). Improved loops. Fixed
+ flubbed snare drum in tracks 7/9/17/19.
+ Added Waveform Select Enable write to all
+ tracks. Added volume modifier.

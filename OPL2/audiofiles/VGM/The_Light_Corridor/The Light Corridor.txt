@@ -1,0 +1,31 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           The Light Corridor
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Frédéric Mentzen
+Game developer:      Infogrames
+Game publisher:      Infogrames
+Game release date:   1990
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Opening                          2:07   -
+02 Title Screen                     1:22   1:22
+
+Total Length                        3:29   4:51
+
+
+Notes:
+Aww yeah, these Frederic's HiHats :v
+
+
+Package history:
+1.00 2012-09-24 tails_: Initial release.

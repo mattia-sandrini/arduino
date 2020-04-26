@@ -1,0 +1,39 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Alone in the Dark
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Philippe Vachey
+Game developer:      Infogrames Europe SA
+Game publisher:      Infogrames Europe SA
+Game release date:   1992
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Intro                            2:22   -
+02 Explore Music #1                 1:54   -
+03 Trouble                          0:21   -
+04 Explore Music #2                 1:01   -
+05 Waltz in A-flat major,
+   Op. 69, No. 1                    1:43   -
+06 The Blue Danube Waltz            2:38   -
+07 Danse Macabre                    3:23   -
+08 Ending                           2:09   -
+
+Total Length                       15:29  15:29
+
+
+Notes:
+This pack was made using DOSBox 0.74 modified
+by Valley Bell.
+
+
+Package history:
+1.00 2012-06-29 tails_: Initial release.

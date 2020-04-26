@@ -1,0 +1,75 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Major Stryker
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Robert Prince
+Game developer:      Apogee Software
+Game publisher:      Apogee Software
+Game release date:   1993-01-15
+
+Package created by:  The Green Herring
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Apogee Fanfare                   0:10   -
+02 Rock-It in Space                 1:46   1:46
+03 Segueway                         0:08   -
+04 Super Nova                       1:48   1:48
+05 High Flyer                       1:36   1:36
+06 Pressure's On                    1:02   1:02
+07 Cruising with Stryker            1:12   1:12
+08 Tom Is a Handsome Guy            0:47   0:47
+09 Torpedo                          2:46   2:46
+10 Something's Wrong                1:36   1:36
+11 Super Sonic                      1:27   1:27
+12 Soaring to Dizzying Heights      0:45   0:45
+13 Riding the Light Waves           1:29   1:29
+14 Kiss My Contrail                 0:55   0:55
+15 Light Years Per Hour             1:06   1:06
+16 Major Stryker                    1:40   1:40
+17 Funky, Funky Spaceway            1:53   1:53
+18 Dodging the Meteors              1:31   1:31
+19 Shooting Star                    1:25   1:25
+20 Weird                            0:32   0:32
+21 So Sad. You're Dead!             3:45   3:45
+
+Total Length                       29:20  58:23
+
+
+Notes:
+[Source (release date)]
+ 3D Realms' Major Stryker catalog page
+ https://3drealms.com/catalog/major-stryker_47/
+[Source (titles)]
+ VGMPF (supplied by Robert Prince)
+[Generator]
+ imf2vgm by Valley Bell
+
+Apogee's first published vertical shmup "Major
+Stryker" boasts an AdLib soundtrack written by
+Robert Prince, and a rocking one (well, for
+AdLib anyway). It's unfortunate that the
+game's Sound Blaster support doesn't extend to
+instruments, but them's the breaks, I guess.
+You can find where each song plays and what
+the original filenames were in the Notes box.
+
+Enjoy!
+
+Technical bits: the Apogee Fanfare plays for
+about four seconds longer than is heard in the
+game, and track 03 is followed by 10 seconds
+of silence in its IMF file to give the next
+stage time to load.
+
+
+Package history:
+1.00 2018-08-14 The Green Herring: Initial
+ release.

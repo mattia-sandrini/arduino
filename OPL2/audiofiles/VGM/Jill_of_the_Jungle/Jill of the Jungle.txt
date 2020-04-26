@@ -1,0 +1,65 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Jill of the Jungle
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      YM3812
+
+Music author:        Dan Froelich
+Game developer:      Epic Megagames
+Game publisher:      Epic Megagames
+Game release date:   1992
+
+Package created by:  NewRisingSun
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Funky                            1:46   -
+02 Zeppelin                         2:00   -
+03 Spiders                          1:20   -
+04 Ominous                          1:22   -
+05 Dan                              1:42   -
+06 Stealth                          1:30   -
+07 It                               1:53   -
+08 Jupiter                          1:21   -
+09 Seven                            2:13   -
+10 Peaks                            1:54   -
+11 Cubist                           1:52   -
+12 Action                           1:31   -
+13 Dungo                            1:36   -
+14 Bonzo                            1:36   -
+15 Moby Dick                        2:04   -
+16 Underground                      1:49   -
+17 Wild                             1:56   -
+18 Neo Class                        1:31   -
+19 Kuntamon                         2:00   -
+20 Desert                           1:27   -
+21 Alien                            1:32   -
+22 Deep Evil                        2:32   -
+23 Bonus - Ending (Onesimus - A
+   Quest for Freedom)               2:25   -
+24 Bonus - Funky (Drum Blaster
+   version)                         1:46   -
+
+Total Length                       42:36  42:36
+
+
+Notes:
+Includes the music all from three episodes,
+plus the one additional song from the derived
+game "Onesimus - A Quest for Freedom".
+
+Tools: CMF2VGM with SBFMDRV v1.22, vgm_cmp
+
+
+Package history:
+1.00 2017-03-18 NewRisingSun: Initial release.
+1.01 2017-03-31 NewRisingSun: Added more
+ screenshots, added track 24, improved
+ Track 07, 23 titles.
+1.02 2017-04-06 NewRisingSun: Reripped using
+ SBFMDRV v1.22 rather than v1.11.

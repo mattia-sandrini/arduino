@@ -1,0 +1,51 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Shakii the Wolf
+                     (aka: Shakii)
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        D.A.C.
+ in particular:      Seunghwan Ro,
+                     Myungjin Ahn
+Game developer:      Family Production
+Game publisher:      Family Production
+Game release date:   1995-05
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Story                            0:25   0:25
+02 Opening                          1:00   -
+03 Stage 1                          1:24   1:24
+04 Stage 2                          1:13   1:13
+05 Stage 3                          1:00   1:00
+06 Stage 4                          1:37   1:37
+07 Stage 5                          1:02   1:02
+08 Stage 6                          1:21   1:21
+09 Stage 7                          1:19   1:19
+10 Mid Boss                         0:59   0:59
+11 Final Boss                       0:48   0:48
+12 Clear                            0:06   -
+13 Ending                           0:54   0:54
+14 Game Over                        0:32   0:32
+15 High Scores                      0:18   -
+16 Story [alternate]                0:25   0:25
+17 Opening [alternate]              0:59   -
+
+Total Length                       15:22  28:20
+
+
+Notes:
+Playback via OCPLAY in DOSBOX 0.74 mod
+
+
+Package history:
+1.00 2014-02-28 dj.tuBIG/MaliceX: Initial rel.
+1.01 2015-10-03 dj.tuBIG/MaliceX: DAC real name

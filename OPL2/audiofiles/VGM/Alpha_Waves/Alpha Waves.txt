@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Alpha Waves (W) /
+                     Continuum (U)
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Frédéric Mentzen
+Game developer:      Infogrames Europe SA
+Game publisher:      Infogrames Europe SA
+Game release date:   1990
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     2:35   -
+02 Dream                            4:55   -
+03 Energize                         2:34   -
+04 Ralax                            3:23   -
+05 Adapt                            1:58   1:58
+06 Awaken                           2:33   2:33
+07 Develop                          2:27   -
+08 Stimulate                        2:07   -
+09 Motivation                       2:36   -
+10 Concentrate                      2:52   -
+11 Stamina                          3:08   -
+12 Orientation                      2:39   -
+13 Meditate                         3:11   -
+
+Total Length                       36:58  41:28
+
+
+Notes:
+This pack was made using DOSBox 0.74 modified
+by Valley Bell.
+
+This is weird and this is buggy.
+Adapt track had broken BD sound, Meditate track
+had some weird sound playing in background and
+almost all songs have weird drums.
+
+Thanks Valley Bell for helping with some
+glitches fixing and advices.
+
+
+Package history:
+1.00 2012-06-27 tails_: Initial release.

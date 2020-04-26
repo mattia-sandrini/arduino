@@ -1,0 +1,48 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           KGB
+System:              IBM PC/AT
+OS:                  MS-DOS
+Music hardware:      YM3812
+
+Music author:        Stéphane Picq
+Game developer:      Cryo
+Game publisher:      Virgin Games
+Game release date:   1992
+
+Package created by:  Kaminari
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Burokrat                         4:36   -
+02 Kursk                            4:27   -
+03 Gorbi                            3:43   -
+04 Gulag                            4:18   -
+05 Paradise                         3:57   -
+06 Machine                          2:50   -
+
+Total length:                      23:51  23:51
+
+
+Notes:
+Song list based on the game's sound test.
+This pack was recorded with DOSBox, and edited
+with VGMTools (Valley Bell).
+
+A studio album inspired by this game was
+announced in the opening titles of the floppy
+version, under the name Rave/Age. According to
+Stéphane Picq, the CD master was ready but
+Virgin decided against its release.
+Incidentally, the mention of this OST was
+removed from the later CD-ROM version (known
+in the US as Conspiracy).
+
+
+Package history:
+1.00 2011-05-13 Kaminari: Initial release.
+1.01 2015-02-19 Kaminari: Text file updated.

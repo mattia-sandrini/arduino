@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Stunts (U) /
+                     4D Sports: Driving (E)
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Michael J. Sokyrka,
+                     Kris Hatlelid,
+                     Brian Plank
+Game developer:      Distinctive Software, Inc.
+Game publisher:      Brøderbund (U) /
+                     Mindscape (E)
+Game release date:   1990-10 (U) /
+                     unknown (E)
+
+Package created by:  Tom
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:24   0:24
+02 Main Menu                        0:48   0:48
+03 Race Results                     0:29   -
+04 Race Results (Win)               0:26   0:26
+
+Total Length                        2:06   3:44
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2012-10-25 Tom: initial release

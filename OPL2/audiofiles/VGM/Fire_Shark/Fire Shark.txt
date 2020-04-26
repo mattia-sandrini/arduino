@@ -1,0 +1,58 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Fire Shark (W) /
+                     Same! Same! Same! (J)
+System:              Toaplan 1
+Music hardware:      YM3812
+
+Music author:        Masahiro Yuge
+Game developer:      Toaplan
+Game publisher:      Toaplan (JE) / Romstar (U)
+Game release date:   1989-11
+
+Package created by:  ctr
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Coin                             0:03   -
+02 Fire Shark (Stage 1, 6)          1:28   1:28
+03 In the Blue Sky (Landing Theme)  0:12   0:12
+04 Give Me Your Heart (Stage 2, 7)  0:43   0:42
+05 Vice in Tokyo (Stage 3, 8)       1:08   1:08
+06 Sadness in Your Eyes (Stage 4, 9 0:49   0:48
+07 From the Sun to Me (Stage 5, 10) 1:25   1:24
+08 Long Happiness (Ending Theme)    0:23   -
+09 Gleam (Game Over)                0:05   -
+10 Infinite Endeavour and Indistinc 1:06   -
+11 Last Chance (Continue Theme)     0:14   0:14
+
+Total Length                        7:35  13:31
+
+
+Notes:
+This game uses an MCU with an 'undumpable'
+internal ROM to store and play the music data.
+
+Well the impossible has now been done and the
+chip has been decapped, allowing the contents
+to be read and the music finally emulated in
+three Toaplan games previously lacking sound:
+Vimana, Fire Shark and Teki Paki.
+
+For those interested in how the chips were
+dumped, check here:
+
+http://caps0ff.blogspot.com/2016/12/hd647180-19-58-102-terrific-toaplan.html
+
+Again thanks to caps0ff and the MAME team for
+making this pack possible...
+
+Enjoy!
+
+
+Package history:
+1.00 2016-12-22 ctr: Initial release

@@ -1,0 +1,52 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Titus the Fox: To
+                     Marrakech and Back /
+                     Lagaf: Les Aventures de
+                     Moktar - Vol 1: La Zoubida
+System:              PC / DOS
+Music hardware:      AdLib/OPL2 (YM3812)
+
+Music author:        Christophe Fevre
+Game developer:      Titus France SA
+Game publisher:      Titus France SA
+Game release date:   1992
+
+Package created by:  tails_
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:42   0:37
+02 Level Start                      1:00   -
+03 In-game Music #1                 2:17   1:45
+04 Checkpoint Jingle                0:01   -
+05 Health Bonus Jingle              0:02   -
+06 Got Password Jingle              0:02   -
+07 In-game Music #2                 1:56   1:45
+08 In-game Music #3                 2:44   2:28
+09 In-game Music #4                 2:23   1:23
+10 In-game Music #5                 1:52   1:51
+11 Ending                           0:40   0:40
+12 Credits                          0:22   0:21
+13 Level Finished                   0:06   -
+14 Player Death                     0:03   -
+15 Game Over                        0:59   0:44
+
+Total Length                       15:07  26:44
+
+
+Notes:
+This pack was made using DOSBox 0.74 modified
+by Valley Bell.
+
+Oh god, this game took me 2 days just to finish
+it, music is boring BUT if you play it on
+double speed here starts the fun :>
+
+
+Package history:
+1.00 2012-06-15 tails_: Initial release.

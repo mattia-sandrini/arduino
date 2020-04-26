@@ -1,0 +1,40 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Snow Bros
+System:              Arcade Machine
+Music hardware:      YM3812
+
+Music author:        Osamu Ohta
+Game developer:      Toaplan
+Game publisher:      Toaplan
+Game release date:   1990
+
+Package created by:  Tom
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Start                            0:01   -
+02 Yukidama-Ondo (Stage 1, 3)       0:59   0:59
+03 Yukida-March (Stage 2, 4)        1:06   0:43
+04 Henshoku (Item)                  0:30   0:29
+05 Boss Intro                       0:04   -
+06 Boss-Yade (Boss)                 3:16   1:44
+07 Dosukoi-Snow (Stage 5)           0:52   0:52
+08 Boss de Ska (The Last Boss)      0:46   0:46
+09 Yoh (Ending)                     0:54   -
+10 Game Over                        0:05   -
+11 Unused Music                     0:23   0:23
+
+Total Length                        8:56  14:53
+
+
+Notes:
+-
+
+
+Package history:
+1.00 2012-11-06 Tom: initial release

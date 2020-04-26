@@ -1,0 +1,70 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Shadowcaster
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Sound Blaster (YM3812)
+
+Music author:        Marc Schaefgen, MIDIAN
+Game developer:      Raven Software
+Game publisher:      Origin Systems
+Game release date:   1993
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Title Screen                     0:25   -
+02 Introduction (Floppy Disk
+   Version)                         1:15   -
+03 End of Introduction (Floppy Disk
+   Version)                         0:05   -
+04 Introduction (CD-ROM version)    0:45   0:45
+05 Entering the Garden Ruins        0:32   0:32
+06 Ruins                            1:34   1:16
+07 Teleporting                      0:02   -
+08 Dark Temple                      1:31   1:30
+09 Entering the Temple of the Dark
+   God                              0:39   0:39
+10 Temple of the Dark God           2:01   1:30
+11 Castle Dungeon                   1:02   0:53
+12 Castle Keep                      1:00   1:00
+13 Entering the Slave Mines         0:22   -
+14 Slave Mines                      1:25   0:48
+15 Entering the Flooded Caverns     0:32   -
+16 Flooded Caverns                  3:13   1:36
+17 Gain Ssair Form                  0:32   0:32
+18 Mud Mines & Lava Tunnels         1:20   1:10
+19 Gain Grost Form                  0:24   0:18
+20 Veste's Lair                     2:09   2:09
+21 Ending (Floppy Disk Version)     1:26   -
+22 Ending (CD-ROM version)          0:55   -
+23 Regular Combat                   1:09   1:09
+24 Enemy Defeated                   0:08   -
+25 Health Running Low               1:05   1:01
+26 Death                            0:41   -
+27 Unused Tune #1                   0:15   -
+28 Unused Tune #2                   0:56   0:53
+
+Total Length                       27:24  43:28
+
+
+Notes:
+Includes tunes from both the floppy disk and
+CD-ROM versions.
+
+The floppy disk version credits Mark Schaefgen;
+the CD-ROM version credits "MIDIAN". This could
+refer to the additional CD-ROM tunes only and
+would indicate a different composer, or could
+refer to all of the music, which would mean
+that "MIDIAN" is actually a pseudonym for Mark
+Schaefgen.
+
+
+Package history:
+1.00 2017-06-18 NewRisingSun: Initial release.

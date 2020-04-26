@@ -1,0 +1,54 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Totsugeki! Mix
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      Adlib/OPL2 (YM3812)
+
+Music author:        Masahiro Kajihara,
+                     Kenichi Arakawa,
+                     Takahiro Nogi
+Game developer:      C-lab
+Game publisher:      C-lab
+Game release date:   1994-06-17
+
+Package created by:  dj.tuBIG/MaliceX
+Package version:     1.01
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 C-lab logo                       0:05   -
+02 Opening 1                        1:38   1:25
+03 Opening 2                        1:30   1:30
+04 Player Select                    0:29   0:29
+05 Difficulty C [Round 1]           0:50   0:33
+06 Difficulty B [Round 2]           1:35   1:08
+07 Difficulty A [Round 3]           1:20   1:19
+08 Final Confrontation [Round 4]    0:43   0:40
+09 Boss 1                           1:03   0:49
+10 Boss 2                           1:45   0:52
+11 Boss 3                           1:00   0:42
+12 Round Clear                      0:06   -
+13 Warship March Rock Version
+   [Fever]                          1:11   1:10
+14 Last Boss                        1:56   1:34
+15 Ending 1                         1:17   1:15
+16 Ending 2                         3:25   -
+17 Game Over                        0:08   -
+
+Total Length                       19:58  33:26
+
+
+Notes:
+Playback via GMPv4 in DOSBOX 0.74 mod.
+
+Boss original filenames were swapped compared
+to their internal titles.
+
+
+Package history:
+1.00 2014-03-15 dj.tuBIG/MaliceX: Initial rel.
+1.01 2015-12-03 Valley Bell: Fixed playlist.

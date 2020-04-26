@@ -1,0 +1,38 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net                      *
+***********************************************
+Game name:           Meikyuu Hunter G
+System:              DECO8
+Music hardware:      YM2203, YM3812
+
+Music author:        Unknown
+Game developer:      Data East Corporation
+Game publisher:      Data East Corporation
+Game release date:   1987
+
+Package created by:  Sonic of 8!
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Hunter                           1:00   0:53
+02 Labyrinth                        1:00   0:59
+03 Boss Theme                       0:39   0:13
+04 Stage Clear                      0:03   -
+05 Game Over                        0:06   -
+06 Unused                           0:33   0:26
+
+Total Length                        3:21   5:51
+
+
+Notes:
+95% of tracks is also present in 
+The Real Ghostbusters, the US location of the 
+game. Track 1 is not played, but is possible to
+hear the Track 1 and 6 by hacking methods.
+
+
+Package history:
+1.00 2012-02-05 Sonic of 8!: Initial release.

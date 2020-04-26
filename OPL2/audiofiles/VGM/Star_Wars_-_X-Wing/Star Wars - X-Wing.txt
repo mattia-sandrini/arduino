@@ -1,0 +1,138 @@
+***********************************************
+* VGM music package                           *
+* http://vgmrips.net/                         *
+***********************************************
+Game name:           Star Wars: X-Wing
+System:              IBM PC/AT
+OS:                  DOS
+Music hardware:      AdLib/Sound Blaster
+                     (YM3812)
+
+Music author:        John Williams,
+                     Clint Bajakian,
+                     Michael Z. Land,
+                     Peter McConnell
+Game developer:      LucasArts
+Game publisher:      LucasArts
+Game release date:   1993
+
+Package created by:  NewRisingSun
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 LucasArts Logo                   0:09   -
+02 Opening Crawl                    1:13   -
+03 Imperial Attack                  1:56   -
+04 Launch the X-Wing Fighters       2:12   -
+05 The Flagship "Independence"
+   (Registration, Main Hall)        2:27   1:37
+06 To Film or Tech Room             0:11   -
+07 Film or Tech Room                1:02   0:57
+08 To Hidden Rebel Training
+   Facilities                       0:22   -
+09 Training Briefing                2:44   1:04
+10 Training Mission                 2:03   1:59
+11 To Hidden Rebel Combat Training
+   Facilities                       0:22   -
+12 Historical Mission Briefing      3:15   0:56
+13 Flagship "Independence" Main
+   Hall (clean opening)             1:42   1:37
+14 Tour of Duty Registration Desk
+   (from Main Hall)                 1:23   0:41
+15 Tour of Duty Registration Desk
+   (clean opening)                  1:21   0:41
+16 Tour of Duty Mission Briefing    1:22   1:02
+17 Pilot Roster                     1:46   1:46
+18 Launch                           0:43   -
+19 Cruising (from Silence to
+   Dogfight)                        0:38   -
+20 Imperial Capital Ship Arrives    0:08   -
+21 Imperial Fighter Arrives         0:04   -
+22 Anxiety (from Silence to
+   Dogfight)                        0:38   -
+23 Dogfight                         1:32   1:32
+24 Rebel Fighter Arrives            0:05   -
+25 Rebel Capital Ship Arrives       0:05   -
+26 Challenge                        0:37   0:37
+27 Imperial Fighter Destroyed #1    0:03   -
+28 Imperial Fighter Destroyed #2    0:03   -
+29 Imperial Fighter Destroyed #3    0:03   -
+30 Imperial Fighter Destroyed #4    0:03   -
+31 Imperial Capital Ship Destroyed  0:05   -
+32 Anxiety (from Dogfight)          1:12   0:31
+33 Cruising (from Dogfight)         1:05   0:31
+34 Mission Completed                0:17   0:12
+35 Rebel Fighter Destroyed          0:05   -
+36 Rebel Capital Ship Destroyed     0:10   -
+37 Failing                          0:31   0:28
+38 Rescue and Medical Care          0:53   -
+39 Capture and Torture              1:04   -
+40 Death and Funeral                0:37   -
+41 Returning to Base                0:33   -
+42 March of the Recruits (Medal
+   Ceremony)                        0:59   -
+43 View Medals                      0:26   0:26
+44 Mission Debriefing               1:48   1:46
+45 Planet Has Been Secured          0:44   -
+46 Planting Explosives              1:03   -
+47 Death Star Destroys Planet       1:43   -
+48 Rebels Intercept Transmission    1:16   -
+49 Princess Leia Receives Death
+   Star Plans                       0:43   -
+50 Death Star Surface               0:45   0:44
+51 Death Star Destroyed             1:07   -
+52 Overlord Ghorin's Treachery      1:20   -
+53 The Rebels Arrive on Hoth        0:38   -
+54 Credits (Medley)                 3:16   -
+
+Total Length                      52:31 1:05:04
+
+
+Notes:
+Originally composed for Roland MT-32, with
+acceptable General MIDI and AdLib conversions.
+Most of X-Wing's music is original, even as it
+uses John Williams' leitmotifs. Includes the
+two additional cues from the add-on disks
+"Imperial Pursuit" (Track 52) and "B-Wing"
+(Track 53).
+
+Only the floppy disk version, presented here,
+contains music files that were specially
+prepared for AdLib; the later "Collector's
+CD-ROM" from 1994 merely plays the General MIDI
+files converted at run-time. 1998's "Collector
+Series" edition runs under Windows and replaces
+the interactive MIDI music with stock music
+from the films and a few static recordings from
+an unimpressive wavetable synthesizer.
+
+Some individual original game files are played
+crossfading into each other and thus must be
+presented on the same track to accurately
+reflect the transition. Tracks that are
+crossfaded into are presented a second time
+with a clean opening.
+
+The game organizes the in-flight music as short
+one-measure pieces sequenced according to a
+random number generator following a path sheet
+(Tracks 10/19/22/23/26/32/33/34/37/50). They
+are presented here as the shortest sequence
+that follows the path sheet yet still
+includes all files, with no repetitions
+whenever possible. Refer to the Notes of each
+file for the exact sequence chosen.
+
+In Tracks 5/12/13/19/22/32/33, the game enables
+and disables MIDI channels to reflect game
+events. See the Notes of each file to learn
+what events are being reflected.
+
+Original sound driver: iMuse (ADLIB.IMS)
+
+
+Package history:
+1.00 2017-09-15 NewRisingSun: Initial release.

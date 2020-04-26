@@ -1,0 +1,60 @@
+***********************************************
+* VGM music package                           *
+* http://vgm.mdscene.net/                     *
+***********************************************
+Game name:           Prehistoric Isle in 1930
+                     (U) / Gensitou 1930's (J)
+System:              SNK 68000
+Music hardware:      YM3812, uPD7759
+
+Music author:        Yoko Osaka,
+                     Toshikazu Tanaka
+Game developer:      SNK
+Game publisher:      SNK
+Game release date:   1989
+
+Package created by:  2ch-H
+Package version:     1.00
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+01 Boot                             0:01   -
+02 Prehistoric Isle (Title)         0:17   -
+03 Credit                           0:01   -
+04 Win Out! (Start Demo)            0:10   -
+05 Flying The Dinosaur (Area 1)     1:09   1:09
+06 Sound of The Wave (Boss Area 1)  0:30   0:24
+07 Air Trip (Area 2)                0:45   -
+08 Heavy Wind (Boss Area 2)         0:23   0:17
+09 The Explorer (Area 3)            1:06   0:52
+10 Unknown Dinosaur (Boss Area 3)   0:19   0:19
+11 Beyond The Stillness (Area 4)    0:36   0:32
+12 Ammonite of Sorrow (Boss Area 4) 0:33   0:27
+13 Mad Space (Area 5)               0:51   0:43
+14 Ethnic Magician (Boss Area 5)    0:20   0:17
+15 Mixed Up (Final Boss)            0:56   0:36
+16 Still -Faraway- (Ending)         1:12   -
+17 Continue                         0:10   -
+18 Game Over                        0:02   -
+19 Prehistoric Isle (Title,
+   With Voice)                      0:17   -
+
+Total Length                        9:40  15:16
+
+
+Notes:
+Track Names are used in Gensitou OST.
+
+
+This pack was made using MAME0148 VGM mod.
+
+
+Size reduction:
+1. vgm_sro: 1.04 MB -> 832 KB (78.1 %)
+2. vgm_cmp: 832 KB -> 422 KB (50.7 %)
+Total: 1.04 MB -> 422 KB (39.6 %)
+
+
+Package history:
+1.00 2014-01-24 2ch-H: Initial release.
